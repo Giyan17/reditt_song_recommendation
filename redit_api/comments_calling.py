@@ -1,9 +1,12 @@
-import ast
 import json
 import praw
+import sys
 
-# File with Reddit posts (each post is a JSON object per line)
-file_path = "filter_post.txt"
+song_name = sys.argv[1]
+
+# Input and output file paths
+input_file_path = f"./filtered_posts_for_{song_name}.json"
+output_file_path = f"comments_data_from_reditt_{song_name}.json"
 
 # Initialize Reddit API client
 reddit = praw.Reddit(
@@ -24,44 +27,32 @@ def fetch_comments_from_url(url):
             "body": comment.body,
             "score": comment.score,
             "created_utc": comment.created_utc,
-            "parent_id": comment.parent_id
+            "parent_id": comment.parent_id,
+            "post_url": url
         } for comment in comments]
     except Exception as e:
         print(f"❌ Error fetching comments for URL: {url}\n{e}")
         return []
 
-# Read posts and process each one
-with open(file_path, "r") as file:
-    buffer = ""
-    for line in file:
-        line = line.strip()
-        if line.startswith("{") and buffer:
-            # Process the last buffered JSON block
-            try:
-                post = json.loads(buffer)
-                url = post.get("url")
-                if url:
-                    print(f"\n📥 Fetching comments for post: {url}")
-                    comments = fetch_comments_from_url(url)
-                    print(f"🗨️  {len(comments)} comments fetched.")
-                    for comment in comments:
-                        print(json.dumps(comment, indent=2))
-            except Exception as e:
-                print(f"⚠️  Failed to parse or fetch comments: {e}")
-            buffer = line  # start new JSON object
-        else:
-            buffer += line
-
-    # Don't forget the last object
-    if buffer:
-        try:
-            post = json.loads(buffer)
+# Load posts and fetch comments
+all_comments = []
+try:
+    with open(input_file_path, "r") as infile:
+        posts = json.load(infile)
+        for post in posts:
             url = post.get("url")
             if url:
                 print(f"\n📥 Fetching comments for post: {url}")
                 comments = fetch_comments_from_url(url)
                 print(f"🗨️  {len(comments)} comments fetched.")
-                for comment in comments:
-                    print(json.dumps(comment, indent=2))
-        except Exception as e:
-            print(f"⚠️  Failed to parse or fetch comments: {e}")
+                all_comments.extend(comments)
+except Exception as e:
+    print(f"⚠️  Failed to read or process input file: {e}")
+
+# Write all comments to output file
+try:
+    with open(output_file_path, "w") as outfile:
+        json.dump(all_comments, outfile, indent=2)
+    print(f"\n✅ All comments saved to: {output_file_path}")
+except Exception as e:
+    print(f"❌ Failed to write comments to file: {e}")
