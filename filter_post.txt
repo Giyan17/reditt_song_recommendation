@@ -1,0 +1,174 @@
+Enter the song name to match posts against: 
+ Posts similar to 'tum hi ho':
+
+{
+  "title": "It's almost like the one song was intentionally made similar to the other \ud83d\ude31\ud83d\ude31",
+  "subreddit": "Ultrakill",
+  "url": "https://v.redd.it/yvss3zjxrvod1",
+  "score": 1890,
+  "author": "Ralonset",
+  "created_utc": 1726365828.0,
+  "selftext": ""
+}
+{
+  "title": "Any song recommendations that have similar vibe like these songs.",
+  "subreddit": "BollywoodMusic",
+  "url": "https://www.reddit.com/gallery/1lrb4wq",
+  "score": 84,
+  "author": "ComfortableEar9637",
+  "created_utc": 1751608096.0,
+  "selftext": "Also suggest songs that aren\u2019t mainstream or popular enough but surely deserves a listen"
+}
+{
+  "title": "Xhud gaye guru(proposal gone wrong)",
+  "subreddit": "TeenIndia",
+  "url": "https://i.redd.it/gc5pm5ygwp7f1.png",
+  "score": 1225,
+  "author": "West_Ideal_1569",
+  "created_utc": 1750266350.0,
+  "selftext": "I don't know what to I not even sad, coz I kind of knew it's gonna happen, just played my shot, came here to just share what has happened (I really loved her )"
+}
+{
+  "title": "Similar Songs with the same vibe like this one?",
+  "subreddit": "BollywoodMusic",
+  "url": "https://v.redd.it/otsq8llrq4ee1",
+  "score": 198,
+  "author": "Unusual-Quiet-1001",
+  "created_utc": 1737370594.0,
+  "selftext": "I'm obsessed with this song!! Can anyone recommend a Bollywood track that captures a similar vibe?"
+}
+{
+  "title": "Can yall rec me some songs with similar sound like these songs",
+  "subreddit": "fakemink",
+  "url": "https://i.redd.it/r982nordfq8f1.png",
+  "score": 23,
+  "author": "Hopeful_Screen_928",
+  "created_utc": 1750708624.0,
+  "selftext": ""
+}
+{
+  "title": "Tum hi ho ~ cover",
+  "subreddit": "Chandigarh",
+  "url": "https://v.redd.it/8gzvkw5uj8ve1",
+  "score": 103,
+  "author": "notthatdaisy",
+  "created_utc": 1744826126.0,
+  "selftext": "Forgot to post this cover in this subreddit. Some of you might've seen it already. Those who haven't, here it is! \nI hope y'all like it. Don't forget to let your loved ones known that you love them <3"
+}
+{
+  "title": "Can anyone recommend similar songs like this one please?",
+  "subreddit": "MetalForTheMasses",
+  "url": "https://v.redd.it/bvuosf1t3w9f1",
+  "score": 11,
+  "author": "No-Atmosphere-6270",
+  "created_utc": 1751213238.0,
+  "selftext": ""
+}
+{
+  "title": "(18f) agar tum saath ho song coverr",
+  "subreddit": "BetterTeenIndia",
+  "url": "https://v.redd.it/vyi57bguwvze1",
+  "score": 32,
+  "author": "_wrecksquisite_",
+  "created_utc": 1746852355.0,
+  "selftext": "hope you enjoy <3"
+}
+{
+  "title": "Does he have any similar songs like this one?",
+  "subreddit": "Drizzy",
+  "url": "https://i.redd.it/hq4ie0ldx6kc1.png",
+  "score": 261,
+  "author": "grubbiernelsonb84",
+  "created_utc": 1708631087.0,
+  "selftext": ""
+}
+{
+  "title": "Tum Hi Ho Bandhu Song by Kavita Seth",
+  "subreddit": "BollywoodMusic",
+  "url": "https://v.redd.it/tx2u47m3mmuc1",
+  "score": 664,
+  "author": "solenoidic",
+  "created_utc": 1713179461.0,
+  "selftext": "\n"
+}
+{
+  "title": "When legends unite - Kumar Sanu sings Tum Hi Ho with Shreya Ghoshal, Vishal, and Mithoon on Indian Idol!",
+  "subreddit": "BollywoodMusic",
+  "url": "https://v.redd.it/a4ioh2uhjhke1",
+  "score": 261,
+  "author": "Gracious_Heart_",
+  "created_utc": 1740140655.0,
+  "selftext": ""
+}
+{
+  "title": "Are there any similar songs like this one?",
+  "subreddit": "MacMiller",
+  "url": "https://i.redd.it/bbdmuwl3nk2f1.png",
+  "score": 31,
+  "author": "accurate214",
+  "created_utc": 1748023424.0,
+  "selftext": "I really fell in love with the piano"
+}
+{
+  "title": "hi im looking for OLD songs like - mizhioram from manjil virinja pookal",
+  "subreddit": "Coconaad",
+  "url": "https://www.reddit.com/r/Coconaad/comments/1jpoc5a/hi_im_looking_for_old_songs_like_mizhioram_from/",
+  "score": 6,
+  "author": "noothisismyname4ever",
+  "created_utc": 1743599876.0,
+  "selftext": "If you know any beautiful thani naadan old melody songs that tug at the heartstrings, I would truly appreciate your recommendations. I'm in the mood for some music that evokes deep emotions. Thank you"
+}
+{
+  "title": "Looking for songs that build up slowly and end in a powerful climax",
+  "subreddit": "MusicRecommendations",
+  "url": "https://www.reddit.com/r/MusicRecommendations/comments/1l0phg7/looking_for_songs_that_build_up_slowly_and_end_in/",
+  "score": 301,
+  "author": "Zouzouny",
+  "created_utc": 1748785956.0,
+  "selftext": "Hi everyone!\n\nI really enjoy songs that take their time to build an atmosphere, when each instrument gradually comes in, gets its own space to shine, and everything eventually culminates in a powerful"
+}
+{
+  "title": "Tum se Hi by Mohit Chauhan is one of the most Beautiful love songs !!",
+  "subreddit": "BollywoodMusic",
+  "url": "https://v.redd.it/72iz5ypyoz7e1",
+  "score": 361,
+  "author": "Your_Friendly_Panda",
+  "created_utc": 1734694368.0,
+  "selftext": ""
+}
+{
+  "title": "Not the biggest peep fan but i reheard this song for the first time in like 4-5 years and im addicted, any songs similar to this one?",
+  "subreddit": "LilPeep",
+  "url": "https://i.redd.it/2000dlj21dcc1.jpeg",
+  "score": 240,
+  "author": "OutlierCaliber",
+  "created_utc": 1705218157.0,
+  "selftext": ""
+}
+{
+  "title": "Tum hi ho",
+  "subreddit": "MusicForBondhas",
+  "url": "https://v.redd.it/n4vaxii7hy2f1",
+  "score": 20,
+  "author": "patrick_brokeman",
+  "created_utc": 1748190940.0,
+  "selftext": "Approval ichhina mana u/beautiful_truth7811 gaariki \ud83e\udef6\n\nVini bhayapadakapothe, Ela undho cheppandi bondhas\ud83d\ude42\u200d\u2195\ufe0f\n\n"
+}
+{
+  "title": "i like hi-c melodic songs better",
+  "subreddit": "ReptilianClubBoyz",
+  "url": "https://www.reddit.com/gallery/1bsejle",
+  "score": 168,
+  "author": "slayworldK",
+  "created_utc": 1711902716.0,
+  "selftext": "i haven\u2019t been listening to hi-c for that long and i fw his music but his more melodic singing type songs is his best work in my opinion can yall pmo more songs like these?"
+}
+{
+  "title": "\"Gumnaam hai koi..\" is a melodious song that reminds us that there's beauty hidden in the unknown mysteries of life! Can you suggest other similar songs like this..?",
+  "subreddit": "BollywoodMusic",
+  "url": "https://v.redd.it/bit0ilzuec6e1",
+  "score": 110,
+  "author": "Gracious_Heart_",
+  "created_utc": 1733976662.0,
+  "selftext": ""
+}

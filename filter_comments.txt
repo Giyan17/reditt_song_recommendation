@@ -1,0 +1,5176 @@
+⚠️  Failed to parse or fetch comments: Expecting value: line 1 column 1 (char 0)
+
+📥 Fetching comments for post: https://v.redd.it/yvss3zjxrvod1
+❌ Error fetching comments for URL: https://v.redd.it/yvss3zjxrvod1
+received 404 HTTP response
+🗨️  0 comments fetched.
+
+📥 Fetching comments for post: https://www.reddit.com/gallery/1lrb4wq
+🗨️  63 comments fetched.
+{
+  "id": "n19esze",
+  "author": "shubham_op",
+  "body": "Dil kyun ye mera shor kare",
+  "score": 12,
+  "created_utc": 1751608635.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19hc6l",
+  "author": "None",
+  "body": "Your playlist almost matches mine haha\n\n\nYe Fitoor mera,\u00a0\nManmarziyan from Lootera,\nMehrama,\nMonta re,\nTu hi mera,\nKhuda Jaane ke,\nTeri Jhuki Nazar,\n\n\nJaan Nisaar,\nHey Shona",
+  "score": 9,
+  "created_utc": 1751609936.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19nec0",
+  "author": "thatsfalak",
+  "body": "Ishq mubarak",
+  "score": 6,
+  "created_utc": 1751613158.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19i0q7",
+  "author": "Traditional-Link-797",
+  "body": "Khabar nahi - Dostana, Dil duffer - Gori tere pyaar mein, yeh fitoor mera - fitoor,",
+  "score": 4,
+  "created_utc": 1751610292.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19e529",
+  "author": "cheesewcake",
+  "body": "tere liye from fitoor",
+  "score": 3,
+  "created_utc": 1751608303.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19gyie",
+  "author": "Miyuki_Shirogane_1",
+  "body": "I love you from bodyguard\n\nPee loon by Mohit Chauhan",
+  "score": 3,
+  "created_utc": 1751609737.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19jvom",
+  "author": "Ok_Butterscotch9013",
+  "body": "Na tum jaane na hum\n\nBaatein kuch ankahee\n\nTere Naina\n\nMere Bina from Crook\n\nTu hi mera\n\nIshaqzaade\n\nIs this love",
+  "score": 3,
+  "created_utc": 1751611274.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19fzpt",
+  "author": "Fantastic_Garlic_227",
+  "body": "Dil Kyu Ye Mera Shor Kare",
+  "score": 2,
+  "created_utc": 1751609237.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19hs8u",
+  "author": "Oicuntmate1",
+  "body": "https://open.spotify.com/playlist/1xfvDCPjfFHp9sQ9xholSu?si=2LKZE9M_SRO5D-_Kk9elww\n\nCheck my playlist you'll find all these type of relatable hindi songs",
+  "score": 2,
+  "created_utc": 1751610168.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19iot7",
+  "author": "sakshamb78",
+  "body": "Tere hawale - Lal singh chadha",
+  "score": 2,
+  "created_utc": 1751610643.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19lc0v",
+  "author": "10v135",
+  "body": "Tu na jaane aas paas hai khuda\nTujhe bhula diya",
+  "score": 2,
+  "created_utc": 1751612039.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19stn2",
+  "author": "seasawlty",
+  "body": "Dil Gira Dafatan from Delhi 6",
+  "score": 2,
+  "created_utc": 1751616219.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19j6xm",
+  "author": "ayantic",
+  "body": "Gul By Anuv Jain",
+  "score": 2,
+  "created_utc": 1751610909.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19fgtb",
+  "author": "pratyushsinghh",
+  "body": "Tose naina lage piya sawre\n\nHawa bnke\n\nPal by arijit Singh \n\nMaine dil se kaha",
+  "score": 1,
+  "created_utc": 1751608968.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19fvnu",
+  "author": "pikachu_jiggly_7609",
+  "body": "Pal pal dil ke paas new",
+  "score": 1,
+  "created_utc": 1751609178.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19hqg0",
+  "author": "Anomemous_",
+  "body": "Dhak Dhuk, English Vinglish\nChaandaniya, 2 States\nLaakh Duniya Kahe, Talaash",
+  "score": 1,
+  "created_utc": 1751610142.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19iexj",
+  "author": "thevibescorner",
+  "body": "Aaj Kal Zindagi",
+  "score": 1,
+  "created_utc": 1751610496.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19imd0",
+  "author": "sakshamb78",
+  "body": "Tu hai to - Mr and Mrs Mahi",
+  "score": 1,
+  "created_utc": 1751610607.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19jfjp",
+  "author": "FluffyPumpkin3235",
+  "body": "Ho na from kaun kitne paani main\ud83e\ude77",
+  "score": 1,
+  "created_utc": 1751611036.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19jlos",
+  "author": "Disastrous-Owl-6044",
+  "body": "@OP do add songs recommend here in playlist and the do share a link. I liked those songs. Kinda my kind of.",
+  "score": 1,
+  "created_utc": 1751611127.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19kilx",
+  "author": "ChempakLal",
+  "body": "https://music.apple.com/in/playlist/sad-nah/pl.u-qxylEN5u3Av1eVB?ls\n\nHere, have my playlist.",
+  "score": 1,
+  "created_utc": 1751611608.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19ln1g",
+  "author": "Smart_Wealth_",
+  "body": "https://preview.redd.it/fnj87ged2taf1.png?width=1080&format=png&auto=webp&s=453728b5bcf35c6d01e643927020ee52029fd2d1",
+  "score": 1,
+  "created_utc": 1751612201.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19nm6p",
+  "author": "thatsfalak",
+  "body": "Send link of this playlist i love all these songs",
+  "score": 1,
+  "created_utc": 1751613278.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19nw3w",
+  "author": "Critical-Border-758",
+  "body": "Nazar laaye from Ranjhana, Kahin Toh from Jaane Tu ya jaane na",
+  "score": 1,
+  "created_utc": 1751613432.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19owl1",
+  "author": "MelodicChampion5736",
+  "body": "Ye raat",
+  "score": 1,
+  "created_utc": 1751613998.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19p8ld",
+  "author": "RefrigeratorBig8674",
+  "body": "https://open.spotify.com/playlist/26PVy0D3jzDzZ0rj7Z7Db8?pi=zJElHWZHSYC34\n\nYou can find It here",
+  "score": 1,
+  "created_utc": 1751614187.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19p8xj",
+  "author": "goluguy6",
+  "body": "Chori kiya re jiya re\nTere mast mast do nain\nTere naina \nTere naina mar hi dalenge",
+  "score": 1,
+  "created_utc": 1751614192.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19pee6",
+  "author": "lezzbefrenz",
+  "body": "Saahiba\nDum Dum both from Phillauri\n\nIk Tu Hi Tu Hi from Mausam\n\nMaana ke Hum Yaar Nahi from Bindu\n\nChugliyaan OUATIM2",
+  "score": 1,
+  "created_utc": 1751614279.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19pro3",
+  "author": "None",
+  "body": "Laal Ishq from Ram Leela\n\n\nTere bin from Wazir\n\n\nAaj ibaadat from Bajirao mastani",
+  "score": 1,
+  "created_utc": 1751614491.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19s8kk",
+  "author": "Uxie_mesprit",
+  "body": "Saware from Phantom and Darkhaast from Shivaay",
+  "score": 1,
+  "created_utc": 1751615895.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19tcpn",
+  "author": "Immediate_Row7804",
+  "body": "dillagi",
+  "score": 1,
+  "created_utc": 1751616521.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19uk8a",
+  "author": "Suppydoopy69",
+  "body": "Be Intehaan by atif aslam",
+  "score": 1,
+  "created_utc": 1751617212.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19woc5",
+  "author": "Adorable_Serve9214",
+  "body": "Mausam has phir le aya dil vibes",
+  "score": 1,
+  "created_utc": 1751618437.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19ynvu",
+  "author": "sastenashe420",
+  "body": "Kalank title track",
+  "score": 1,
+  "created_utc": 1751619581.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19zuq8",
+  "author": "DangerBoy1707",
+  "body": "Allah Waariyan",
+  "score": 1,
+  "created_utc": 1751620278.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n1a1c5l",
+  "author": "Substantial_Eye8092",
+  "body": "Tum se hi \n\nDeewana kar rha hai",
+  "score": 1,
+  "created_utc": 1751621141.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n1a2bw0",
+  "author": "Independentgene1508",
+  "body": "Manmarziyan by shilpa rao and amit Trivedi",
+  "score": 1,
+  "created_utc": 1751621722.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n1a2lwm",
+  "author": "rumali_rotiwala",
+  "body": "Give a listen to dil ke liye by javed ali, it's so underrated fr",
+  "score": 1,
+  "created_utc": 1751621884.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n1a30kz",
+  "author": "Adventurous_Fly007",
+  "body": "Madno - Lamhaa",
+  "score": 1,
+  "created_utc": 1751622116.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n1aa7iw",
+  "author": "just_fluting09",
+  "body": "Have you heard \n....hum bhi tanha the tum bhi tanha the ...( 1920 evil returns) \ud83d\udc85\ud83e\udde1",
+  "score": 1,
+  "created_utc": 1751625984.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n1ae8cf",
+  "author": "morphinemommy",
+  "body": "Javeda Zindagi :))",
+  "score": 1,
+  "created_utc": 1751627911.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n1ajk55",
+  "author": "Over_Thinker_Arc",
+  "body": "Jugrafiya",
+  "score": 1,
+  "created_utc": 1751630282.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n1amznc",
+  "author": "blunt_edges",
+  "body": "In Dino from Life in a Metro.",
+  "score": 1,
+  "created_utc": 1751631704.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n1auk8k",
+  "author": "SpiritedCookie9000",
+  "body": "Hey Shona hey Shona from Tara rum pum \nKabhi Alvida na kehna title track\nTumhi dekho na yeh kya ho gaya - KANK \n\nDekho na dekho na- Fanaa\nMere haath mein Tera haath ho- Fanaa",
+  "score": 1,
+  "created_utc": 1751634568.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n1axlkj",
+  "author": "Individual_Cress_19",
+  "body": "Pal -Monsoon shootout\n\nTu aashiqui hai mere jeene- Jhankaar beats",
+  "score": 1,
+  "created_utc": 1751635657.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n1bcq9a",
+  "author": "General-Key5184",
+  "body": "Tere hawale - LSC",
+  "score": 1,
+  "created_utc": 1751640559.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n1c1f35",
+  "author": "Forsaken_Toe6826",
+  "body": "Sawali si raat- Barfi super underrated but \ud83e\udd79\ud83e\udd0c\nTum se hi, aoge hab tum - jab we met",
+  "score": 1,
+  "created_utc": 1751648022.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n19hlv1",
+  "author": "Oicuntmate1",
+  "body": "Ay hairathe aashiqi\nTere bina ar rahaman both",
+  "score": 1,
+  "created_utc": 1751610076.0,
+  "parent_id": "t3_1lrb4wq"
+}
+{
+  "id": "n1b4xeo",
+  "author": "ankiimonkii",
+  "body": "Also, zindagi do pal ki",
+  "score": 2,
+  "created_utc": 1751638122.0,
+  "parent_id": "t1_n19esze"
+}
+{
+  "id": "n1azr7t",
+  "author": "Mrsniper07_22",
+  "body": "Kya karoon - Wake up Sid \nWhat a vibe",
+  "score": 2,
+  "created_utc": 1751636411.0,
+  "parent_id": "t1_n19hc6l"
+}
+{
+  "id": "n19famy",
+  "author": "ComfortableEar9637",
+  "body": "Great first listen, W recommendation cheesecake bro",
+  "score": 1,
+  "created_utc": 1751608880.0,
+  "parent_id": "t1_n19e529"
+}
+{
+  "id": "n19shiy",
+  "author": "Mysterious-Poem73",
+  "body": "Came here to comment this one\ud83e\udd0c\ud83c\udffb",
+  "score": 1,
+  "created_utc": 1751616032.0,
+  "parent_id": "t1_n19fvnu"
+}
+{
+  "id": "n19n910",
+  "author": "ComfortableEar9637",
+  "body": "https://open.spotify.com/playlist/5ElS55K66nlw1Q1ElYh6aQ?si=SyDfDyaPRwq18_-FGwVh-A&pi=OFLzztVGRsmkA",
+  "score": 2,
+  "created_utc": 1751613076.0,
+  "parent_id": "t1_n19jlos"
+}
+{
+  "id": "n19na0i",
+  "author": "ComfortableEar9637",
+  "body": "Got you bro \ud83d\ude03\ud83d\udc4d\ud83c\udffb",
+  "score": 2,
+  "created_utc": 1751613091.0,
+  "parent_id": "t1_n19jlos"
+}
+{
+  "id": "n19oey1",
+  "author": "ComfortableEar9637",
+  "body": "https://open.spotify.com/playlist/5ElS55K66nlw1Q1ElYh6aQ?si=sfuGXgjOTs2ub7yDS28XWQ&pi=yHSSeMaWQp6Z9",
+  "score": 1,
+  "created_utc": 1751613725.0,
+  "parent_id": "t1_n19nm6p"
+}
+{
+  "id": "n19op2s",
+  "author": "ComfortableEar9637",
+  "body": "Nazar laaye can make anyone float for 3 minutes lol. Always have been a great song",
+  "score": 2,
+  "created_utc": 1751613881.0,
+  "parent_id": "t1_n19nw3w"
+}
+{
+  "id": "n1auuvc",
+  "author": "ComfortableEar9637",
+  "body": "Lol tara rum pum is my f1 movie. \ud83d\ude2d",
+  "score": 2,
+  "created_utc": 1751634676.0,
+  "parent_id": "t1_n1auk8k"
+}
+{
+  "id": "n19myrp",
+  "author": "ComfortableEar9637",
+  "body": "Great track man. W recommendation",
+  "score": 2,
+  "created_utc": 1751612921.0,
+  "parent_id": "t1_n19hlv1"
+}
+{
+  "id": "n1bi4n5",
+  "author": "shubham_op",
+  "body": "Yes",
+  "score": 1,
+  "created_utc": 1751642186.0,
+  "parent_id": "t1_n1b4xeo"
+}
+{
+  "id": "n19nnlf",
+  "author": "Disastrous-Owl-6044",
+  "body": "Thanks \ud83d\ude0a",
+  "score": 1,
+  "created_utc": 1751613299.0,
+  "parent_id": "t1_n19na0i"
+}
+{
+  "id": "n19ofmo",
+  "author": "ComfortableEar9637",
+  "body": "Here you go my bro \ud83d\ude03\ud83d\udc4d\ud83c\udffb",
+  "score": 2,
+  "created_utc": 1751613736.0,
+  "parent_id": "t1_n19oey1"
+}
+{
+  "id": "n1av0ig",
+  "author": "SpiritedCookie9000",
+  "body": "This movie has some banger songs! And yeah the F1 theme \ud83d\ude42",
+  "score": 1,
+  "created_utc": 1751634733.0,
+  "parent_id": "t1_n1auuvc"
+}
+{
+  "id": "n1av7hi",
+  "author": "ComfortableEar9637",
+  "body": "Saif >>>> brad pitt \ud83d\ude2d",
+  "score": 2,
+  "created_utc": 1751634803.0,
+  "parent_id": "t1_n1av0ig"
+}
+
+📥 Fetching comments for post: https://i.redd.it/gc5pm5ygwp7f1.png
+❌ Error fetching comments for URL: https://i.redd.it/gc5pm5ygwp7f1.png
+Invalid URL: https://i.redd.it/gc5pm5ygwp7f1.png
+🗨️  0 comments fetched.
+
+📥 Fetching comments for post: https://v.redd.it/otsq8llrq4ee1
+❌ Error fetching comments for URL: https://v.redd.it/otsq8llrq4ee1
+received 404 HTTP response
+🗨️  0 comments fetched.
+
+📥 Fetching comments for post: https://i.redd.it/r982nordfq8f1.png
+❌ Error fetching comments for URL: https://i.redd.it/r982nordfq8f1.png
+Invalid URL: https://i.redd.it/r982nordfq8f1.png
+🗨️  0 comments fetched.
+
+📥 Fetching comments for post: https://v.redd.it/8gzvkw5uj8ve1
+❌ Error fetching comments for URL: https://v.redd.it/8gzvkw5uj8ve1
+received 404 HTTP response
+🗨️  0 comments fetched.
+
+📥 Fetching comments for post: https://v.redd.it/bvuosf1t3w9f1
+❌ Error fetching comments for URL: https://v.redd.it/bvuosf1t3w9f1
+received 404 HTTP response
+🗨️  0 comments fetched.
+
+📥 Fetching comments for post: https://v.redd.it/vyi57bguwvze1
+❌ Error fetching comments for URL: https://v.redd.it/vyi57bguwvze1
+received 404 HTTP response
+🗨️  0 comments fetched.
+
+📥 Fetching comments for post: https://i.redd.it/hq4ie0ldx6kc1.png
+❌ Error fetching comments for URL: https://i.redd.it/hq4ie0ldx6kc1.png
+Invalid URL: https://i.redd.it/hq4ie0ldx6kc1.png
+🗨️  0 comments fetched.
+
+📥 Fetching comments for post: https://v.redd.it/tx2u47m3mmuc1
+❌ Error fetching comments for URL: https://v.redd.it/tx2u47m3mmuc1
+received 404 HTTP response
+🗨️  0 comments fetched.
+
+📥 Fetching comments for post: https://v.redd.it/a4ioh2uhjhke1
+❌ Error fetching comments for URL: https://v.redd.it/a4ioh2uhjhke1
+received 404 HTTP response
+🗨️  0 comments fetched.
+
+📥 Fetching comments for post: https://i.redd.it/bbdmuwl3nk2f1.png
+❌ Error fetching comments for URL: https://i.redd.it/bbdmuwl3nk2f1.png
+Invalid URL: https://i.redd.it/bbdmuwl3nk2f1.png
+🗨️  0 comments fetched.
+
+📥 Fetching comments for post: https://www.reddit.com/r/Coconaad/comments/1jpoc5a/hi_im_looking_for_old_songs_like_mizhioram_from/
+🗨️  32 comments fetched.
+{
+  "id": "ml0pqkc",
+  "author": "bytes_sized_soul",
+  "body": "https://preview.redd.it/4z6ld59uafse1.jpeg?width=686&format=pjpg&auto=webp&s=8ac9c92227164473245c4c629472758738ba429d",
+  "score": 3,
+  "created_utc": 1743600295.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml1h3dw",
+  "author": "None",
+  "body": "https://preview.redd.it/9as1muei0gse1.jpeg?width=720&format=pjpg&auto=webp&s=c349914b7d6f6536fb6be228c8e94046187c2d39",
+  "score": 3,
+  "created_utc": 1743608920.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml0v8l4",
+  "author": "gimmeesometea",
+  "body": "[Etho janma kalpanayil](https://youtu.be/hALU7lBeZSA?si=ECnZgD6JXglOjAQA)",
+  "score": 3,
+  "created_utc": 1743602255.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml0u19h",
+  "author": "whatthengaisthis",
+  "body": "Jerry Amaldev composed that, try looking for more of his work.\n\nI love the following (not all are Amaldev sir\u2019s) : aayiram kannumaayi, ni en sarga soundaryame, Poongattinodum, kaathil thenmazhayaayi, anuragini, chandrakalabham, chandanacholayil, manju pole, vennilakombile, muttathethum, chaithra nilavinte, marannittumenthino, paathirapullunarnnu, raathinkal poothali, devakanyaka, etra neramaayi Njn, oru rathri koodi, Pinnilavin poo vidarnu among others. \n\nI hope this helps \u263a\ufe0f\u2728",
+  "score": 5,
+  "created_utc": 1743601848.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml0vheb",
+  "author": "None",
+  "body": "Swarna chaamaram veeshi nilkunna swapnamaayirunnenkil njan",
+  "score": 2,
+  "created_utc": 1743602336.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml0x8y3",
+  "author": "RamboChakkochan",
+  "body": "[Oru Dalam](https://youtu.be/Drb46BKPRiQ?feature=shared) from Jaalakam (1987)",
+  "score": 2,
+  "created_utc": 1743602908.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml1sii2",
+  "author": "Sea-Wrap5883",
+  "body": "https://preview.redd.it/nlvvol5nagse1.jpeg?width=1284&format=pjpg&auto=webp&s=ff820400ff652e7c11d304ecdd6c45914648cbc9",
+  "score": 2,
+  "created_utc": 1743612327.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml0ulez",
+  "author": "ormayillaman",
+  "body": "Rajeevam vidarum nin mizhikal\n\nOrmathan vaasantha nandanathoppil",
+  "score": 1,
+  "created_utc": 1743602034.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml0wi7x",
+  "author": "HmmSheriOkay",
+  "body": "https://preview.redd.it/wo9agsnxhfse1.png?width=1080&format=png&auto=webp&s=64ec49830bfd2bb5548daef6617a0d919b75d24a",
+  "score": 1,
+  "created_utc": 1743602674.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml0ynzq",
+  "author": "Crespo_98",
+  "body": "Vezhambal kezhum",
+  "score": 1,
+  "created_utc": 1743603351.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml103v6",
+  "author": "Heyhariii",
+  "body": "https://preview.redd.it/s2p8wdo9lfse1.jpeg?width=1080&format=pjpg&auto=webp&s=c7fd43aa6dee8396a7595605a5a8c412169075c1",
+  "score": 1,
+  "created_utc": 1743603794.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml17h24",
+  "author": "ThekkuVadakku",
+  "body": "Poovalla poothaliralla - https://youtu.be/c9wO0xUiBoY?si=ML19TBuycw9Fhbt-",
+  "score": 1,
+  "created_utc": 1743606022.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml1c53j",
+  "author": "filmaltego",
+  "body": "Song- Etho Vaarmukilin | Film- Pookkalam Varavayi",
+  "score": 1,
+  "created_utc": 1743607440.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml1ju8j",
+  "author": "None",
+  "body": "Its not an old song but lately been obsessed with this track from Agnisakshi\n\nKannathali muttathe poothumbi kunjathole\n\nhttps://youtu.be/w2WUa5tCh5o?si=48GiBeYOo6_0IbzS",
+  "score": 1,
+  "created_utc": 1743609734.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml1kqgs",
+  "author": "ChillGuyCharlie",
+  "body": "OP can you make a playlist out of the finds and post it here?",
+  "score": 1,
+  "created_utc": 1743610008.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml1m2ws",
+  "author": "Raven1104",
+  "body": "Melle Melle Mukhapadam (Job Kurian cover) - https://youtu.be/YNiUoHRfanA?feature=shared \n(long story, reminds me of someone that was dear to me)\n\nAthmavidyalayame - https://youtu.be/V0OdDzDjNyM?feature=shared\n(when you realise that you are a mere mortal)\n\nMounathin from Bhramarakshas - https://youtu.be/hPcBuk9Hb4Q?feature=shared\n(an outlet for intimate love)",
+  "score": 1,
+  "created_utc": 1743610417.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml1ssi1",
+  "author": "Chenghayi",
+  "body": "[Neermizhi Peeliyil](https://open.spotify.com/track/1OVnGWXNkiCDNjeh6PY22g?si=SoIicdhqRwSU-ofFQV2K1g)",
+  "score": 1,
+  "created_utc": 1743612407.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml1v8g6",
+  "author": "optimus_frymes",
+  "body": "Yamune nee ozhuku\n\nGhanashyama sandhya hridayam\n\nAriyaathe ariyaathe ennile ennil nee\n\nPaaduvaanayi vannu ninte padivaathilkkal\n\nAlliyilam Poovo\n\nOrmakal Odikallikkuvaan\n\nPoovine kandu Njan chodichu",
+  "score": 1,
+  "created_utc": 1743613110.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml2j0im",
+  "author": "ClientLogical8932",
+  "body": "1.Tharum thalirum(chilambu)\n2. Theeram thedum(vandanam)\n3.chandrakaantham kondu(padheyam)\n4.Neeraduvan ( nakhashethangal)\n5. Aathmavil muttiviliathu pole(aaranyakam)\n6.Ponpularoli(ithiri poove chuvanna poove)\n8. Melle Melle ( oru minnaminunginte nurunguvettam)\n9. Kandu njan mizhikalil( abhimanyu)\n10. Manasa nilayil ( dwani)\n11. Chandana manivaathil",
+  "score": 1,
+  "created_utc": 1743619914.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml33ylg",
+  "author": "minnaaminung",
+  "body": "Kalpaanthakaalatholam",
+  "score": 1,
+  "created_utc": 1743625936.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml4bquy",
+  "author": "yggdrasil___",
+  "body": "\\[\u0d2a\u0d40\u0d32\u0d3f \u0d0f\u0d34\u0d41\u0d02 \u0d35\u0d40\u0d36\u0d3f \u0d35\u0d3e\\] ([https://youtu.be/mza1BW\\_Gz7w](https://youtu.be/mza1BW_Gz7w))\n\nhttps://preview.redd.it/waarsfijkise1.png?width=1080&format=png&auto=webp&s=44b826fca8187e906018789dd06906c27503ccea",
+  "score": 1,
+  "created_utc": 1743639868.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml12a4p",
+  "author": "stan4me",
+  "body": "https://preview.redd.it/eygcwn43nfse1.jpeg?width=1125&format=pjpg&auto=webp&s=adbd2c52322816f261d128013f9f9706cb64ca17\n\nSleeping pills have side effects this one doesn\u2019t \ud83d\ude34",
+  "score": 0,
+  "created_utc": 1743604460.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml25pj7",
+  "author": "Ok_Adhesiveness3497",
+  "body": "Thumbi Vaa (Hip Hop mix highly recommended)\n\nPoonkattinodum Kilikalodum kadhakal \n\nAnuragini \n\nOru Pushpam Mathramen \n\nMoovanthi thaazhvarayil \n\n\ud83d\udc8e\ud83d\udc8e\ud83d\udc8e",
+  "score": 0,
+  "created_utc": 1743616056.0,
+  "parent_id": "t3_1jpoc5a"
+}
+{
+  "id": "ml28ixb",
+  "author": "noothisismyname4ever",
+  "body": "classic!!!",
+  "score": 1,
+  "created_utc": 1743616841.0,
+  "parent_id": "t1_ml0pqkc"
+}
+{
+  "id": "ml28gom",
+  "author": "noothisismyname4ever",
+  "body": "THANK YOU SO MUCH OMG YOU DON'T UNDERSTAND I FEEL LIKE A CHANGED PERSON",
+  "score": 2,
+  "created_utc": 1743616823.0,
+  "parent_id": "t1_ml0u19h"
+}
+{
+  "id": "ml277xx",
+  "author": "noothisismyname4ever",
+  "body": "I'll try!",
+  "score": 1,
+  "created_utc": 1743616476.0,
+  "parent_id": "t1_ml1kqgs"
+}
+{
+  "id": "ml15gsg",
+  "author": "noothisismyname4ever",
+  "body": "omg my appa used to play this to me!!! And kannanu enthinu ithra karuppu niram - I can't find it on Spotify though \ud83d\udc94",
+  "score": 2,
+  "created_utc": 1743605420.0,
+  "parent_id": "t1_ml12a4p"
+}
+{
+  "id": "ml34i8v",
+  "author": "whatthengaisthis",
+  "body": "no worries, I am a pazhaya song enthusiast \u263a\ufe0f",
+  "score": 1,
+  "created_utc": 1743626090.0,
+  "parent_id": "t1_ml28gom"
+}
+{
+  "id": "ml1k5ug",
+  "author": "stan4me",
+  "body": "[Unnikale oru](https://open.spotify.com/track/2gJj2bM3ZlyGVfh4t2XTks?si=iOV8ARHgRwuKMfzdejH2Aw&context=spotify%3Aalbum%3A6fhTx04tIq28T4mYVZZjkY)\n\n[Enthe kannanu](https://open.spotify.com/track/6NstrrekYzxliruKKXLci0?si=XXSdQyNuQo2H-ZmaUH3PHw&context=spotify%3Asearch%3Aenthe%2Bkann)",
+  "score": 1,
+  "created_utc": 1743609833.0,
+  "parent_id": "t1_ml15gsg"
+}
+{
+  "id": "ml27596",
+  "author": "noothisismyname4ever",
+  "body": "I can't have the enthe kannanu cause I don't think its available on Spotify where I live, quite sad about it. \nIs it available in India?",
+  "score": 1,
+  "created_utc": 1743616455.0,
+  "parent_id": "t1_ml1k5ug"
+}
+{
+  "id": "ml2jbzo",
+  "author": "stan4me",
+  "body": "yes,it\u2019s available",
+  "score": 1,
+  "created_utc": 1743620008.0,
+  "parent_id": "t1_ml27596"
+}
+{
+  "id": "ml2mcyg",
+  "author": "noothisismyname4ever",
+  "body": "gosh that's disappointing",
+  "score": 1,
+  "created_utc": 1743620907.0,
+  "parent_id": "t1_ml2jbzo"
+}
+
+📥 Fetching comments for post: https://www.reddit.com/r/MusicRecommendations/comments/1l0phg7/looking_for_songs_that_build_up_slowly_and_end_in/
+🗨️  494 comments fetched.
+{
+  "id": "mvf01dj",
+  "author": "norecordofwrong",
+  "body": "The 9th Symphony and specifically Ode to Joy.",
+  "score": 105,
+  "created_utc": 1748786684.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf3aub",
+  "author": "Itchy-on-the-inside",
+  "body": "White rabbit",
+  "score": 55,
+  "created_utc": 1748787728.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf3psb",
+  "author": "BastCity",
+  "body": "In the Air Tonight.",
+  "score": 95,
+  "created_utc": 1748787856.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf1m00",
+  "author": "theresthezinger",
+  "body": "Exit Music by Radiohead",
+  "score": 79,
+  "created_utc": 1748787196.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf066s",
+  "author": "ChipCob1",
+  "body": "LA Woman The Doors",
+  "score": 36,
+  "created_utc": 1748786728.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf0pwb",
+  "author": "swibirun",
+  "body": "Three Days from Jane's Addiction Ritual de lo Habitual album.",
+  "score": 35,
+  "created_utc": 1748786907.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mveygsk",
+  "author": "pinkdroid462",
+  "body": "Parabol/Parabola - Tool",
+  "score": 73,
+  "created_utc": 1748786161.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf07mf",
+  "author": "zenvikingwarrior",
+  "body": "Uninvited - Alanis Morissette",
+  "score": 25,
+  "created_utc": 1748786741.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvez9zf",
+  "author": "Gman7292005",
+  "body": "\"One\" Metallica",
+  "score": 50,
+  "created_utc": 1748786431.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvez4n5",
+  "author": "Outrageous-Tear-8968",
+  "body": "Freebird",
+  "score": 66,
+  "created_utc": 1748786382.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf2vum",
+  "author": "Immediate_Detail_709",
+  "body": "Try a Little Tenderness - Otis Redding (or Three Dog Night)",
+  "score": 23,
+  "created_utc": 1748787597.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfgmfr",
+  "author": "Fine_Let5219",
+  "body": "Bolero, Ravel",
+  "score": 25,
+  "created_utc": 1748791718.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfwcak",
+  "author": "ChardCool1290",
+  "body": "Marquee Moon by Television builds to an awesome musical orgasm.",
+  "score": 21,
+  "created_utc": 1748796466.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvezf7a",
+  "author": "illbebythebatphone",
+  "body": "Empire Ants - Gorillaz, one of my favorite drops of all time",
+  "score": 20,
+  "created_utc": 1748786480.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf2wkp",
+  "author": "nicksbrother",
+  "body": "A day in the life - The Beatles",
+  "score": 55,
+  "created_utc": 1748787603.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvezg2z",
+  "author": "AwwYeahVTECKickedIn",
+  "body": "Telegraph Road - Dire Straits\n\n14 minutes of slowly ramping, pure sonic BLISS. Maybe the best song ever recorded?",
+  "score": 35,
+  "created_utc": 1748786488.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf18vv",
+  "author": "Fabulous_Sun_4276",
+  "body": "The Who, Behind Blue Eyes,",
+  "score": 16,
+  "created_utc": 1748787078.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf2tdp",
+  "author": "ExcitementKooky418",
+  "body": "Sigur Ros - glosoli",
+  "score": 15,
+  "created_utc": 1748787575.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf36h9",
+  "author": "insomniaspeedmetal",
+  "body": "Godspeed You! Black Emperor",
+  "score": 14,
+  "created_utc": 1748787690.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf03e8",
+  "author": "nydub32",
+  "body": "\"Bad\", by U2. It's a perfect example of a song slowly  building up, peaking, and then slowly breaking down again.",
+  "score": 40,
+  "created_utc": 1748786702.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvez2u6",
+  "author": "CountryMacIsAlive",
+  "body": "505 - arctic monkeys",
+  "score": 13,
+  "created_utc": 1748786365.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf16kp",
+  "author": "sweat-it-all-out",
+  "body": "Sin\u00e9ad O'Connor - Troy",
+  "score": 12,
+  "created_utc": 1748787057.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf3xn8",
+  "author": "FluffHead1964",
+  "body": "Terrapin Station by the Dead.",
+  "score": 11,
+  "created_utc": 1748787926.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf7z47",
+  "author": "ccoates09",
+  "body": "Starless - King Crimson",
+  "score": 13,
+  "created_utc": 1748789133.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mveylqc",
+  "author": "gregpurcott",
+  "body": "Come Sail Away - Styx\n\nGallows Pole - Led Zeppelin",
+  "score": 23,
+  "created_utc": 1748786206.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf2xz4",
+  "author": "Head_Coyote3925",
+  "body": "Weezer only in dreams",
+  "score": 12,
+  "created_utc": 1748787616.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf5o30",
+  "author": "None",
+  "body": "Starship trooper by yes",
+  "score": 11,
+  "created_utc": 1748788465.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfdtfe",
+  "author": "socialmediaignorant",
+  "body": "November Rain by Guns n Roses",
+  "score": 12,
+  "created_utc": 1748790877.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgbphs",
+  "author": "Fbcoach18",
+  "body": "Proud Mary by Ike and Tina Turner seems to fit that genre",
+  "score": 11,
+  "created_utc": 1748800947.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf1843",
+  "author": "Ismabeard",
+  "body": "[What are you to me, by UNKLE.](https://youtu.be/lgrN2uQKq9k?si=-Ggq5y2e2swuTPrL)\n\n[Rhapsody, by Siouxsie & the Banshees](https://youtu.be/YGywAydC_cE?si=yYjQ3yGWdI30ABYs)\n\n[Pilgrim, by Fink](https://youtu.be/eRjm9dupL1k?si=OLPumgrv7TN7k6DV)\n\n[Group Four, by Massive Attack](https://youtu.be/9xTR3jgpoNo?si=2ebokM9UKLUdGyP0)\n\n[Cantara, by Dead Can Dance](https://youtu.be/ega3VepmyEo?si=Qj_S_FkKxrK5hJ2W)",
+  "score": 11,
+  "created_utc": 1748787071.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfc3ff",
+  "author": "DolemiteMF1",
+  "body": "White Rabbit",
+  "score": 11,
+  "created_utc": 1748790361.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf22vk",
+  "author": "Ironbender",
+  "body": "Under Pressure - Queen",
+  "score": 8,
+  "created_utc": 1748787344.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvez14n",
+  "author": "HavSomLov4YoBrothr",
+  "body": "Colossus by IDLES",
+  "score": 8,
+  "created_utc": 1748786349.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvezhcu",
+  "author": "Upstairs_Owl_1669",
+  "body": "[Beginnings by Chicago](https://youtu.be/lI-BMDnti4c?si=fjRlxcpaOMFC8wpM). It starts out super corny but the second half is outstanding.",
+  "score": 8,
+  "created_utc": 1748786500.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvezi30",
+  "author": "torch9t9",
+  "body": "Aja",
+  "score": 8,
+  "created_utc": 1748786507.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf04rf",
+  "author": "goldprofred",
+  "body": "\u201cIndia\u201d - Psychedelic Furs",
+  "score": 9,
+  "created_utc": 1748786715.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf0z4z",
+  "author": "Gabriel_Collins",
+  "body": "Supper\u2019s Ready- Genesis. Over 22 minutes of awesomeness.",
+  "score": 8,
+  "created_utc": 1748786991.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf1nwd",
+  "author": "FelDreamer",
+  "body": "*Motion Picture Soundtrack* - Radiohead",
+  "score": 8,
+  "created_utc": 1748787212.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf5caa",
+  "author": "United-Ad906",
+  "body": "Take a Little Piece of my Heart- Janis Joplin",
+  "score": 9,
+  "created_utc": 1748788367.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf0ptt",
+  "author": "Accurate-Long-9289",
+  "body": "Here\u2019s a few classic hard rock ones:\n\n\nHallowed Be Thy Name - Iron Maiden\n\nFreebird - Lynyrd Skynyrd\n\nStairway to Heaven - Led Zeppelin\n\nRockin\u2019 The Paradise - Styx\n\nOne -Metallica",
+  "score": 14,
+  "created_utc": 1748786906.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf1me6",
+  "author": "60sStratLover",
+  "body": "For Cryin Out Loud - Meat Loaf\n\nJungleland - Bruce Springsteen",
+  "score": 6,
+  "created_utc": 1748787199.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf9bg0",
+  "author": "PolgaraEsme",
+  "body": "Midnight in Harlem by Tedeschi Trucks Band.",
+  "score": 7,
+  "created_utc": 1748789530.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf8hdw",
+  "author": "FastCarsSlowBBQ",
+  "body": "School by Supertramp",
+  "score": 7,
+  "created_utc": 1748789282.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvga1ls",
+  "author": "DorkdoM",
+  "body": "Three Days by Janes Addiction",
+  "score": 6,
+  "created_utc": 1748800465.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgcx7i",
+  "author": "no8am",
+  "body": "Bridge over troubled water",
+  "score": 6,
+  "created_utc": 1748801301.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfbchr",
+  "author": "Persephone_darkside",
+  "body": "A Day in the Life - the Beatles",
+  "score": 5,
+  "created_utc": 1748790134.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfgqea",
+  "author": "Connect-Will2011",
+  "body": "Leopold Stokowski's orchestral arrangement of Bach's fugue in g minor.\n\nStarts with a quiet little melody on a single oboe and builds its way up to a massive sound. It's just what you're asking for!\n\n[https://www.youtube.com/watch?v=U\\_OtfBwqzCE](https://www.youtube.com/watch?v=U_OtfBwqzCE)",
+  "score": 5,
+  "created_utc": 1748791751.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg0bz0",
+  "author": "Total-Goat6792",
+  "body": "MacArthur Park sung by Richard Harris",
+  "score": 6,
+  "created_utc": 1748797646.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf23pk",
+  "author": "Imaginary_Attempt_82",
+  "body": "Frankenstein by Edgar Winter",
+  "score": 8,
+  "created_utc": 1748787351.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf01gi",
+  "author": "Adept_Professor_2837",
+  "body": "The Last Day of Our Acquaintance by Sinead O\u2019Connor \n\nAnd since you like Pink Floyd already, check out When the Tigers Broke Free, from The Final Cut",
+  "score": 4,
+  "created_utc": 1748786685.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf2ds3",
+  "author": "Historical-Kick-9126",
+  "body": "Bolero, Maurice Ravel",
+  "score": 5,
+  "created_utc": 1748787440.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf2gpc",
+  "author": "terrorvicky",
+  "body": "Ion Square - Bloc Party",
+  "score": 5,
+  "created_utc": 1748787465.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf3e3f",
+  "author": "lovelybunchococonutz",
+  "body": "Return to Oz - Scissor Sisters\n\n  \nCatch the Wind - Donovan",
+  "score": 4,
+  "created_utc": 1748787756.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf3fbh",
+  "author": "bumpynuks",
+  "body": "By the time I get to Phoenix - Isaac Hayes",
+  "score": 3,
+  "created_utc": 1748787766.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfb2ym",
+  "author": "Which-Confection5167",
+  "body": "Vision of Live - Mariah Carey\n\nGoldust Woman - Fleetwood Mac\n\nGone- U2 ( the best of version rather than the Pop version)\n\nLike a Prayer - Madonna  the 7inch single rock edit with Prince solo at the end",
+  "score": 5,
+  "created_utc": 1748790055.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfb5eb",
+  "author": "drunken_monkeys",
+  "body": "[*Bolero* - Ravel](https://youtu.be/r30D3SW4OVw)\n\nThe OG.",
+  "score": 4,
+  "created_utc": 1748790076.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfcg21",
+  "author": "Donkey_Karate",
+  "body": "Morning Dew - Grateful Dead\nEchoes part I live at Pompei - Pink Floyd",
+  "score": 5,
+  "created_utc": 1748790466.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfed1u",
+  "author": "kosk11348",
+  "body": "The End - The Doors\nHeroin - Velvet Underground\nKarma Police - Radiohead",
+  "score": 4,
+  "created_utc": 1748791040.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfi7xm",
+  "author": "No-Novel965",
+  "body": "November Rain by G n R",
+  "score": 4,
+  "created_utc": 1748792193.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfnj3e",
+  "author": "No-Swan2204",
+  "body": "A Day In The Life by the Beatles.  Starts off slow and builds to a crescendo.",
+  "score": 4,
+  "created_utc": 1748793788.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfr5u2",
+  "author": "BabyTBone",
+  "body": "Funeral for a friend Elton John",
+  "score": 4,
+  "created_utc": 1748794894.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfrpwh",
+  "author": "Adventurous-Sort-808",
+  "body": "Lazy Eye by Silversun Pickups.",
+  "score": 3,
+  "created_utc": 1748795064.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgskpr",
+  "author": "CoachKillerTrae",
+  "body": "Rearviewmirror - Pearl Jam",
+  "score": 3,
+  "created_utc": 1748806018.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvh0q9r",
+  "author": "MichaelArnoldTravis",
+  "body": "almost anything by Godspeed You Black Emperor",
+  "score": 4,
+  "created_utc": 1748808524.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mviqky1",
+  "author": "Jeff_the_big_O",
+  "body": "Velvet underground- sweet nuthin",
+  "score": 4,
+  "created_utc": 1748829943.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mviriwq",
+  "author": "AnywhereMajestic2377",
+  "body": "Bol\u00e9ro by Ravel.",
+  "score": 5,
+  "created_utc": 1748830304.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mviw5b0",
+  "author": "frenchfriedgenocide",
+  "body": "Gut Feeling/(Slap Your Mammy) - DEVO",
+  "score": 4,
+  "created_utc": 1748832102.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvj9n4a",
+  "author": "dankdabbler69420",
+  "body": "Phish",
+  "score": 4,
+  "created_utc": 1748837949.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvjdb1w",
+  "author": "Ultraviolet_Eclectic",
+  "body": "Ravel\u2019s \u201cBolero\u201d out-climaxes \u2018em all!",
+  "score": 3,
+  "created_utc": 1748839717.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvlogjk",
+  "author": "spooky_1962",
+  "body": "Ravel\u2019s Bolero",
+  "score": 4,
+  "created_utc": 1748877623.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfb1zz",
+  "author": "Fresh_Bubbles",
+  "body": "Of course, Stairway to Heaven.",
+  "score": 7,
+  "created_utc": 1748790047.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfoyce",
+  "author": "SkipK",
+  "body": "Lightning Crashes - Live",
+  "score": 6,
+  "created_utc": 1748794219.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mveyoo1",
+  "author": "VogonPoetry19",
+  "body": "Devin Townsend-The Death of Music",
+  "score": 3,
+  "created_utc": 1748786233.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mveytn4",
+  "author": "AquietRive",
+  "body": "9 - three trapped tigers \n\nOne of my favorite pure electronic songs. Super ambient in the beginning, then gets more and more distorted and busy towards the end.",
+  "score": 3,
+  "created_utc": 1748786280.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvez631",
+  "author": "ReidenLightman",
+  "body": "Death and All His Friends - Coldplay\u00a0",
+  "score": 3,
+  "created_utc": 1748786394.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf17v4",
+  "author": "piranspride",
+  "body": "Final Ascent - Zimmer",
+  "score": 3,
+  "created_utc": 1748787069.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf2vi4",
+  "author": "BurningFarm",
+  "body": "Ravel - Bolero",
+  "score": 3,
+  "created_utc": 1748787594.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf49vc",
+  "author": "nobodynoticethefly",
+  "body": "Me And Your Mom Last Night by Me And Your Mom",
+  "score": 3,
+  "created_utc": 1748788032.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf58to",
+  "author": "None",
+  "body": "Ammonia Avenue by Alan Parsons Project.",
+  "score": 3,
+  "created_utc": 1748788337.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf5iyn",
+  "author": "RustySix",
+  "body": "All I Need - Radiohead",
+  "score": 3,
+  "created_utc": 1748788424.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf5xek",
+  "author": "RongGearRob",
+  "body": "In Every Dream Home A Heartache - Roxy Music",
+  "score": 3,
+  "created_utc": 1748788541.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf8rw0",
+  "author": "leistakrist",
+  "body": "Dear God - XTC\n\nLove Reign O'er Me - The Who\n\nDreams - Grace Slick\n\nDon't Put Your Foot on The Heartbrake - Kate Bush\n\n\nThe Wedding List - Kate Bush\u00a0",
+  "score": 3,
+  "created_utc": 1748789369.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfb0lz",
+  "author": "dgofish",
+  "body": "Freedom - Rage Against the Machine",
+  "score": 3,
+  "created_utc": 1748790036.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvff0lq",
+  "author": "Rocknscroller",
+  "body": "Welcome to the Black Parade - My Chemical Romance",
+  "score": 3,
+  "created_utc": 1748791234.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfhgat",
+  "author": "OgrePuffs",
+  "body": "Waiting for the Great Leap Forwards by Billy Bragg.",
+  "score": 3,
+  "created_utc": 1748791964.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfht4x",
+  "author": "NeitherLeader7527",
+  "body": "Lazy Eye - Silversun pickups\nSanta Monica - Everclear",
+  "score": 3,
+  "created_utc": 1748792071.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfmnuy",
+  "author": "jafobitch",
+  "body": "Green grass and high tides",
+  "score": 3,
+  "created_utc": 1748793526.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfnb16",
+  "author": "imnick88",
+  "body": "Manchester Orchestra - The Silence\n\nPhoebe Bridgers - I know the end \n\nKevin Devine - Brothers Blood\n\nThe Cinematic Orchestra - To Build a Home \n\nThe Irrepressibles - In This Shirt\n\nAlmost anything by Sigur Ros",
+  "score": 3,
+  "created_utc": 1748793720.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfo1ec",
+  "author": "TheChancre",
+  "body": "I Want You (She\u2019s So Heavy) by The Beatles",
+  "score": 3,
+  "created_utc": 1748793942.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfv3vs",
+  "author": "Meffa63",
+  "body": "\u201cFuneral for a Friend/Love Lies Bleeding\u201d - Elton John",
+  "score": 3,
+  "created_utc": 1748796094.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfviw0",
+  "author": "OppositeAct1918",
+  "body": "Bolero by Ravel hasn't been mentioned in a while. Though it is classical music and thus the wronggrnte, it has the best buildup. Kn fact, it IS buildup.",
+  "score": 3,
+  "created_utc": 1748796220.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfwj9b",
+  "author": "Parking-Complex-1880",
+  "body": "Lots of Radiohead songs",
+  "score": 3,
+  "created_utc": 1748796524.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfwo5l",
+  "author": "Affectionate_Sir4212",
+  "body": "Starship Trooper - Yes",
+  "score": 3,
+  "created_utc": 1748796564.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfxb8k",
+  "author": "SeaworthinessShot142",
+  "body": "Elton John - Funeral For a Friend/Love Lies Bleeding\n\nMasterful intro to the Goodbye Yellow Brick Road album",
+  "score": 3,
+  "created_utc": 1748796753.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgtq1f",
+  "author": "RyGuy4017",
+  "body": "\u201cThe Rain Song\u201d by Led Zeppelin",
+  "score": 3,
+  "created_utc": 1748806372.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgzxcc",
+  "author": "xdementia",
+  "body": "Anything by Godspeed You Black Emperor!",
+  "score": 3,
+  "created_utc": 1748808282.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf1zg4",
+  "author": "goldendreamseeker",
+  "body": "Led Zeppelin - Stairway to Heaven\n\nSmashing Pumpkins - Galapagos",
+  "score": 5,
+  "created_utc": 1748787313.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfgsoi",
+  "author": "jennyflowers1130",
+  "body": "A Day in the Life by the Beatles",
+  "score": 6,
+  "created_utc": 1748791770.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf4df4",
+  "author": "bwanabass",
+  "body": "White Rabbit",
+  "score": 4,
+  "created_utc": 1748788063.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvez8uk",
+  "author": "Mr_Vacant",
+  "body": "Lately by Sea Power",
+  "score": 2,
+  "created_utc": 1748786420.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf0f89",
+  "author": "Fun_Championship_113",
+  "body": "Jon Hopkins - Open Eye Signal",
+  "score": 2,
+  "created_utc": 1748786810.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf0x17",
+  "author": "ParticularUpbeat",
+  "body": "LIVE - Pillar of Davidson \ud83d\udd25",
+  "score": 2,
+  "created_utc": 1748786972.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf1mn4",
+  "author": "51line_baccer",
+  "body": "Armored Saint - Another Day",
+  "score": 2,
+  "created_utc": 1748787201.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf31l1",
+  "author": "Feisty_Wolverine8190",
+  "body": "M83 - wait\n\nOtt - the queen of All Everything",
+  "score": 2,
+  "created_utc": 1748787647.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf3k8s",
+  "author": "thisssseason",
+  "body": "Colossus by Idles",
+  "score": 2,
+  "created_utc": 1748787809.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf5c5s",
+  "author": "BeenThruIt",
+  "body": "Fade To Black by Metallica",
+  "score": 2,
+  "created_utc": 1748788366.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf8r3g",
+  "author": "Finneagan",
+  "body": "Lonely Soul \u2014by UNKLE",
+  "score": 2,
+  "created_utc": 1748789362.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf8rvr",
+  "author": "Capable_Stranger9885",
+  "body": "Ravel's \"Bolero\"\n\nFairport Convention,  \"A Sailor's Life \"",
+  "score": 2,
+  "created_utc": 1748789369.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfa5ok",
+  "author": "shitthead480",
+  "body": "Contact by Daft Punk",
+  "score": 2,
+  "created_utc": 1748789777.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfbn0r",
+  "author": "Virtual_File8072",
+  "body": "Victim of Changes, Judas Priest.",
+  "score": 2,
+  "created_utc": 1748790223.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfd1tj",
+  "author": "KnoxStreetCharlie",
+  "body": "Let Down by Radiohead",
+  "score": 2,
+  "created_utc": 1748790647.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfdihl",
+  "author": "nakaimas",
+  "body": "Come Alive - Foo Fighters",
+  "score": 2,
+  "created_utc": 1748790784.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfdmel",
+  "author": "DolemiteMF1",
+  "body": "Black Sabbath-Black Sabbath",
+  "score": 2,
+  "created_utc": 1748790818.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvferyd",
+  "author": "concerts85701",
+  "body": "Slave to the Traffic Light - phish (A Live One Version) \n\nIt\u2019s about 12 min and has a short \u2018song\u2019 that  creates some tension that drops out and then has a glorious build to a peak.",
+  "score": 2,
+  "created_utc": 1748791162.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfg5f7",
+  "author": "FakeeshaNamerstein",
+  "body": "Godspeed You! Black Emperor",
+  "score": 2,
+  "created_utc": 1748791576.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfg7yq",
+  "author": "eddiebucket",
+  "body": "Starla - The Smashing Pumpkins",
+  "score": 2,
+  "created_utc": 1748791597.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfgby9",
+  "author": "1_innocent_bystander",
+  "body": "Colossus, Idles",
+  "score": 2,
+  "created_utc": 1748791631.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfgf56",
+  "author": "1_innocent_bystander",
+  "body": "Little Black Submarines",
+  "score": 2,
+  "created_utc": 1748791658.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfhiy9",
+  "author": "rickyharold",
+  "body": "These Eyes - Guess Who",
+  "score": 2,
+  "created_utc": 1748791986.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfjkjx",
+  "author": "sand_and_mercury",
+  "body": "Depeche Mode: In Your Room\n\nDoesn't fit the details of your request, but most of the recommendations here don't. It just builds up really effectively.",
+  "score": 2,
+  "created_utc": 1748792595.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfk9lg",
+  "author": "insanecorgiposse",
+  "body": "Starship Trooper",
+  "score": 2,
+  "created_utc": 1748792802.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfln6l",
+  "author": "twobadmice76",
+  "body": "Stargazer by Rainbow",
+  "score": 2,
+  "created_utc": 1748793219.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfm90t",
+  "author": "Dry-Permit1472",
+  "body": "Bol\u00e8ro by Ravel",
+  "score": 2,
+  "created_utc": 1748793401.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfn79f",
+  "author": "sister-europe67",
+  "body": "February Stars by Foo Fighters",
+  "score": 2,
+  "created_utc": 1748793688.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfnhf1",
+  "author": "innswood",
+  "body": "Ravel's Bolero \ud83d\ude01",
+  "score": 2,
+  "created_utc": 1748793773.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfoepw",
+  "author": "GeoffSobering",
+  "body": "Bolero",
+  "score": 2,
+  "created_utc": 1748794055.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfp3yf",
+  "author": "Somedude1987-420",
+  "body": "Outro - M83",
+  "score": 2,
+  "created_utc": 1748794266.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfps79",
+  "author": "CardiologistFun3507",
+  "body": "Vortex surfer by motorpsycho",
+  "score": 2,
+  "created_utc": 1748794472.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfqyfd",
+  "author": "orangeunrhymed",
+  "body": "How To Disappear Completely by Radiohead. It starts with a wandering bass line and eventually proceeds to a crescendo, Thom\u2019s voice soaring as the crescendo ends",
+  "score": 2,
+  "created_utc": 1748794831.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfrl48",
+  "author": "tangueado",
+  "body": "Starless - King Crimson",
+  "score": 2,
+  "created_utc": 1748795023.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfs1ld",
+  "author": "Imaginaut27",
+  "body": "Madness by Muse",
+  "score": 2,
+  "created_utc": 1748795163.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvftjbs",
+  "author": "New-Vegetable-1274",
+  "body": "Nights in White Satin Moody Blues.",
+  "score": 2,
+  "created_utc": 1748795617.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfubbp",
+  "author": "Spamel334347",
+  "body": "Godspeed You! Black Emperor are the masters, try Storm or Sleep",
+  "score": 2,
+  "created_utc": 1748795856.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfuxno",
+  "author": "IllustriousLength318",
+  "body": "Sleep - Dopesmoker",
+  "score": 2,
+  "created_utc": 1748796043.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfvg8u",
+  "author": "Infamous-Web-6265",
+  "body": "Of montreal- the past is a grotesque animal",
+  "score": 2,
+  "created_utc": 1748796198.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg00bi",
+  "author": "GentlemanForester",
+  "body": "Three Days by Jane's Addiction",
+  "score": 2,
+  "created_utc": 1748797550.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg10ki",
+  "author": "Alternative-Pin5760",
+  "body": "Love on the Rocks Neil Diamond",
+  "score": 2,
+  "created_utc": 1748797848.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg1cq2",
+  "author": "Snoo93809",
+  "body": "Purple rain - prince",
+  "score": 2,
+  "created_utc": 1748797949.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg1odj",
+  "author": "Deepdarkorchid16",
+  "body": "Ravel's Bolero",
+  "score": 2,
+  "created_utc": 1748798044.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg2mzp",
+  "author": "ebald84",
+  "body": "Exit music (for a film) - Radiohead",
+  "score": 2,
+  "created_utc": 1748798324.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg2wi6",
+  "author": "ApobangpoARMY",
+  "body": "Sea of Voices by Porter Robinson",
+  "score": 2,
+  "created_utc": 1748798399.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg7i52",
+  "author": "hariossa",
+  "body": "Maurice Ravel - Bolero",
+  "score": 2,
+  "created_utc": 1748799735.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg8zvn",
+  "author": "Forward-Advantage-40",
+  "body": "The Pills Won't Help You Now  by The Chemical Brothers.",
+  "score": 2,
+  "created_utc": 1748800163.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg90fb",
+  "author": "MurryScurry",
+  "body": "2+2=5 by Radiohead",
+  "score": 2,
+  "created_utc": 1748800167.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvga2g6",
+  "author": "RetroMetroShow",
+  "body": "Stargazer by Rainbow\n\nAll the World and also Magnum Opus by Kansas",
+  "score": 2,
+  "created_utc": 1748800472.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgb51w",
+  "author": "Fbcoach18",
+  "body": "I have to go with an old standby of \"funeral for a friend\" by Elton John",
+  "score": 2,
+  "created_utc": 1748800782.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgdea9",
+  "author": "doomer_irl",
+  "body": "I Want You (She's So Heavy) - The Beatles",
+  "score": 2,
+  "created_utc": 1748801442.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgdzzf",
+  "author": "playdaze",
+  "body": "Check out the post rock genre. \n\nGodspeed you black emperor \nMogwai\nDo make say think\nExplosions in the sky",
+  "score": 2,
+  "created_utc": 1748801619.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvggcyz",
+  "author": "trycuriouscat",
+  "body": "Maybe the ultimate is \"Starless\" by King Crimson.\n\nLot's of progressive rock fit in this category.",
+  "score": 2,
+  "created_utc": 1748802325.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgky8y",
+  "author": "Penguin-Commando",
+  "body": "Fair to Midland - The Greener Grass\n\nThy Catafalque - Sir\u00e1ly",
+  "score": 2,
+  "created_utc": 1748803704.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgl8lx",
+  "author": "GunnerTinkle22",
+  "body": "In My Time of Dying; In the Light; Ten Years Gone, all from Zep...obviously Stairway fits the bill as well.\n\nMegalomania by Black Sabbath (my favorite song) is another good example I think.",
+  "score": 2,
+  "created_utc": 1748803789.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvglb48",
+  "author": "MadGeographer",
+  "body": "Moonlight Mile.  The rhythm section puts a leash on the pace. The band is tightly coiled until they let everything out at the end when Mick howls \u201con down the road\u2026yeah\u2026\u201d transitioning to a murmur and a plaintiff lead guitar. I\u2019d argue it\u2019s one of the most gorgeous and underrated passages in rock music.",
+  "score": 2,
+  "created_utc": 1748803810.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgnip0",
+  "author": "SaintStephen77",
+  "body": "I\u2019m going to draw your attention to the Allman Brothers Band, Whipping Post, from the 1971 Live at the Fillmore East album.  Enjoy",
+  "score": 2,
+  "created_utc": 1748804475.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgouwh",
+  "author": "tambor333",
+  "body": "Summertime rolls Jane's Addiction",
+  "score": 2,
+  "created_utc": 1748804881.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgpf7r",
+  "author": "Order_Flaky",
+  "body": "In the Hall of the Mountain King. Peer Gynt. Grieg",
+  "score": 2,
+  "created_utc": 1748805054.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgq5zi",
+  "author": "thamaturge",
+  "body": "Bolero",
+  "score": 2,
+  "created_utc": 1748805279.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgqmpo",
+  "author": "Frehley666",
+  "body": "Jacob\u2019s Ladder - Rush",
+  "score": 2,
+  "created_utc": 1748805422.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgsi28",
+  "author": "Professional-Gur-947",
+  "body": "\u2018Lift your skinny fists like antenna to Heaven\u2019 - Godspeed you! Black Emperor\n\n\u2018World Police/Friendly Fire\u2019 Godspeed you!Black Emperor",
+  "score": 2,
+  "created_utc": 1748805996.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgskfv",
+  "author": "Nervous_Judge_5565",
+  "body": "Hallowed be thy Name - Iron Maiden",
+  "score": 2,
+  "created_utc": 1748806016.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgvfvm",
+  "author": "momster308",
+  "body": "Slow Ride (full version) - Foghat",
+  "score": 2,
+  "created_utc": 1748806903.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgwyog",
+  "author": "Low-Swordfish-9014",
+  "body": "Too Late - 311",
+  "score": 2,
+  "created_utc": 1748807375.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgx7aq",
+  "author": "crazydoglady64",
+  "body": "Getting stronger every day by Chicago",
+  "score": 2,
+  "created_utc": 1748807448.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgz216",
+  "author": "South_Huckleberry_40",
+  "body": "Untitled (How Does it Feel) by D\u2019Angelo\n\nThe song definitely \u201cclimaxes\u201d",
+  "score": 2,
+  "created_utc": 1748808018.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgzxna",
+  "author": "0304546",
+  "body": "The London Boys - David Bowie",
+  "score": 2,
+  "created_utc": 1748808284.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvh800m",
+  "author": "cheroc0420",
+  "body": "Have you heard of Phish???",
+  "score": 2,
+  "created_utc": 1748810739.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvhb991",
+  "author": "Vtstace",
+  "body": "Check out much of phish. Might try on you enjoy myself for size",
+  "score": 2,
+  "created_utc": 1748811757.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvhn4vr",
+  "author": "LizDaShizzz",
+  "body": "We Are Transient- Delooze\n\nDance Yrself Clean- LCD Soundsystem (in fact I recommend this band in general)",
+  "score": 2,
+  "created_utc": 1748815649.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvhwwfc",
+  "author": "Used_Ad6385",
+  "body": "Happier Than Ever - Billie Eilish\n\nPretty Good Year - Tori Amos, it crescendo and then goes soft again.",
+  "score": 2,
+  "created_utc": 1748819052.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvhznom",
+  "author": "Swimming_Type_8298",
+  "body": "Nine Inch Nails \"Somewhat Damaged\"\n\nYou're welcome.",
+  "score": 2,
+  "created_utc": 1748820005.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mviursu",
+  "author": "bikehikepunk",
+  "body": "Lazy Eye - Silversun Pickups",
+  "score": 2,
+  "created_utc": 1748831560.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvjmf99",
+  "author": "kettle54",
+  "body": "No Small Thing by Tears for Fears",
+  "score": 2,
+  "created_utc": 1748844487.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvl1642",
+  "author": "LukeMayeshothand",
+  "body": "Run Like an Antelope- Phish",
+  "score": 2,
+  "created_utc": 1748870396.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvoef11",
+  "author": "Scouseuserman",
+  "body": "Life eternal - ghost \n\nFirst song that came to mind",
+  "score": 2,
+  "created_utc": 1748906323.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mzk2i3v",
+  "author": "Soldrol",
+  "body": "BRAND NEW BRAND NEW!!! They have a bunch of songs like this!!! Check out their 3rd album, The Devil And God Are Raging Inside Me. Luca in particular is exactly this.\nThey give me goosebumps every time! I love this band!",
+  "score": 2,
+  "created_utc": 1750789384.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfcs0e",
+  "author": "DolemiteMF1",
+  "body": "Sound of Silence-Disturbed",
+  "score": 5,
+  "created_utc": 1748790565.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvgq34i",
+  "author": "Lisa_lou_hoo",
+  "body": "With or without you - U2",
+  "score": 4,
+  "created_utc": 1748805256.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfjmmb",
+  "author": "gb187",
+  "body": "In the Evening - Led Zeppelin",
+  "score": 2,
+  "created_utc": 1748792612.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvhrwsh",
+  "author": "GucciBeckham",
+  "body": "Hear me out.  The pot by Tool. At first, the singer sings in a sweet tone. But it progresses into more and more anger till the end when he goes insane. The same applies to the guitar. It starts very subtle and is playing its own sounds until it joins in with the bass and drums more and more. The bass and drums are the engine throughout the song and are really powerful and melodic, while the singing and guitar are building up energy that pops off in the end. \n\nThe pot is one of my favourite songs. The lyrics are about hypocrisy, not the drug. 'The pot calling the kettle black' is the reference. \n\nHope someone enjoys this as much as I do.",
+  "score": 2,
+  "created_utc": 1748817314.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mveyluv",
+  "author": "Due_Bird_8224",
+  "body": "Not sure what you\u2019ll think of this but try\nSTARS - BLONDETING",
+  "score": 1,
+  "created_utc": 1748786207.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mveyq3f",
+  "author": "No_Proof_2736",
+  "body": "Strange Dreams by Whiskey Myers",
+  "score": 1,
+  "created_utc": 1748786247.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvez9si",
+  "author": "GhostLikeYou98",
+  "body": "Telomeres - Sleep Token\n\nLightning song - Anathema",
+  "score": 1,
+  "created_utc": 1748786429.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvezinu",
+  "author": "JohnRittersSon",
+  "body": "Hamilton Leithauser - [Here They Come](https://open.spotify.com/track/60y3z4xCQhmhQ7cwqHGKzo?si=s0OyRQZLQN6uZOvpSqJ11w)",
+  "score": 1,
+  "created_utc": 1748786513.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf00ff",
+  "author": "bomboclawt75",
+  "body": "Still Life - Suede.\n\nhttps://www.youtube.com/watch?v=ksTOq8WpV0w&pp=ygUQU3RpbGwgbGlmZSBzdWVkZQ%3D%3D",
+  "score": 1,
+  "created_utc": 1748786675.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf02b6",
+  "author": "thequicknessinc",
+  "body": "[Sunchaser](https://youtu.be/8IaESL2GMQM?feature=shared) - Delta Sleep",
+  "score": 1,
+  "created_utc": 1748786693.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf0n0r",
+  "author": "tohuvohu-light",
+  "body": "The Comedians by Roy Orbison",
+  "score": 1,
+  "created_utc": 1748786881.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf1cwh",
+  "author": "metermax",
+  "body": "505 - Arctic Monkies",
+  "score": 1,
+  "created_utc": 1748787114.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf1iel",
+  "author": "InviteAromatic6124",
+  "body": "Spanish Sahara - Foals",
+  "score": 1,
+  "created_utc": 1748787164.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf1kp1",
+  "author": "PsychoCat-",
+  "body": "Look no further than KING BUFFALO. \n\nThe buzz on this trio is well-deserved. Most of their songs do exactly what you describe. Just listen to how this one builds, unbelievable. \n\nhttps://youtu.be/Z321CYdW7sc?si=huTVYa4Xh4Stga80",
+  "score": 1,
+  "created_utc": 1748787184.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf1ljl",
+  "author": "BenedictTrynabenicer",
+  "body": "Leprous - *Distant Bells*",
+  "score": 1,
+  "created_utc": 1748787192.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf1mwh",
+  "author": "Jillcametumbling81",
+  "body": "Complicated Game- xtc",
+  "score": 1,
+  "created_utc": 1748787203.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf21xq",
+  "author": "sharpied79",
+  "body": "Fearful Odds (M83 - Oblivion Soundtrack)",
+  "score": 1,
+  "created_utc": 1748787335.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf29pk",
+  "author": "MartianDuk",
+  "body": "how do you sleep by LCD Soundystem is amazing, I also love Spanish Sahara by Foals and Stanlow by OMD for this",
+  "score": 1,
+  "created_utc": 1748787404.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf2m2c",
+  "author": "Weirdobutnotweird",
+  "body": "Human Sadness- The voidz\n\nSupernova - Aespa",
+  "score": 1,
+  "created_utc": 1748787511.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf34jm",
+  "author": "Intelligent-Peace882",
+  "body": "Long 3 part song but very worth the listen!  \n[Everything Under The Sun: Rise 'N Shine / Am I Ever Gonna Change / Who Cares? \u00b7 Extreme](https://youtu.be/tuKMj2buOts?feature=shared)",
+  "score": 1,
+  "created_utc": 1748787672.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf3q1t",
+  "author": "CherenkovLady",
+  "body": "[Untouchable part 1 by Anathema](https://youtu.be/av6sVWXeCWQ?si=2xINKMXceXSqlfl1)",
+  "score": 1,
+  "created_utc": 1748787859.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf3qzh",
+  "author": "Soft_Arrival_1017",
+  "body": "Turisas- end of an empire. Just try it once and tell me it isn't glorious",
+  "score": 1,
+  "created_utc": 1748787867.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf44ov",
+  "author": "hsjemaru",
+  "body": "The desolate oppressiveness that is\n  \nBeach House - Black Car \ud83d\udd4b",
+  "score": 1,
+  "created_utc": 1748787987.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf4o8b",
+  "author": "Imaginary_Hedgehog39",
+  "body": "Since it's fresh in my mind, Infinite Baths by Sleep Token on their new album. The genre changes aren't everyone's cup of tea, but it has the benefit of a section that even sounds very Pink Floyd-ish.",
+  "score": 1,
+  "created_utc": 1748788157.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf4p17",
+  "author": "bellardyyc",
+  "body": "[Astronaut](https://youtu.be/uTaTQjgdioo?si=1eyVJfoblUKoazok) - City and Colour",
+  "score": 1,
+  "created_utc": 1748788165.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf4p3k",
+  "author": "kbunnell16",
+  "body": "Wake up- Gemini syndrome",
+  "score": 1,
+  "created_utc": 1748788165.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf53i1",
+  "author": "OhFigetteThis",
+  "body": "Diary of a Madman -- Ozzy Osbourne\n\nBeneath the Brine -- The Family Crest\n\nLove Don't Go  -- The Family Crest\n\nThe first two songs absolutely sweep me up with music that is almost operatic with symphony and choral backing.   Randy Rhodes played hard rock but was taught by his mother who taught classical guitar.",
+  "score": 1,
+  "created_utc": 1748788291.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf5aw2",
+  "author": "PullMull",
+  "body": "Orax \"missing\" \nhttps://m.youtube.com/watch?v=cnpqLWBrNw0&pp=ygUMb3JheCBtaXNzaW5n\n\nThat track is incredible.",
+  "score": 1,
+  "created_utc": 1748788355.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf5ldj",
+  "author": "Bropocalypse-Now274",
+  "body": "Orbit Culture - The Tales Of War\n\nhttps://youtu.be/Y5SpGQMoaUU?si=oLkB7SSshqNo4ho3",
+  "score": 1,
+  "created_utc": 1748788444.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf5x9n",
+  "author": "Sunburys",
+  "body": "Echelon's song by Red Army Choir",
+  "score": 1,
+  "created_utc": 1748788540.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf684z",
+  "author": "Additional_Test_3727",
+  "body": "Guns n Roses - Double talkin jive. Four Tops - A simple game. Terry Callier - A dancing girl. Leprous - Out of here. Tim Buckley - Sweet surrender. Jeffrey Osborne - Plane love.",
+  "score": 1,
+  "created_utc": 1748788629.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf6qs0",
+  "author": "Phonics1979",
+  "body": "I hate to say it, but this is quite a build up.\n\nhttps://youtu.be/HUpBIRfoTwg?feature=shared",
+  "score": 1,
+  "created_utc": 1748788777.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf7jh0",
+  "author": "Damn_you_taco",
+  "body": "Pick a Pink Floyd song you might find the one.",
+  "score": 1,
+  "created_utc": 1748789007.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf7t3d",
+  "author": "ThrashMeatle",
+  "body": "The Weight by Isis.",
+  "score": 1,
+  "created_utc": 1748789085.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf7vk5",
+  "author": "SquareTowel3931",
+  "body": "Any Tool song",
+  "score": 1,
+  "created_utc": 1748789104.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf7zv5",
+  "author": "slade797",
+  "body": "The Steel Woods\u2019 cover of *Southern Accents.*",
+  "score": 1,
+  "created_utc": 1748789139.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf821w",
+  "author": "ManaSeltzer",
+  "body": "Love from the stage by TEAM SLEEP \nhttps://youtu.be/AKPeZQkRz9E?si=2FSVe259Lct6dF9n",
+  "score": 1,
+  "created_utc": 1748789157.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf84zz",
+  "author": "20Keller12",
+  "body": "Oh my god, [The Smallest Man Who Ever Lived](https://youtu.be/Atdzfj8LcuY?si=f5bfPmLGx2pV21Lu) is the definition of this. I always say it starts out slow and sad and then once it hits the bridge it explodes and gets downright scathing.",
+  "score": 1,
+  "created_utc": 1748789180.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf8a5l",
+  "author": "7865435",
+  "body": "King buffalo-acheron, cerebus. Most of king buffalo starts out slow then they kick it in the ass,the drummer has a kind of primal style, and the bass player is phenomenal, the guitarist is quite good too.",
+  "score": 1,
+  "created_utc": 1748789222.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf8ryr",
+  "author": "fancypantspartytime",
+  "body": "Non-Objective Portrait of Karma - Circle Takes the Square",
+  "score": 1,
+  "created_utc": 1748789369.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf96cy",
+  "author": "LonghornJeb",
+  "body": "Sometime Around Midnight by The Airborne Toxic Event.",
+  "score": 1,
+  "created_utc": 1748789488.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf9n6m",
+  "author": "PromEthian92",
+  "body": "Foals - Spanish Sahara",
+  "score": 1,
+  "created_utc": 1748789626.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvf9t68",
+  "author": "Several_Boss_6258",
+  "body": "[Tuff Luck](https://open.spotify.com/track/3ATjwsU9EMRkW7XuVEvH1E?si=fHTfSkJHTdC_t0nP_4LFGQ) - Seam\n\n[Seele Brennt](https://open.spotify.com/track/2IF0LuVIPxZs0wz42EPHqQ?si=WCin-HJJSKehTbaLJfdGvg) - Einst\u00fcrzende Neubauten",
+  "score": 1,
+  "created_utc": 1748789674.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfa0v1",
+  "author": "CruzWho",
+  "body": "Bending Hectic \u2014 The Smile",
+  "score": 1,
+  "created_utc": 1748789738.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfa8tt",
+  "author": "jf4242",
+  "body": "O! Sweet Nuthun' , Velvet Underground",
+  "score": 1,
+  "created_utc": 1748789804.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfady1",
+  "author": "Expert_Worry5479",
+  "body": "Comforting Sounds by Mew",
+  "score": 1,
+  "created_utc": 1748789846.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfag6a",
+  "author": "Mcnab-at-my-feet",
+  "body": "Esmerelda by Ben Howard",
+  "score": 1,
+  "created_utc": 1748789865.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfan0k",
+  "author": "OppositeQueasy2234",
+  "body": "Present Tense - Pearl Jam.  See the final sequence of The Last Dance Netflix series.",
+  "score": 1,
+  "created_utc": 1748789921.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfavgk",
+  "author": "AnotherSideThree",
+  "body": "Feel the Benefit- 10cc",
+  "score": 1,
+  "created_utc": 1748789993.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfbux5",
+  "author": "Playful-Childhood-15",
+  "body": "Chevalier De Sangreal by Hans Zimmer. It's beautiful.",
+  "score": 1,
+  "created_utc": 1748790289.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfc70h",
+  "author": "RiffShark",
+  "body": "Sign of the times - three days grace\n\nSadness - RiffShark",
+  "score": 1,
+  "created_utc": 1748790392.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfcze2",
+  "author": "fieldof_paperflowers",
+  "body": "Demolition Lovers - My Chemical Romance\n\nIt slows down in the middle, but it builds back up again. I guess it\u2019s up to you to decide if this counts lol",
+  "score": 1,
+  "created_utc": 1748790626.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfdmlv",
+  "author": "550_Maranello",
+  "body": "Breathing - Kate Bush",
+  "score": 1,
+  "created_utc": 1748790820.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfegvi",
+  "author": "Cyrisk",
+  "body": "Falaise by Floating Points. Sounds like the creation of the Universe",
+  "score": 1,
+  "created_utc": 1748791071.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfempq",
+  "author": "nikolaiva",
+  "body": "https://open.spotify.com/track/25Rt37WgpebWgezVCNfo0J?si=-1iYCL07RMaYQUYM0F2_Xw",
+  "score": 1,
+  "created_utc": 1748791119.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfeoft",
+  "author": "mwalimu59",
+  "body": "Paul McCartney & Wings - Nineteen Hundred Eighty Five\n\nBarry Manilow - Could It Be Magic\n\nPeter Gabriel - Secret World\n\nSimon & Garfunkel - The Boxer",
+  "score": 1,
+  "created_utc": 1748791133.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfeqy1",
+  "author": "Tightanium",
+  "body": "Brand new - Luca",
+  "score": 1,
+  "created_utc": 1748791154.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvffg18",
+  "author": "BadDadNomad",
+  "body": "Fire On High",
+  "score": 1,
+  "created_utc": 1748791364.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvffh8n",
+  "author": "Coital_Conundrum",
+  "body": "Octavarium by Dream Theater.  24 minutes and the finale is fantastic.",
+  "score": 1,
+  "created_utc": 1748791374.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvffkdx",
+  "author": "Old-Blackberry6728",
+  "body": "Bolero and Running Scared",
+  "score": 1,
+  "created_utc": 1748791400.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfflwv",
+  "author": "Lust_For_Metal",
+  "body": "Deadmau5- strobe",
+  "score": 1,
+  "created_utc": 1748791413.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfgijf",
+  "author": "PlayDense9618",
+  "body": "The end is near - phoebe bridgers \n\nOde to the Mets - the strokes (kind of, for me)\n\nRunaway - Yeah Yeah Yeahs \n\nSign of the times - harry styles \n\nPeer Gynt (classical) \n\n505 - Arctic Monkeys",
+  "score": 1,
+  "created_utc": 1748791687.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfgmvq",
+  "author": "Mandy-Rarsh",
+  "body": "Somewhat Damaged - Nine Inch Nails",
+  "score": 1,
+  "created_utc": 1748791722.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfgnfj",
+  "author": "BigChris210TX",
+  "body": "Black Flies, Ben Howard",
+  "score": 1,
+  "created_utc": 1748791726.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfgwca",
+  "author": "Psychadeliccarcrash",
+  "body": "Maintainer- atomic",
+  "score": 1,
+  "created_utc": 1748791801.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfgxex",
+  "author": "Maleficent-Cake8704",
+  "body": "Refused - \"Tannh\u00e4user/Deriv\u00e8\"",
+  "score": 1,
+  "created_utc": 1748791810.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfhbcx",
+  "author": "PacerLover",
+  "body": "Try a Little Tenderness",
+  "score": 1,
+  "created_utc": 1748791924.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfhdur",
+  "author": "DirtyDan24137",
+  "body": "Miners song, Clyde and the Milltailers. Starts off with just the guitar for a verse, then a steel guitar comes in for the second, then the whole band kicks in at the end. It\u2019s a fun song",
+  "score": 1,
+  "created_utc": 1748791944.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfhiye",
+  "author": "ppatek78",
+  "body": "Fancy - Reba\n\nEspecially live when she drops the red dress",
+  "score": 1,
+  "created_utc": 1748791986.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfho43",
+  "author": "bhjit",
+  "body": "Opus - Eric Prydz",
+  "score": 1,
+  "created_utc": 1748792029.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfhy2y",
+  "author": "Low_Entertainer_6973",
+  "body": "One - Metallica",
+  "score": 1,
+  "created_utc": 1748792112.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfi33g",
+  "author": "RepresentativeSun825",
+  "body": "Two more I can recommend from Pink Floyd are \"One of These Days (I'm going to cut you into little pieces)\" and \"Careful with that Axe, Eugene\".",
+  "score": 1,
+  "created_utc": 1748792153.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfi42x",
+  "author": "eBrown0104",
+  "body": "Sun Killer - Spiritbox",
+  "score": 1,
+  "created_utc": 1748792162.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfi93j",
+  "author": "OhNoGahzilla",
+  "body": "Foals - Spanish Sahara",
+  "score": 1,
+  "created_utc": 1748792203.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfid80",
+  "author": "hollidoxie",
+  "body": "I Know the End - Phoebe Bridgers",
+  "score": 1,
+  "created_utc": 1748792236.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfjfiy",
+  "author": "asonson99",
+  "body": "The Offspring - Pay the man",
+  "score": 1,
+  "created_utc": 1748792554.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfjpg4",
+  "author": "yeravgbear",
+  "body": "Possum kingdom",
+  "score": 1,
+  "created_utc": 1748792635.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfjstn",
+  "author": "Dakotaraptor123",
+  "body": "Literally every single Post-Rock songs",
+  "score": 1,
+  "created_utc": 1748792663.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfjxvt",
+  "author": "Total_Succotash2478",
+  "body": "I Know The End - Pheobe Bridgers",
+  "score": 1,
+  "created_utc": 1748792705.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfkdwr",
+  "author": "None",
+  "body": "Mogwai. Check out \"Auto Rock,\" \"Golden Porsche,\" and \"Like Herod.\"",
+  "score": 1,
+  "created_utc": 1748792837.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfkjdh",
+  "author": "woopwoopchickenchick",
+  "body": "[Nine Inch Nails - Eraser](https://youtu.be/Ep-E2jZScwI?si=4aTlYZujC6Bh4mRd)\n\n\n[Chimaira - Implements Of Destruction](https://youtu.be/CAGg-5TPSxQ?si=CJ-xBrzXqq1goh1S)\n\n\n[Modest Mouse - Tundra/Desert](https://youtu.be/atcUFI1TrAs?si=XyinT6AvRxXq47hw)\n\n\n[Tool - Reflection](https://youtu.be/4MzVuHqsNoM?si=Ex7lLUcqB6m_WsSL)",
+  "score": 1,
+  "created_utc": 1748792884.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfkkjb",
+  "author": "OFFenderdub",
+  "body": "Mew - Comforting sounds",
+  "score": 1,
+  "created_utc": 1748792894.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfklnl",
+  "author": "bre1110",
+  "body": "Amsterdam Coldplay, I love to sleep to it but it has a slow build that\u2019s really great",
+  "score": 1,
+  "created_utc": 1748792904.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfkmj9",
+  "author": "butterwob",
+  "body": "The Woods Are Alive By The Smell of His Coming from Cyclobe. One of the craziest buildups and climaxes I have ever heard.",
+  "score": 1,
+  "created_utc": 1748792911.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfkod6",
+  "author": "spiritualized",
+  "body": "Swans - It's Coming It's Real",
+  "score": 1,
+  "created_utc": 1748792927.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfl0mf",
+  "author": "Silly-Mountain-6702",
+  "body": "when I was a young boy my father took me into the city",
+  "score": 1,
+  "created_utc": 1748793030.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvflpwf",
+  "author": "magicmulder",
+  "body": "Chris Rea - The Road To Hell (the long version)",
+  "score": 1,
+  "created_utc": 1748793241.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfm8ko",
+  "author": "Fine-Molasses-2447",
+  "body": "Call of ktulu, metallica.",
+  "score": 1,
+  "created_utc": 1748793398.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfmha4",
+  "author": "RonBonxious",
+  "body": "Sunrise by Pulp",
+  "score": 1,
+  "created_utc": 1748793471.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfmwsp",
+  "author": "JetScreamerBaby",
+  "body": "Journey - Kahoutek",
+  "score": 1,
+  "created_utc": 1748793601.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfmys4",
+  "author": "xMikeTythonx",
+  "body": "Sigur Ros - Untitled 5",
+  "score": 1,
+  "created_utc": 1748793617.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfnarx",
+  "author": "schraderbrau",
+  "body": "Invincible by Tool",
+  "score": 1,
+  "created_utc": 1748793718.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfnjei",
+  "author": "SirJohnofMangonia",
+  "body": "I think this fits. Hope you like it. They are one of the most underrated bands of the 90\u2019s. \n\nhttps://youtu.be/uyA01nH72NI?si=YWhVHXwC9PC7Tl6g",
+  "score": 1,
+  "created_utc": 1748793790.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfnpts",
+  "author": "Grittygurl",
+  "body": "https://youtu.be/jdYJf_ybyVo?si=aL-JD6QDydNyeuu0 \n\nJohn Butler  Ocean",
+  "score": 1,
+  "created_utc": 1748793845.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfnzt1",
+  "author": "penultimate_mohican_",
+  "body": "I call these crescendo songs.  Love them.  Some of my faves....\n\nGrassman - Dodgy\n\nGod of Wine - Third Eye Blind\n\nTelegraph Road - Dire Straits\n\nRun - Snow Patrol",
+  "score": 1,
+  "created_utc": 1748793929.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfo0tl",
+  "author": "Grittygurl",
+  "body": "John Butler  -  Ocean",
+  "score": 1,
+  "created_utc": 1748793937.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfoa0y",
+  "author": "Practical_Struggle97",
+  "body": "Minuano - Pat Metheny Group from the Still Life Talking album. \n\nhttps://youtu.be/cg0NGif5jZc?feature=shared",
+  "score": 1,
+  "created_utc": 1748794015.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfoutt",
+  "author": "Solid-Hedgehog9623",
+  "body": "The Nurse Who Loved Me by Failure   \nMagdalena by A Perfect Circle",
+  "score": 1,
+  "created_utc": 1748794189.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfp7ek",
+  "author": "ApexInTheRough",
+  "body": "Emerald Princess - Two Steps From Hell.",
+  "score": 1,
+  "created_utc": 1748794295.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfp9na",
+  "author": "G-Bombz",
+  "body": "Sunrise Through the Dusty Nebula by Hannah Peel is one of my favs",
+  "score": 1,
+  "created_utc": 1748794314.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfpzef",
+  "author": "Mean_Can2080",
+  "body": "Justice for Saint Mary - Diablo Swing Orchestra",
+  "score": 1,
+  "created_utc": 1748794532.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfq3k2",
+  "author": "CosmoCostanza12",
+  "body": "One - Metallica",
+  "score": 1,
+  "created_utc": 1748794567.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfq6gc",
+  "author": "SavezTheDayFan",
+  "body": "Angry son - indian summer",
+  "score": 1,
+  "created_utc": 1748794592.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfqm56",
+  "author": "trippystrippys",
+  "body": "Fool's overture - supertramp",
+  "score": 1,
+  "created_utc": 1748794726.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfqn1m",
+  "author": "JackPeachtree4643",
+  "body": "Dead Souls - Joy Division",
+  "score": 1,
+  "created_utc": 1748794734.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfqsi8",
+  "author": "Vono_",
+  "body": "Butterflies and hurricanes by muse",
+  "score": 1,
+  "created_utc": 1748794780.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfqyim",
+  "author": "fearminator",
+  "body": "New Noise - refused",
+  "score": 1,
+  "created_utc": 1748794832.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfr1ns",
+  "author": "mountednoble99",
+  "body": "Lightning Crashes by Live. As a matter of fact, if you just go through 90\u2019s power ballads, you\u2019ll find exactly what you\u2019re looking for!",
+  "score": 1,
+  "created_utc": 1748794858.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfr91v",
+  "author": "ComprehensiveSpot150",
+  "body": "(*Fin) by Anberlin\n\nThe Noose by A Perfect Circle\n\nBoth are fantastic.",
+  "score": 1,
+  "created_utc": 1748794921.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfru21",
+  "author": "SquareTadpole1419",
+  "body": "Indian Sunset Elton John",
+  "score": 1,
+  "created_utc": 1748795099.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfsm5a",
+  "author": "chodanutz",
+  "body": "The album \u201clight falls\u201d by Wrekmeister Harmonies. Great buildup throughout the whole album",
+  "score": 1,
+  "created_utc": 1748795336.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvft1xn",
+  "author": "RadioD-Ave",
+  "body": "There are a baZillion of these, as you can see by the comments. My favorite RECENT cut like that is PHOEBE BRIDGERS - I Know The End",
+  "score": 1,
+  "created_utc": 1748795469.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvft9al",
+  "author": "Pinup_Frenzy",
+  "body": "I Know the End \u2014 Phoebe Bridgers\n\nThe Singer Addresses His Audience \u2014 Decemberists",
+  "score": 1,
+  "created_utc": 1748795531.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfta7o",
+  "author": "big_airliner_whoa",
+  "body": "Heavy Petting by Antifilm",
+  "score": 1,
+  "created_utc": 1748795539.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvftjqz",
+  "author": "Client-channel-size",
+  "body": "Magic bus - the Who (live at leeds) \n\nBaba O\u2019Reilly - The Who",
+  "score": 1,
+  "created_utc": 1748795621.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvftmdz",
+  "author": "Longjumping_Film_896",
+  "body": "Amsterdam - Coldplay",
+  "score": 1,
+  "created_utc": 1748795643.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvftsxq",
+  "author": "PsychologicalWave666",
+  "body": "Live version of The Waitress by Tori Amos. Pure genius: https://youtu.be/AFmv3h_ic_w?feature=shared",
+  "score": 1,
+  "created_utc": 1748795698.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvftu49",
+  "author": "otcconan",
+  "body": "Obviously Stairway to Heaven.",
+  "score": 1,
+  "created_utc": 1748795708.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvftv3g",
+  "author": "DoraCanal",
+  "body": "Crack of Dawn, by John Schwab. Featuring the great Kenny Aronoff (Mellencamp, Fogerty, etc.) on drums. The slow build up, adding instruments, and then musical explosion you\u2019re looking for. Full disclosure, I wrote the lyrics. From 1990, Sisapa Record Co. https://youtu.be/5Hei1gnf3yc?si=2UPSPlaIOGTtZmBJ",
+  "score": 1,
+  "created_utc": 1748795717.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfty4i",
+  "author": "New-Recommendation44",
+  "body": "Had a Dream (Sleeping with the Enemy)\nRoger Hodgson",
+  "score": 1,
+  "created_utc": 1748795742.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvftya9",
+  "author": "-one_last_chance-",
+  "body": "Emperor of nothing - Rendered Helpless. Pretty great atmosphere across the whole song, and goddamn what an ending. Chills everytime.",
+  "score": 1,
+  "created_utc": 1748795744.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfu53n",
+  "author": "HIRA_Music",
+  "body": "H. Tool, pink maggot deftones, shine on you crazy diamond Pink Floyd, nude radio head, exit music for a film Radiohead, show your teeth audience of one",
+  "score": 1,
+  "created_utc": 1748795803.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfu5yj",
+  "author": "T-Whackx",
+  "body": "James Horner - Titanic Suite",
+  "score": 1,
+  "created_utc": 1748795810.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfu9vo",
+  "author": "Ok-Coat-7452",
+  "body": "Television Marquee Moon. Baby Baby by the Vibrators. Someone has to stick up for New Wave.",
+  "score": 1,
+  "created_utc": 1748795844.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfuf0y",
+  "author": "defenestrator95",
+  "body": "Melt by Skinny Puppy",
+  "score": 1,
+  "created_utc": 1748795888.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfuxr8",
+  "author": "RicEl2",
+  "body": "Unchained Melody - Righteous Brothers \n\nUntil the Night - Billy Joel \n\nBridge Over Troubled Water - Simon and Garfunkel   \n\nBackstreets - Bruce Springsteen",
+  "score": 1,
+  "created_utc": 1748796043.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfv952",
+  "author": "AdventurousBee2382",
+  "body": "Melatonia by highly suspect",
+  "score": 1,
+  "created_utc": 1748796139.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfvlu6",
+  "author": "Illustrious_Cycle797",
+  "body": "One mic - Nas\n\nHate me now - Nas\n\n30 seconds to mars - beautiful lies & this is war",
+  "score": 1,
+  "created_utc": 1748796245.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfvnrp",
+  "author": "jaimmo2",
+  "body": "Dust land Fairytale by The Killers.",
+  "score": 1,
+  "created_utc": 1748796261.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfwe1i",
+  "author": "VisionAri_VA",
+  "body": "Fantasy by Earth Wind & Fire.\u00a0\n\nGranted, it starts at about a 5.5 but it goes all the way to the top.\u00a0",
+  "score": 1,
+  "created_utc": 1748796481.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfwj6l",
+  "author": "JoeSchembechler",
+  "body": "Warehouse Dave Matthew\u2019s Band",
+  "score": 1,
+  "created_utc": 1748796523.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfwkcs",
+  "author": "Captain_Holly_S",
+  "body": "Lovebites - Edge of the World\n\nhttps://youtu.be/Zr99B4RvaMc?feature=shared",
+  "score": 1,
+  "created_utc": 1748796532.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfwldm",
+  "author": "DSii1983",
+  "body": "Probably my favorite song of all time, New York City Serenade by Bruce Springsteen and the truly phenomenal on this song E Street Band.  \n\nI also feel like Jimmy Eat World does this on 23, which is another of my favorites.",
+  "score": 1,
+  "created_utc": 1748796541.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfwnnh",
+  "author": "DustinTWind",
+  "body": "Sister Winter by Sufjan Stevens",
+  "score": 1,
+  "created_utc": 1748796559.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfx1ng",
+  "author": "NinjaGamer22YT",
+  "body": "Crash and Burn by Dayseeker",
+  "score": 1,
+  "created_utc": 1748796675.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfx5eg",
+  "author": "Lady_Di_0830",
+  "body": "These three epics by the Smashing Pumpkins \ud83c\udf83:\n\nStarla,\nPorcelina of the Vast Oceans,\nThru the Eyes of Ruby",
+  "score": 1,
+  "created_utc": 1748796705.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfx71p",
+  "author": "ChartRound4661",
+  "body": "Crying by Roy Orbison",
+  "score": 1,
+  "created_utc": 1748796719.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfxazs",
+  "author": "Glittering-Eye1414",
+  "body": "Take a Bow by Muse",
+  "score": 1,
+  "created_utc": 1748796751.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfxdsi",
+  "author": "Odd_Bus618",
+  "body": "Bridge over troubled waters - Simon & Garfunkle.\u00a0",
+  "score": 1,
+  "created_utc": 1748796774.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfxh5d",
+  "author": "Upstairs-Fly-8528",
+  "body": "Let it Loose - Rolling Stones",
+  "score": 1,
+  "created_utc": 1748796801.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfxhs3",
+  "author": "Affectionate_Sir4212",
+  "body": "Caprice Italien - Tchaikovsky",
+  "score": 1,
+  "created_utc": 1748796806.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfxi9t",
+  "author": "Ordinary0Citizen",
+  "body": "Innerbloom",
+  "score": 1,
+  "created_utc": 1748796810.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfxll3",
+  "author": "slideystevensax",
+  "body": "Dondante by My Morning Jacket",
+  "score": 1,
+  "created_utc": 1748796837.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfxnc3",
+  "author": "TallantedGuy",
+  "body": "Check out Tubular Bells by Mike Oldfield.",
+  "score": 1,
+  "created_utc": 1748796851.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfxrtq",
+  "author": "Dry-Move8731",
+  "body": "Stairway to heaven",
+  "score": 1,
+  "created_utc": 1748796888.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfxugv",
+  "author": "Mozzy2022",
+  "body": "The Sound of Silence (cover) by Disturbed",
+  "score": 1,
+  "created_utc": 1748796910.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfxumt",
+  "author": "PCoklahoma",
+  "body": "Iron lung and hypertension by king gizzard and the Lizzard wizard",
+  "score": 1,
+  "created_utc": 1748796911.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfye4h",
+  "author": "hope_foreverinc",
+  "body": "Fade to black by metallica \n\nThe call of kthulhu by metallica \n\nWelcome home Sanitarium by metallica \n\nOne by metallica \n\nInamorata by metallica \n\nSouth of heaven by slayer \n\nMagic dragon by sodom",
+  "score": 1,
+  "created_utc": 1748797070.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfyezj",
+  "author": "Psychological-Way-47",
+  "body": "LA Woman by the Doors. Also their version of Gloria.",
+  "score": 1,
+  "created_utc": 1748797078.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfyhar",
+  "author": "DustComprehensive155",
+  "body": "Comfortably Numb by Pink Floyd but the 2016 live version at Pompeii.",
+  "score": 1,
+  "created_utc": 1748797097.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfyi1m",
+  "author": "Automatic-Yak-7802",
+  "body": "Descending by Tool. Epic finale where you can almost see an angel or other being descend from above.",
+  "score": 1,
+  "created_utc": 1748797103.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfyolb",
+  "author": "SmarmyArmy",
+  "body": "Daily Mail by Radiohead.",
+  "score": 1,
+  "created_utc": 1748797157.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfyrki",
+  "author": "None",
+  "body": "70's and early/mid 80's popular music has the best opportunity for examples of this genre\n\nIt is colloquially known as progressive rock\n\nMany classical pieces do follow this protocol of design, which has obviously lasted through many generations",
+  "score": 1,
+  "created_utc": 1748797180.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfyrqb",
+  "author": "Equivalent_Ferret900",
+  "body": "Toubabou - J\u2019Freak Assez kinda has that\n\nHarmonium - Comme Un Sage kinda has that",
+  "score": 1,
+  "created_utc": 1748797182.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfytjx",
+  "author": "Comprehensive_Roof62",
+  "body": "Shine on you crazy diamond",
+  "score": 1,
+  "created_utc": 1748797196.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfz4ld",
+  "author": "DoookieMaxx",
+  "body": "Soma: Smashing Pumpkins",
+  "score": 1,
+  "created_utc": 1748797287.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfzat8",
+  "author": "randomperson9426",
+  "body": "This version of Harry Hood by Phish. Specifically 5:50 through the end of the song but I recommend listening to the whole composition. Enjoy!\n[https://youtu.be/2TWrZ4nJ5Nk?si=Ig8TceKs6Pby9HmL](https://youtu.be/2TWrZ4nJ5Nk?si=Ig8TceKs6Pby9HmL)",
+  "score": 1,
+  "created_utc": 1748797338.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfzd47",
+  "author": "Objective-Ad-1368",
+  "body": "Say Goodbye - Dave Matthew\u2019s",
+  "score": 1,
+  "created_utc": 1748797357.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfzg5e",
+  "author": "Carnegiejy",
+  "body": "I'll just say it. Stairway to Heaven, Led Zeppelin.",
+  "score": 1,
+  "created_utc": 1748797383.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvfzz2g",
+  "author": "SmokeGhastly",
+  "body": "Condor44 - 00203\n\nJust learned of them like 3 days ago. Super slow build. But man when she starts singing\u2026 my heart melts.",
+  "score": 1,
+  "created_utc": 1748797540.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg0jip",
+  "author": "MrRob_oto1959",
+  "body": "Patience - Micah P. Hinson",
+  "score": 1,
+  "created_utc": 1748797707.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg0ph4",
+  "author": "rick-in-the-nati",
+  "body": "Double Life by The Cars.  In addition to the buildup, the mixing and engineering are incredible.",
+  "score": 1,
+  "created_utc": 1748797756.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg0r7j",
+  "author": "mister_thinky",
+  "body": "Led Zeppelin - Stairway to Heaven \n\nPink Floyd - Comfortably Numb\n\nRadiohead - True love waits (Live in Oslo) is very crescendo.\n\nLow - Lullaby",
+  "score": 1,
+  "created_utc": 1748797771.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg0t2m",
+  "author": "spiritedawhey",
+  "body": "Pluto projector",
+  "score": 1,
+  "created_utc": 1748797786.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg118q",
+  "author": "BocaSeniorsWsM",
+  "body": "505 - Arctic Monkeys \n\nVincent - Car Seat Headrest",
+  "score": 1,
+  "created_utc": 1748797853.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg1891",
+  "author": "Open-Trouble-7264",
+  "body": "Anything songs by Two Steps From Hell/Thomas Bergen.\u00a0",
+  "score": 1,
+  "created_utc": 1748797912.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg199m",
+  "author": "Ciscomybeloved",
+  "body": "I'll take you everywhere -penfold",
+  "score": 1,
+  "created_utc": 1748797921.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg1b2l",
+  "author": "sammy_anarchist",
+  "body": "\"Minute-Hour-Day-Week-Month-Year\" - City of Caterpillar",
+  "score": 1,
+  "created_utc": 1748797936.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg1byd",
+  "author": "Snoo93809",
+  "body": "The beautiful ones- Prince",
+  "score": 1,
+  "created_utc": 1748797943.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg1dmk",
+  "author": "Timely-Profile1865",
+  "body": "Russian Easter Overture - Nicolai Rimksy-Korsikov",
+  "score": 1,
+  "created_utc": 1748797956.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg1e57",
+  "author": "Snoo93809",
+  "body": "Auntie diaries- Kendrick Lamar",
+  "score": 1,
+  "created_utc": 1748797961.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg1fy5",
+  "author": "deltadawn5555",
+  "body": "Symphonic Fantastique by Berlioz, movement 4- March to the scaffold.",
+  "score": 1,
+  "created_utc": 1748797975.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg1jft",
+  "author": "ImaginaryUnion6950",
+  "body": "Bridge Over Troubled Water - Elvis Presley",
+  "score": 1,
+  "created_utc": 1748798004.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg1paq",
+  "author": "morticia_is_might",
+  "body": "Happier than ever by Billie Eilish",
+  "score": 1,
+  "created_utc": 1748798052.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg20ih",
+  "author": "flwoman4lyfe",
+  "body": "Villains of circumstance- Queens of the Stone Age",
+  "score": 1,
+  "created_utc": 1748798142.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg2wu1",
+  "author": "dogbolter4",
+  "body": "I know the End - Phoebe Bridger",
+  "score": 1,
+  "created_utc": 1748798402.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg2zkm",
+  "author": "Penguinofmyspirit",
+  "body": "21 questions by waterparks.",
+  "score": 1,
+  "created_utc": 1748798423.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg33qu",
+  "author": "marvelette2172",
+  "body": "Hey Jude by The Beatles\u00a0",
+  "score": 1,
+  "created_utc": 1748798457.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg3mhw",
+  "author": "Sneaker_Pump",
+  "body": "\u201cSowing The Seeds Of Love\u201d - Tears For Fears",
+  "score": 1,
+  "created_utc": 1748798608.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg3myg",
+  "author": "bizzareoptimistic",
+  "body": "Flood by Hippo Campus; Concorde by Black Country, New Road; Become a Mountain by Dan Deacon; Slow Dance Slow by The Weather Machine; Lemon Tree by Mt. Joy; Sedona by Houndmouth (sorry for formatting I\u2019m on mobile)",
+  "score": 1,
+  "created_utc": 1748798612.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg3qbm",
+  "author": "Nafecruss",
+  "body": "Education by The Kinks.",
+  "score": 1,
+  "created_utc": 1748798639.0,
+  "parent_id": "t3_1l0phg7"
+}
+{
+  "id": "mvg7fqy",
+  "author": "Maiqutol",
+  "body": "Greig's \"In the Hall of the Moutain King\" is worth a mention.",
+  "score": 34,
+  "created_utc": 1748799716.0,
+  "parent_id": "t1_mvf01dj"
+}
+{
+  "id": "mvge4bz",
+  "author": "obxgaga",
+  "body": "Ravel\u2019s Bolero",
+  "score": 20,
+  "created_utc": 1748801655.0,
+  "parent_id": "t1_mvf01dj"
+}
+{
+  "id": "mvf7nqj",
+  "author": "fancypantspartytime",
+  "body": "The ultimate build up..",
+  "score": 5,
+  "created_utc": 1748789042.0,
+  "parent_id": "t1_mvf01dj"
+}
+{
+  "id": "mvhhkbf",
+  "author": "JadieJang",
+  "body": "One of my favorites!",
+  "score": 2,
+  "created_utc": 1748813801.0,
+  "parent_id": "t1_mvf01dj"
+}
+{
+  "id": "mvsv5ac",
+  "author": "toriomandr_av",
+  "body": "Godspeed You! Black Emperor basically built a whole career on that structure - try Storm or Sleep and let it swallow you whole.",
+  "score": 2,
+  "created_utc": 1748970250.0,
+  "parent_id": "t1_mvf3aub"
+}
+{
+  "id": "mwlinwc",
+  "author": "Tacoguy89",
+  "body": "But do you want me to throw the toaster in the tub when it peaks?",
+  "score": 2,
+  "created_utc": 1749352403.0,
+  "parent_id": "t1_mvf3aub"
+}
+{
+  "id": "mvg3s7o",
+  "author": "Save-theZombies",
+  "body": "Definitely. Sounds like op might dig some of the old Genesis albums too. Check out The Musical Box, Suppers Ready, and The Knife for songs with a In The Air Tonight level of climax.",
+  "score": 10,
+  "created_utc": 1748798654.0,
+  "parent_id": "t1_mvf3psb"
+}
+{
+  "id": "mvg6i68",
+  "author": "bojevnim",
+  "body": "But from in this moment",
+  "score": 4,
+  "created_utc": 1748799448.0,
+  "parent_id": "t1_mvf3psb"
+}
+{
+  "id": "mvjhief",
+  "author": "voodidit",
+  "body": "Beat me to it!",
+  "score": 2,
+  "created_utc": 1748841837.0,
+  "parent_id": "t1_mvf3psb"
+}
+{
+  "id": "mvn8wkb",
+  "author": "oloolo1998",
+  "body": "Mama has got the fit this too",
+  "score": 2,
+  "created_utc": 1748893704.0,
+  "parent_id": "t1_mvf3psb"
+}
+{
+  "id": "mvpbp14",
+  "author": "Green_leaf47",
+  "body": "Ba-dump, ba-dump, ba-dump, ba-dump, BA-DA-DA\nI loved the buildup in that song as a young teen. Pretty sure I taped it off the radio",
+  "score": 2,
+  "created_utc": 1748918161.0,
+  "parent_id": "t1_mvf3psb"
+}
+{
+  "id": "mwhj3dh",
+  "author": "dgraskin",
+  "body": "Yesssssss!",
+  "score": 2,
+  "created_utc": 1749302903.0,
+  "parent_id": "t1_mvf3psb"
+}
+{
+  "id": "mvgadds",
+  "author": "Academic-Bathroom770",
+  "body": "Absolutely my first thought as well. I will raise you, You And Whose Army by Radiohead.",
+  "score": 12,
+  "created_utc": 1748800560.0,
+  "parent_id": "t1_mvf1m00"
+}
+{
+  "id": "mvhfq7p",
+  "author": "Jeepsy-",
+  "body": "First thought! Perfection \ud83d\udc4c",
+  "score": 3,
+  "created_utc": 1748813200.0,
+  "parent_id": "t1_mvf1m00"
+}
+{
+  "id": "mvf5r0r",
+  "author": "Mirrhour",
+  "body": "The Doors were great at this. When the Music\u2019s Over and The End do this, too, and Riders on the Storm to a certain extent(even if the whole song is more chill, it gets more frantic on the organ)",
+  "score": 23,
+  "created_utc": 1748788489.0,
+  "parent_id": "t1_mvf066s"
+}
+{
+  "id": "mvf1p68",
+  "author": "Just_Year1575",
+  "body": "Janes Addiction - Summertime Rolls\n\nPs OP: you\u2019re welcome",
+  "score": 15,
+  "created_utc": 1748787223.0,
+  "parent_id": "t1_mvf0pwb"
+}
+{
+  "id": "mvgsngm",
+  "author": "CoachKillerTrae",
+  "body": "Such a good tune! I\u2019m so glad im seeing this high up in the replies",
+  "score": 5,
+  "created_utc": 1748806042.0,
+  "parent_id": "t1_mvf0pwb"
+}
+{
+  "id": "mvg70a5",
+  "author": "Forward-Advantage-40",
+  "body": "Also, Jane's Addiction \"Ted, Just Admit It\".",
+  "score": 2,
+  "created_utc": 1748799593.0,
+  "parent_id": "t1_mvf0pwb"
+}
+{
+  "id": "mvjtvg2",
+  "author": "transdermalcelebrity",
+  "body": "Oh good pick!",
+  "score": 2,
+  "created_utc": 1748848773.0,
+  "parent_id": "t1_mvf0pwb"
+}
+{
+  "id": "mvodjvg",
+  "author": "Dizzy-Range6561",
+  "body": "Outstanding.",
+  "score": 2,
+  "created_utc": 1748906038.0,
+  "parent_id": "t1_mvf0pwb"
+}
+{
+  "id": "mvud30k",
+  "author": "starlingtons",
+  "body": "The first song that I thought to recommend.  My favorite rock track.",
+  "score": 2,
+  "created_utc": 1748986246.0,
+  "parent_id": "t1_mvf0pwb"
+}
+{
+  "id": "mw4h2hz",
+  "author": "tennanth",
+  "body": "My 11 y/o gets so annoyed at me when this song comes up in my playlist. Volume UP!! Haha!",
+  "score": 2,
+  "created_utc": 1749126627.0,
+  "parent_id": "t1_mvf0pwb"
+}
+{
+  "id": "mvgcsa4",
+  "author": "Lenin36",
+  "body": "Tool is the goat of this",
+  "score": 21,
+  "created_utc": 1748801261.0,
+  "parent_id": "t1_mveygsk"
+}
+{
+  "id": "mvf6p62",
+  "author": "AncientExercise3755",
+  "body": "Also wings pt 1&2 and right in two. Tool is so good at doing this tbh",
+  "score": 20,
+  "created_utc": 1748788764.0,
+  "parent_id": "t1_mveygsk"
+}
+{
+  "id": "mvg2n02",
+  "author": "loganrunjack",
+  "body": "Also The Patient, Invincible, and Lateralus, honestly a huge chunk of their discography does this.",
+  "score": 17,
+  "created_utc": 1748798324.0,
+  "parent_id": "t1_mveygsk"
+}
+{
+  "id": "mvi3jge",
+  "author": "BC_2",
+  "body": "Or the Salival version of Pushit",
+  "score": 6,
+  "created_utc": 1748821361.0,
+  "parent_id": "t1_mveygsk"
+}
+{
+  "id": "mvn9bhg",
+  "author": "tebbewij",
+  "body": "Came to comment most tool songs",
+  "score": 2,
+  "created_utc": 1748893824.0,
+  "parent_id": "t1_mveygsk"
+}
+{
+  "id": "mvezi4e",
+  "author": "mojeaux_j",
+  "body": "Beat me to it",
+  "score": 2,
+  "created_utc": 1748786507.0,
+  "parent_id": "t1_mveygsk"
+}
+{
+  "id": "mvfsl9s",
+  "author": "Elric71",
+  "body": "Fade to Black by Metallica as well.",
+  "score": 23,
+  "created_utc": 1748795328.0,
+  "parent_id": "t1_mvez9zf"
+}
+{
+  "id": "mvghras",
+  "author": "ElwoodRules2008",
+  "body": "Call of Ktulu with the orchestra is amazing too",
+  "score": 16,
+  "created_utc": 1748802747.0,
+  "parent_id": "t1_mvez9zf"
+}
+{
+  "id": "mvjg6xm",
+  "author": "Rocktothenaj",
+  "body": "Bleeding Me",
+  "score": 5,
+  "created_utc": 1748841159.0,
+  "parent_id": "t1_mvez9zf"
+}
+{
+  "id": "mvf4x60",
+  "author": "clsslsqub",
+  "body": "Saw this live last night and it's genuinely just as incredible",
+  "score": 7,
+  "created_utc": 1748788235.0,
+  "parent_id": "t1_mvez4n5"
+}
+{
+  "id": "mvgtieq",
+  "author": "ZombieQueen77",
+  "body": "Do you mean the song Freebird by Lynyrd Skynyrd or The Firebird by Igor Stravinsky??",
+  "score": 2,
+  "created_utc": 1748806307.0,
+  "parent_id": "t1_mvez4n5"
+}
+{
+  "id": "mvfl9br",
+  "author": "OkieBobbie",
+  "body": "Bo Derek fans remember this one.",
+  "score": 10,
+  "created_utc": 1748793102.0,
+  "parent_id": "t1_mvfgmfr"
+}
+{
+  "id": "mvgrldi",
+  "author": "Foxfire2",
+  "body": "Also ELP did Abbadon\u2019s Bolero,  its own melody that layers synth keyboards, adding a new one every repeat.",
+  "score": 4,
+  "created_utc": 1748805718.0,
+  "parent_id": "t1_mvfgmfr"
+}
+{
+  "id": "mvgtxjk",
+  "author": "BrE6r",
+  "body": "The ultimate",
+  "score": 3,
+  "created_utc": 1748806436.0,
+  "parent_id": "t1_mvfgmfr"
+}
+{
+  "id": "mvh93m0",
+  "author": "Kakistocrat945",
+  "body": "This should be at the absolute top of the list. The whole song is one long, consistent crescendo, full of drama and fire.",
+  "score": 3,
+  "created_utc": 1748811081.0,
+  "parent_id": "t1_mvfgmfr"
+}
+{
+  "id": "mvkkssf",
+  "author": "HipsEnergy",
+  "body": "Love that. And the ballet, the Jorge Donn/B\u00e9jart choreography on the red table. Saw him live in Buenos Aires in the 80s. The end of Lelouch's Les Uns et Les Autres, with him dancing it under the Eiffel Tower while the orchestra plays on the Arc de Triomphe, is staggeringly gorgeous",
+  "score": 2,
+  "created_utc": 1748864013.0,
+  "parent_id": "t1_mvfgmfr"
+}
+{
+  "id": "mvggch6",
+  "author": "her_pheonix",
+  "body": "Was scrolling down to see if anyone has included this, you have exquisite taste !",
+  "score": 5,
+  "created_utc": 1748802321.0,
+  "parent_id": "t1_mvfwcak"
+}
+{
+  "id": "mvhxpv7",
+  "author": "noradosmith",
+  "body": "Ooh yes that guitar at the end with that big chord breakdown is amazing",
+  "score": 2,
+  "created_utc": 1748819336.0,
+  "parent_id": "t1_mvfwcak"
+}
+{
+  "id": "mvod54x",
+  "author": "Zouzouny",
+  "body": "Thank you!! Amazing one!\u00a0",
+  "score": 2,
+  "created_utc": 1748905902.0,
+  "parent_id": "t1_mvfwcak"
+}
+{
+  "id": "mvhfbbs",
+  "author": "Creative_Bicycle7623",
+  "body": "anyone scrolling though this thread looking for songs PLEASE listen to this person.",
+  "score": 5,
+  "created_utc": 1748813064.0,
+  "parent_id": "t1_mvezf7a"
+}
+{
+  "id": "mvfic9v",
+  "author": "Over-Beat6442",
+  "body": "Also Hey Jude\n\n\nAnd in classical music Ravel's Bolero\u00a0",
+  "score": 31,
+  "created_utc": 1748792229.0,
+  "parent_id": "t1_mvf2wkp"
+}
+{
+  "id": "mvfwcv5",
+  "author": "dingalingpanda",
+  "body": "Also \"I want you (she's so heavy)\"",
+  "score": 11,
+  "created_utc": 1748796471.0,
+  "parent_id": "t1_mvf2wkp"
+}
+{
+  "id": "mvf147g",
+  "author": "Accurate-Long-9289",
+  "body": "I love that whole LP.  You truly haven\u2019t heard it until you have heard it on vinyl through tube electronics and electrostatic speakers :-)",
+  "score": 10,
+  "created_utc": 1748787036.0,
+  "parent_id": "t1_mvezg2z"
+}
+{
+  "id": "mvhmr5l",
+  "author": "going_gray",
+  "body": "This has always been the song I considered the best combo of piano and guitar.  Just a great composition.",
+  "score": 6,
+  "created_utc": 1748815518.0,
+  "parent_id": "t1_mvezg2z"
+}
+{
+  "id": "mw2xvac",
+  "author": "wittzhittz",
+  "body": "I really like the slow part around 5ish minutes",
+  "score": 2,
+  "created_utc": 1749098034.0,
+  "parent_id": "t1_mvezg2z"
+}
+{
+  "id": "mvnscl3",
+  "author": "Prof-Wagstaff-42",
+  "body": "Also Love Reign O\u2019er Me.",
+  "score": 2,
+  "created_utc": 1748899303.0,
+  "parent_id": "t1_mvf18vv"
+}
+{
+  "id": "mvggyyc",
+  "author": "trycuriouscat",
+  "body": "\"Untitled 8\" - Sigur R\u00f3s",
+  "score": 6,
+  "created_utc": 1748802509.0,
+  "parent_id": "t1_mvf2tdp"
+}
+{
+  "id": "mvhzszf",
+  "author": "LizDaShizzz",
+  "body": "Sigur Ros is great!",
+  "score": 4,
+  "created_utc": 1748820056.0,
+  "parent_id": "t1_mvf2tdp"
+}
+{
+  "id": "mvym74f",
+  "author": "TrustInMe_JustInMe",
+  "body": "Sigur R\u00f3s - YES!",
+  "score": 2,
+  "created_utc": 1749048778.0,
+  "parent_id": "t1_mvf2tdp"
+}
+{
+  "id": "mvghdpa",
+  "author": "WARitter",
+  "body": "I like how you don\u2019t even have a song here just the band.\n\nBut let\u2019s go with East Hastings.",
+  "score": 9,
+  "created_utc": 1748802634.0,
+  "parent_id": "t1_mvf36h9"
+}
+{
+  "id": "mvkfrlv",
+  "author": "Zouzouny",
+  "body": "Omg thank you for the discovery, exactly what I was looking for!\u00a0",
+  "score": 2,
+  "created_utc": 1748861648.0,
+  "parent_id": "t1_mvf36h9"
+}
+{
+  "id": "mw6mi4h",
+  "author": "echoota",
+  "body": "Mogwai was similar if I recall.",
+  "score": 2,
+  "created_utc": 1749149596.0,
+  "parent_id": "t1_mvf36h9"
+}
+{
+  "id": "mvfck1b",
+  "author": "jackstraw_65",
+  "body": "I\u2019m no big U2 fan, but I always come back to that one, certainly my favorite song by them",
+  "score": 8,
+  "created_utc": 1748790499.0,
+  "parent_id": "t1_mvf03e8"
+}
+{
+  "id": "mvhxflt",
+  "author": "noradosmith",
+  "body": "The wide awake in America version is the best one. Better than the studio recording even",
+  "score": 6,
+  "created_utc": 1748819236.0,
+  "parent_id": "t1_mvf03e8"
+}
+{
+  "id": "mvk9fbq",
+  "author": "mtlpvd",
+  "body": "U2 could sure write a crescendo.  Off the top of my head: Bad, Sometimes You Can\u2019t Make It, Ground Beneath Her Feet, Kite, One, I Will Follow, Stuck In A Moment, Hawkmoon, the list goes on forever.  Shit, even the recent, soft as shit songs have crescendos. Google Every Breaking Wave from European VMAs.  Stupid how good they are at it.",
+  "score": 5,
+  "created_utc": 1748858261.0,
+  "parent_id": "t1_mvf03e8"
+}
+{
+  "id": "mvkdyha",
+  "author": "Round_Raspberry_8516",
+  "body": "Hawkmoon off Rattle and Hum is even more perfect.",
+  "score": 5,
+  "created_utc": 1748860744.0,
+  "parent_id": "t1_mvf03e8"
+}
+{
+  "id": "mviah5l",
+  "author": "planetclairevoyant",
+  "body": "\u201cAll I Want is You\u201d also has a great buildup (and brilliant use of strings)",
+  "score": 4,
+  "created_utc": 1748823867.0,
+  "parent_id": "t1_mvf03e8"
+}
+{
+  "id": "mvfcrrg",
+  "author": "Donkey_Karate",
+  "body": "I went with Morning Dew, but Terrapin is a good call too.",
+  "score": 6,
+  "created_utc": 1748790563.0,
+  "parent_id": "t1_mvf3xn8"
+}
+{
+  "id": "mvg8evg",
+  "author": "TJF3",
+  "body": "Came here to say Wharf Rat. Stella Blue also for that matter.",
+  "score": 2,
+  "created_utc": 1748799996.0,
+  "parent_id": "t1_mvf3xn8"
+}
+{
+  "id": "mvoeaf7",
+  "author": "Zouzouny",
+  "body": "One of my favourite songs of all time, the guitar melody in the intro is so beautiful I could cry",
+  "score": 4,
+  "created_utc": 1748906280.0,
+  "parent_id": "t1_mvf7z47"
+}
+{
+  "id": "mvkig4v",
+  "author": "Oliverr124",
+  "body": "This!!!",
+  "score": 3,
+  "created_utc": 1748862936.0,
+  "parent_id": "t1_mvf7z47"
+}
+{
+  "id": "mvl1bi2",
+  "author": "LukeMayeshothand",
+  "body": "Those drums\u2026",
+  "score": 3,
+  "created_utc": 1748870450.0,
+  "parent_id": "t1_mvf7z47"
+}
+{
+  "id": "mvqfls6",
+  "author": "Fartyparty_marty",
+  "body": "I got told once I reminded somebody of this song and I e never felt more special",
+  "score": 2,
+  "created_utc": 1748937539.0,
+  "parent_id": "t1_mvf7z47"
+}
+{
+  "id": "mwdsu23",
+  "author": "TuckyTheHunter",
+  "body": "In terms of the \u201cbuild,\u201d nothing competes with this.",
+  "score": 2,
+  "created_utc": 1749243289.0,
+  "parent_id": "t1_mvf7z47"
+}
+{
+  "id": "mvs09re",
+  "author": "KickedMyHeight",
+  "body": "Gallows Pole is epic!",
+  "score": 2,
+  "created_utc": 1748961619.0,
+  "parent_id": "t1_mveylqc"
+}
+{
+  "id": "mw2z77m",
+  "author": "ryanx9123",
+  "body": "I am blown away I saw Gallows Pole before Stairway",
+  "score": 2,
+  "created_utc": 1749098651.0,
+  "parent_id": "t1_mveylqc"
+}
+{
+  "id": "mvfq68f",
+  "author": "Fast-Ad-5347",
+  "body": "Ooooh good one",
+  "score": 3,
+  "created_utc": 1748794590.0,
+  "parent_id": "t1_mvf5o30"
+}
+{
+  "id": "mvj0k7p",
+  "author": "Ok_Resolution8317",
+  "body": "Paradise City as well",
+  "score": 3,
+  "created_utc": 1748833903.0,
+  "parent_id": "t1_mvfdtfe"
+}
+{
+  "id": "mvfnq8n",
+  "author": "Xure_Xan",
+  "body": "Also Burn-Up by Siouxsie, so camp.",
+  "score": 2,
+  "created_utc": 1748793849.0,
+  "parent_id": "t1_mvf1843"
+}
+{
+  "id": "mvigsu2",
+  "author": "SingingBike",
+  "body": "Holy shite, this list took me back to my twenties!!",
+  "score": 2,
+  "created_utc": 1748826243.0,
+  "parent_id": "t1_mvf1843"
+}
+{
+  "id": "mvynfny",
+  "author": "TrustInMe_JustInMe",
+  "body": "Great list & taste in music.",
+  "score": 2,
+  "created_utc": 1749049126.0,
+  "parent_id": "t1_mvf1843"
+}
+{
+  "id": "mvij8ht",
+  "author": "spizzle_",
+  "body": "\u201cWhite Rabbit,\u201d I shouted. \u201cI want a rising sound \u2026 Let it roll. Just as high as the fucker can go. And when it peaks\u2014\u201d I dropped the radio in the tub.",
+  "score": 4,
+  "created_utc": 1748827164.0,
+  "parent_id": "t1_mvfc3ff"
+}
+{
+  "id": "mvkl00z",
+  "author": "HipsEnergy",
+  "body": "The one with Bowie",
+  "score": 3,
+  "created_utc": 1748864104.0,
+  "parent_id": "t1_mvf22vk"
+}
+{
+  "id": "mvopc2w",
+  "author": "ChelseaChicken",
+  "body": "Starman by Bowie.",
+  "score": 2,
+  "created_utc": 1748910065.0,
+  "parent_id": "t1_mvf22vk"
+}
+{
+  "id": "mw49dto",
+  "author": "Previous-Table-2852",
+  "body": "I was done in on the weekend... The weekend lasted 20 years...",
+  "score": 2,
+  "created_utc": 1749123598.0,
+  "parent_id": "t1_mvez14n"
+}
+{
+  "id": "mvg2n9y",
+  "author": "brucehammersteak",
+  "body": "It\u2019s not corny! It\u2019s just getting you ready for the good part. Amazing song",
+  "score": 5,
+  "created_utc": 1748798326.0,
+  "parent_id": "t1_mvezhcu"
+}
+{
+  "id": "mvi3hgu",
+  "author": "joyunauthorized",
+  "body": "Feeling Stronger Everyday by Chicago too",
+  "score": 2,
+  "created_utc": 1748821342.0,
+  "parent_id": "t1_mvezhcu"
+}
+{
+  "id": "mvgfbad",
+  "author": "her_pheonix",
+  "body": "Great song from a great album !",
+  "score": 4,
+  "created_utc": 1748802011.0,
+  "parent_id": "t1_mvf04rf"
+}
+{
+  "id": "mvgdp7e",
+  "author": "Coherent_Thot",
+  "body": "Nice list! Paradise Theatre is such a great album!\n\nI'd add Foreplay/Longtime - Boston",
+  "score": 2,
+  "created_utc": 1748801531.0,
+  "parent_id": "t1_mvf0ptt"
+}
+{
+  "id": "mvfagpl",
+  "author": "Expert_Habit9520",
+  "body": "Yep, Stairway To Heaven, and One, were the first songs I thought of when I saw the premise of the thread.",
+  "score": 3,
+  "created_utc": 1748789869.0,
+  "parent_id": "t1_mvf0ptt"
+}
+{
+  "id": "mvg6ynq",
+  "author": "Lightening-bird",
+  "body": "Absolute kung fu masters of crescendo musicality. Their concerts swing from grooves to rock on blast a dozen times with goosebumps and scalp tingle. TTB is the jam band all stars all stars. Highly recommend. Mr Trucks has no equal on the slide.",
+  "score": 2,
+  "created_utc": 1748799580.0,
+  "parent_id": "t1_mvf9bg0"
+}
+{
+  "id": "mvwng4b",
+  "author": "MaenadFrenzy",
+  "body": "One of my favourite songs of all time.\nI think Crime of the Century fits, too.",
+  "score": 2,
+  "created_utc": 1749017389.0,
+  "parent_id": "t1_mvf8hdw"
+}
+{
+  "id": "mvjs5vg",
+  "author": "design_doc",
+  "body": "That whole song is just a vehicle for that high-flying, face-melting riff at the end and I will forever love every damned second of it",
+  "score": 2,
+  "created_utc": 1748847752.0,
+  "parent_id": "t1_mvgskpr"
+}
+{
+  "id": "mvpji5l",
+  "author": "Quags3651",
+  "body": "Sticking w/ PJ, I\u2019d suggest Present Tense for this",
+  "score": 2,
+  "created_utc": 1748921221.0,
+  "parent_id": "t1_mvgskpr"
+}
+{
+  "id": "mw37xys",
+  "author": "Curious-ficus-6510",
+  "body": "Oh yes!",
+  "score": 2,
+  "created_utc": 1749103045.0,
+  "parent_id": "t1_mvf5xek"
+}
+{
+  "id": "mw382pf",
+  "author": "Curious-ficus-6510",
+  "body": "My Gen Zed son just got into this recently.",
+  "score": 2,
+  "created_utc": 1749103113.0,
+  "parent_id": "t1_mvff0lq"
+}
+{
+  "id": "mviq83r",
+  "author": "Successful_Yam2175",
+  "body": "Thanks for some great music",
+  "score": 2,
+  "created_utc": 1748829808.0,
+  "parent_id": "t1_mvez8uk"
+}
+{
+  "id": "mvljfzz",
+  "author": "heridfel37",
+  "body": "I actually prefer the studio version, since it spends a bit less time wandering around. Nevertheless, the payoff at the end is fantastic",
+  "score": 2,
+  "created_utc": 1748876157.0,
+  "parent_id": "t1_mvgnip0"
+}
+{
+  "id": "mz29wrj",
+  "author": "ProfessionalLink61",
+  "body": "Calm before the storm, also",
+  "score": 2,
+  "created_utc": 1750546670.0,
+  "parent_id": "t1_mveyq3f"
+}
+{
+  "id": "mvgmrjt",
+  "author": "Frehley666",
+  "body": "Peter Gabriel\u2019s Secret World live version is especially awesome with the energy of the crowd. That whole concert is really great. Watch the video of the whole concert, great performances.",
+  "score": 2,
+  "created_utc": 1748804248.0,
+  "parent_id": "t1_mvfeoft"
+}
+{
+  "id": "mvi66sa",
+  "author": "Disastrous-Street-15",
+  "body": "Jimmy Eat World is excellent at this.  Other fine examples are For Me This Is Heaven and Closer.",
+  "score": 2,
+  "created_utc": 1748822295.0,
+  "parent_id": "t1_mvfwldm"
+}
+{
+  "id": "mvlt5q5",
+  "author": "mffinearts",
+  "body": "Always worth the mention. Such an amazing and fun piece.",
+  "score": 2,
+  "created_utc": 1748878961.0,
+  "parent_id": "t1_mvg7fqy"
+}
+{
+  "id": "mvun5t7",
+  "author": "aseedandco",
+  "body": "Sometimes I think about the time my husband casually dropped the title and composer when it came on the radio, and I melt all over again.",
+  "score": 2,
+  "created_utc": 1748989430.0,
+  "parent_id": "t1_mvg7fqy"
+}
+{
+  "id": "mvf80dp",
+  "author": "norecordofwrong",
+  "body": "Truly. But Hallelujah Chorus a close second.",
+  "score": 13,
+  "created_utc": 1748789144.0,
+  "parent_id": "t1_mvf7nqj"
+}
+{
+  "id": "mvjgagq",
+  "author": "HurryEnvironmental71",
+  "body": "The Lamb Lies Down on Broadway. This one has Carpet Crawlers...",
+  "score": 4,
+  "created_utc": 1748841209.0,
+  "parent_id": "t1_mvg3s7o"
+}
+{
+  "id": "mvoccvl",
+  "author": "Stipenddelta",
+  "body": "Blood on the rooftops is great",
+  "score": 3,
+  "created_utc": 1748905642.0,
+  "parent_id": "t1_mvg3s7o"
+}
+{
+  "id": "mwb0oh2",
+  "author": "MajorMinceMeat",
+  "body": "On the subject of Genesis, journey is a good choice too. I feel songs like stay together for the kids by blink 182 would be a good option here. Each instrument comes in similarly then plays together and eventually ramps up but with a faster pop punk style that blink 182 cemented and everyone else copied. They started small and built up on the small start ultimately leading to the wall of sound and chorus accompanied by lyrics about a broken family internalizing the suffering of hark hoppus around the time it was written over his parents divorce. Blink 182 is generally not the kind of band that I would lump in the same arena with Phil Collins and Genesis but when comparing stay together for the kids and calling in the air tonight are played next to each other despite structural differences in the way the songs are performed and composed but both do one thing that they have in common. They create an atmosphere using their tempo, pacing, and key as well as subject matter to draw emotions using their similarly long playtimes (3:58 and 5:38  minutes respectively) to create a similar atmospheric slow burn. Where Phil Collins used a gradual crescendo over the course of the song (increase in volume for the nom music minded) to climax, blink 182 switches up the structure introducing each instrument until about about 22 seconds when mark hopus's vocals start eventually suddenly diming the signal coming from his guitar to create the \"wall of sound\" using distortion on the lead guitar to replace the thin almost clean twangy tone from the intro and verses. Blink 182 used volume dynamics in a different way that still created a song almost equally as epic and relatable with a banging melody in it's own respective genre of rock.",
+  "score": 2,
+  "created_utc": 1749213138.0,
+  "parent_id": "t1_mvg3s7o"
+}
+{
+  "id": "mvi45jr",
+  "author": "Zealousideal_Hurry20",
+  "body": "She butchered that cover, in my opinion. She's one of the most annoying vocalists in my book. That over-sexualised crap she does is awful.",
+  "score": 4,
+  "created_utc": 1748821575.0,
+  "parent_id": "t1_mvg6i68"
+}
+{
+  "id": "mviw2eh",
+  "author": "00-Void",
+  "body": "From Marilyn Manson.",
+  "score": 5,
+  "created_utc": 1748832071.0,
+  "parent_id": "t1_mvg6i68"
+}
+{
+  "id": "mvgty1k",
+  "author": "PresidentPopcorn",
+  "body": "Just to round things off 2+2=5, Sit Down/Stand Up, All I Need",
+  "score": 6,
+  "created_utc": 1748806441.0,
+  "parent_id": "t1_mvgadds"
+}
+{
+  "id": "mvhc07t",
+  "author": "Matika7",
+  "body": "Also their cover of Gloria.",
+  "score": 2,
+  "created_utc": 1748811997.0,
+  "parent_id": "t1_mvf5r0r"
+}
+{
+  "id": "mvg2s1v",
+  "author": "ApobangpoARMY",
+  "body": "And *Then She Did* also from Ritual",
+  "score": 10,
+  "created_utc": 1748798364.0,
+  "parent_id": "t1_mvf1p68"
+}
+{
+  "id": "mvhjsam",
+  "author": "overmonk",
+  "body": "That whole album kicks ass",
+  "score": 3,
+  "created_utc": 1748814528.0,
+  "parent_id": "t1_mvf1p68"
+}
+{
+  "id": "mvhqqnn",
+  "author": "DoraCanal",
+  "body": "Maynard James Keenan\u2019s dad (Mike Keenan) was my biology teacher in high school.",
+  "score": 14,
+  "created_utc": 1748816903.0,
+  "parent_id": "t1_mvgcsa4"
+}
+{
+  "id": "mvfnvzl",
+  "author": "Special-Opposite-830",
+  "body": "Right in two came to mind. Best build up to my favorite Tool song.",
+  "score": 3,
+  "created_utc": 1748793897.0,
+  "parent_id": "t1_mvf6p62"
+}
+{
+  "id": "mvftem5",
+  "author": "Gman7292005",
+  "body": "YES!",
+  "score": 3,
+  "created_utc": 1748795577.0,
+  "parent_id": "t1_mvfsl9s"
+}
+{
+  "id": "mw5dtm9",
+  "author": "B_Wylde",
+  "body": "Day that never comes too\n\n  \nTheir Ballad-ish songs are great at this",
+  "score": 2,
+  "created_utc": 1749136958.0,
+  "parent_id": "t1_mvfsl9s"
+}
+{
+  "id": "mvhast9",
+  "author": "vagabond719r",
+  "body": "Best metal \"piece\", best instrumental.",
+  "score": 3,
+  "created_utc": 1748811612.0,
+  "parent_id": "t1_mvghras"
+}
+{
+  "id": "mvhkg9x",
+  "author": "HumanAfterAll05",
+  "body": "Very obviously Lynyrd Skynyrd",
+  "score": 6,
+  "created_utc": 1748814745.0,
+  "parent_id": "t1_mvgtieq"
+}
+{
+  "id": "mvg6s03",
+  "author": "Puzzled_Awareness_22",
+  "body": "And Jefferson Airplane\u2019s White Rabbit, which is modeled off of Bolero",
+  "score": 19,
+  "created_utc": 1748799527.0,
+  "parent_id": "t1_mvfic9v"
+}
+{
+  "id": "mvg6kbp",
+  "author": "Forward-Advantage-40",
+  "body": "No one did this better than Ravel. Glad someone mentioned it. I think it would be fascinating to go back in time to see this the first time it was performed in public. I'm guessing that there were people who were highly offended.",
+  "score": 6,
+  "created_utc": 1748799465.0,
+  "parent_id": "t1_mvfic9v"
+}
+{
+  "id": "mvhp2bn",
+  "author": "saintly5787",
+  "body": "Bolero!  This is the answer",
+  "score": 5,
+  "created_utc": 1748816315.0,
+  "parent_id": "t1_mvfic9v"
+}
+{
+  "id": "mviiqpz",
+  "author": "CHARTERSAUCE",
+  "body": "Bolero is perfect, I listen to it when I\u2019m cleaning lol",
+  "score": 4,
+  "created_utc": 1748826975.0,
+  "parent_id": "t1_mvfic9v"
+}
+{
+  "id": "mvh7cgy",
+  "author": "Mirrhour",
+  "body": "You can hear the premonitions of Black Sabbath and metal in that outro.\n\nSpeaking of which, Black Sabbath has some great songs that build up to the end: Black Sabbath would be the best example, but you could make the argument for War Pigs, Snowblind and N.I.B.",
+  "score": 4,
+  "created_utc": 1748810536.0,
+  "parent_id": "t1_mvfwcv5"
+}
+{
+  "id": "mvhqasf",
+  "author": "AwwYeahVTECKickedIn",
+  "body": "I've come to think of it as a piano song with a guitar part better than other guitar songs!",
+  "score": 3,
+  "created_utc": 1748816748.0,
+  "parent_id": "t1_mvhmr5l"
+}
+{
+  "id": "mviilj2",
+  "author": "spizzle_",
+  "body": "I mean Clapton\u2019s original Layla is hands down one of *the* best songs ever written so I understand why you didn\u2019t have to put it into a sub category.",
+  "score": 2,
+  "created_utc": 1748826920.0,
+  "parent_id": "t1_mvhmr5l"
+}
+{
+  "id": "mvgxe9t",
+  "author": "Order_Flaky",
+  "body": "Festival- Sigur Ros",
+  "score": 4,
+  "created_utc": 1748807508.0,
+  "parent_id": "t1_mvggyyc"
+}
+{
+  "id": "mvgq7wd",
+  "author": "clippertonbrigadier",
+  "body": "Yeah, all these other suggestions could be nixed by just saying \u201chello sir, have you tried post rock?\u201d.",
+  "score": 6,
+  "created_utc": 1748805296.0,
+  "parent_id": "t1_mvghdpa"
+}
+{
+  "id": "mvhnvh3",
+  "author": "insomniaspeedmetal",
+  "body": "Ha ha, it is hard to pick a GY!BE song, but East Hastings is good. I think they\u2019re one of those bands that require an album long listen.",
+  "score": 2,
+  "created_utc": 1748815902.0,
+  "parent_id": "t1_mvghdpa"
+}
+{
+  "id": "mw2yw3x",
+  "author": "ryanx9123",
+  "body": "The peaks and valleys of \u201cSleep\u201d is then capped off (around the 20th minute, no less) by one of the greatest reprises I\u2019ve ever heard in music. It\u2019s sonically brilliant, harmonious, and has a real rhythm. It really stands apart from anything",
+  "score": 2,
+  "created_utc": 1749098509.0,
+  "parent_id": "t1_mvghdpa"
+}
+{
+  "id": "mvnx4lz",
+  "author": "enrkst",
+  "body": "If you like GY!BE you should also check out the Swedish post-rock band called EF. Start with the album Mourning Golden Morning. Enjoy!",
+  "score": 2,
+  "created_utc": 1748900746.0,
+  "parent_id": "t1_mvkfrlv"
+}
+{
+  "id": "mvfn1iv",
+  "author": "sister-europe67",
+  "body": "Totally agree!!",
+  "score": 3,
+  "created_utc": 1748793640.0,
+  "parent_id": "t1_mvfck1b"
+}
+{
+  "id": "mvk8p7q",
+  "author": "mtlpvd",
+  "body": "Go to YouTube and search live at the Point Depot. Holy smokes is it outrageous.",
+  "score": 5,
+  "created_utc": 1748857853.0,
+  "parent_id": "t1_mvhxflt"
+}
+{
+  "id": "mvi7aae",
+  "author": "nydub32",
+  "body": "I'd argue that The Band Aid version is the better version Bono climbs down to the front of the crowd and drags a girl on stage and slow dances with her. The song lasts almost 12 minutes, with a long instrumental through the middle of it.",
+  "score": 2,
+  "created_utc": 1748822691.0,
+  "parent_id": "t1_mvhxflt"
+}
+{
+  "id": "mvyn95d",
+  "author": "TrustInMe_JustInMe",
+  "body": "Original of the Species",
+  "score": 2,
+  "created_utc": 1749049075.0,
+  "parent_id": "t1_mvk9fbq"
+}
+{
+  "id": "mw1x6ti",
+  "author": "megabeast2001",
+  "body": "Morning Dew fits the question much more",
+  "score": 2,
+  "created_utc": 1749084164.0,
+  "parent_id": "t1_mvfcrrg"
+}
+{
+  "id": "mvnzrzm",
+  "author": "polarrburrr",
+  "body": "Saw them live last month, both of these songs still kick ass",
+  "score": 2,
+  "created_utc": 1748901553.0,
+  "parent_id": "t1_mvj0k7p"
+}
+{
+  "id": "mvk4ny0",
+  "author": "Mr_Vacant",
+  "body": "North Hanging Rock is another slow burn though not as long and doesn't get off the rails as much",
+  "score": 3,
+  "created_utc": 1748855427.0,
+  "parent_id": "t1_mviq83r"
+}
+{
+  "id": "mvuvqp1",
+  "author": "Wooden-Beach8845",
+  "body": "All time awesome song",
+  "score": 3,
+  "created_utc": 1748992275.0,
+  "parent_id": "t1_mvoccvl"
+}
+{
+  "id": "mvig9cv",
+  "author": "SingingBike",
+  "body": "I love Then She Did SO MUCH!!!",
+  "score": 2,
+  "created_utc": 1748826036.0,
+  "parent_id": "t1_mvg2s1v"
+}
+{
+  "id": "mvj2o6n",
+  "author": "Lenin36",
+  "body": "That\u2019s so sick!",
+  "score": 5,
+  "created_utc": 1748834803.0,
+  "parent_id": "t1_mvhqqnn"
+}
+{
+  "id": "mvntg6s",
+  "author": "Illustrated-skies",
+  "body": "Well that\u2019s a fun fact!\n\nJust noticed your username & small world. Hi neighbor!",
+  "score": 2,
+  "created_utc": 1748899631.0,
+  "parent_id": "t1_mvhqqnn"
+}
+{
+  "id": "mw238b4",
+  "author": "cliffhanger69er",
+  "body": "I know a guy named James Keenan from Maynard, Mass!",
+  "score": 2,
+  "created_utc": 1749086269.0,
+  "parent_id": "t1_mvhqqnn"
+}
+{
+  "id": "mvh0eb8",
+  "author": "KD153",
+  "body": "Spare change by. JA",
+  "score": 3,
+  "created_utc": 1748808425.0,
+  "parent_id": "t1_mvg6s03"
+}
+{
+  "id": "mvh0shi",
+  "author": "EuphoricUniversity23",
+  "body": "Oh I don\u2019t know - half of them were probably in the back getting it on by the end of it.",
+  "score": 4,
+  "created_utc": 1748808542.0,
+  "parent_id": "t1_mvg6kbp"
+}
+{
+  "id": "mvg1bcb",
+  "author": "Open-Trouble-7264",
+  "body": "Live version is amazing!",
+  "score": 6,
+  "created_utc": 1748797938.0,
+  "parent_id": "t1_mvfn1iv"
+}
+{
+  "id": "mvnx3pf",
+  "author": "DoraCanal",
+  "body": "Hey, neighbor! I kayak there all the time!",
+  "score": 2,
+  "created_utc": 1748900738.0,
+  "parent_id": "t1_mvntg6s"
+}
+
+📥 Fetching comments for post: https://v.redd.it/72iz5ypyoz7e1
+❌ Error fetching comments for URL: https://v.redd.it/72iz5ypyoz7e1
+received 404 HTTP response
+🗨️  0 comments fetched.
+
+📥 Fetching comments for post: https://i.redd.it/2000dlj21dcc1.jpeg
+❌ Error fetching comments for URL: https://i.redd.it/2000dlj21dcc1.jpeg
+Invalid URL: https://i.redd.it/2000dlj21dcc1.jpeg
+🗨️  0 comments fetched.
+
+📥 Fetching comments for post: https://v.redd.it/n4vaxii7hy2f1
+❌ Error fetching comments for URL: https://v.redd.it/n4vaxii7hy2f1
+received 404 HTTP response
+🗨️  0 comments fetched.
+
+📥 Fetching comments for post: https://www.reddit.com/gallery/1bsejle
+🗨️  47 comments fetched.
+{
+  "id": "kxf3b3u",
+  "author": "Splur808",
+  "body": "u might like wut u wanna do, realsisters, uh huh, yrrr mind, psycho, hi-c bby, rip paul walker, & bye bye",
+  "score": 39,
+  "created_utc": 1711903900.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxfbbg0",
+  "author": "Comprehensive_Elk_22",
+  "body": "listen to corpse bridee, i dunnoh y, rank1 itz over",
+  "score": 20,
+  "created_utc": 1711906719.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxfkmhm",
+  "author": "fuckberzzyy",
+  "body": "this how i feel also. trending topic is legit one of my favorite songs of all time",
+  "score": 18,
+  "created_utc": 1711910059.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxg1mch",
+  "author": "fartinnshartin987",
+  "body": "get 2 know me is Top 3 hi c",
+  "score": 8,
+  "created_utc": 1711916228.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxfatav",
+  "author": "Key_Emotion_1343",
+  "body": "https://preview.redd.it/em9jesm2hprc1.jpeg?width=1179&format=pjpg&auto=webp&s=ce4a2cf13f0385a759b80cce0809f60f27a9fa1b",
+  "score": 14,
+  "created_utc": 1711906544.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxfhap6",
+  "author": "Pinkiloi",
+  "body": "Listen to trending topic",
+  "score": 6,
+  "created_utc": 1711908847.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxfknlr",
+  "author": "None",
+  "body": "yrrmind, mine4everr hic!!!! omg!",
+  "score": 4,
+  "created_utc": 1711910070.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxfv384",
+  "author": "evieleigh2k19",
+  "body": "oh is sooo good",
+  "score": 4,
+  "created_utc": 1711913852.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxfvlza",
+  "author": "x97sfinest",
+  "body": "RaD1CAl T0tAllY Aw3SuM and Rank2 are my favs",
+  "score": 3,
+  "created_utc": 1711914045.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxfcnib",
+  "author": "Jackens12",
+  "body": "His verse on lsd trippin\u2019 ft Mike raptor is his best singing imo",
+  "score": 3,
+  "created_utc": 1711907191.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxfra31",
+  "author": "No-Painter4794",
+  "body": "Demon transformation has one of his best verse and beat",
+  "score": 3,
+  "created_utc": 1711912457.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxh0zcn",
+  "author": "StrandedJupiterian",
+  "body": "Queen of the damned, trending topic, fendi222, demonz counting up, Hic!!!!!, $b my boo$, bby I dnt dance, prettydemonganganthem, I swearrr",
+  "score": 3,
+  "created_utc": 1711929548.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "ky79b5q",
+  "author": "mynutsitchsobad",
+  "body": "Rockstar solo version is ridiculous\ud83d\udc80\ud83d\udc80 Missin out",
+  "score": 2,
+  "created_utc": 1712338434.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxf58dh",
+  "author": "slayworldK",
+  "body": "i\u2019m not tryna even tryna hate but hi-c hard asf carries on most of his features too\ud83d\udc80\ud83d\udc80 idk how yall listen to domd , cartiergod , lil yawh etc.. pmo some good songs by them too tho",
+  "score": 3,
+  "created_utc": 1711904583.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxgel2x",
+  "author": "vesohh",
+  "body": "Does trending topic count? Goated song",
+  "score": 1,
+  "created_utc": 1711920944.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxh8e82",
+  "author": "ssearcherr",
+  "body": "GOATED song selection",
+  "score": 1,
+  "created_utc": 1711932475.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxh8ga0",
+  "author": "camerondg12",
+  "body": "another good one is emo pop punk juiced up emo swag or wtv it\u2019s called",
+  "score": 1,
+  "created_utc": 1711932498.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxiwzzi",
+  "author": "SaintValentine888",
+  "body": "Evisu Bape is one of my favorite songs by far from him",
+  "score": 1,
+  "created_utc": 1711967834.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxjv2wq",
+  "author": "Sanity_Assasin",
+  "body": "trending topic is one of his best",
+  "score": 1,
+  "created_utc": 1711983495.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxjzg0q",
+  "author": "None",
+  "body": "london lauren",
+  "score": 1,
+  "created_utc": 1711985028.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxkljcj",
+  "author": "YoImAli",
+  "body": "oh! is so good bruh i can\u2019t stop listening to it lately",
+  "score": 1,
+  "created_utc": 1711992510.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxl79qv",
+  "author": "hennyburps",
+  "body": "#QueenOfTheDammned",
+  "score": 1,
+  "created_utc": 1711999733.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxnenyq",
+  "author": "Ju1c3_",
+  "body": "no emotionzz",
+  "score": 1,
+  "created_utc": 1712029471.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxsbjrg",
+  "author": "Alternative-Reply107",
+  "body": "Can hic do a whole tape of just melodic simgs",
+  "score": 1,
+  "created_utc": 1712106260.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxy9wuf",
+  "author": "Agreatcha00s",
+  "body": "rip kawaii",
+  "score": 1,
+  "created_utc": 1712195877.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxz6o5b",
+  "author": "officialswm",
+  "body": "she heard about hi c, she know i party hard",
+  "score": 1,
+  "created_utc": 1712212346.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "ky4nykl",
+  "author": "percfan1125",
+  "body": "me and hi c have passionate hand holding sessions with the lights off",
+  "score": 1,
+  "created_utc": 1712293936.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kyukg2u",
+  "author": "Stunning_South_5802",
+  "body": "moe slash is good too",
+  "score": 1,
+  "created_utc": 1712707130.0,
+  "parent_id": "t3_1bsejle"
+}
+{
+  "id": "kxgzulk",
+  "author": "LilBobby61st",
+  "body": "Rip Paul walker is heat  \ud83e\udd24 domd was spitting that time",
+  "score": 8,
+  "created_utc": 1711929104.0,
+  "parent_id": "t1_kxf3b3u"
+}
+{
+  "id": "kxhrngu",
+  "author": "Saf_Void",
+  "body": "corpse bride is lowk top 3 hi-c",
+  "score": 8,
+  "created_utc": 1711940611.0,
+  "parent_id": "t1_kxfbbg0"
+}
+{
+  "id": "kxjzii3",
+  "author": "None",
+  "body": "I DUNNOH Y I DUNNOH T",
+  "score": 5,
+  "created_utc": 1711985052.0,
+  "parent_id": "t1_kxfbbg0"
+}
+{
+  "id": "kxglibs",
+  "author": "jesusshooter",
+  "body": "i\u2019m so glad he played that when i saw him on tour bruh i ascended fr and me n him was locking eyes he was pointing at me n shit \ud83d\ude2dit was the tracy tour and barely anybody was singing along with his shit nd i was front and center it was crazy",
+  "score": 5,
+  "created_utc": 1711923573.0,
+  "parent_id": "t1_kxfkmhm"
+}
+{
+  "id": "kxxpguo",
+  "author": "iheartalexg",
+  "body": "yess bro omg literally top 3 for me",
+  "score": 1,
+  "created_utc": 1712188059.0,
+  "parent_id": "t1_kxfkmhm"
+}
+{
+  "id": "kxkli0w",
+  "author": "YoImAli",
+  "body": "fr",
+  "score": 2,
+  "created_utc": 1711992498.0,
+  "parent_id": "t1_kxg1mch"
+}
+{
+  "id": "kxhiu4g",
+  "author": "Splur808",
+  "body": "queen of the damned such a gem",
+  "score": 7,
+  "created_utc": 1711936743.0,
+  "parent_id": "t1_kxh0zcn"
+}
+{
+  "id": "kxf6ogq",
+  "author": "hennyburps",
+  "body": "Cartier god you gotta get used to thats how it was for me lol idk if these are good recs but i fw em heavy. UpWithDaMoon, YoureMine, and really trappin",
+  "score": 9,
+  "created_utc": 1711905096.0,
+  "parent_id": "t1_kxf58dh"
+}
+{
+  "id": "kxf8nod",
+  "author": "Reptileinthecut",
+  "body": "Yeah you riding Hi-C's dick a lil too hard",
+  "score": 11,
+  "created_utc": 1711905797.0,
+  "parent_id": "t1_kxf58dh"
+}
+{
+  "id": "kxfdcfu",
+  "author": "Jacktyack",
+  "body": "domd goes dumb on pretty boy serpent",
+  "score": 5,
+  "created_utc": 1711907437.0,
+  "parent_id": "t1_kxf58dh"
+}
+{
+  "id": "kxg68rt",
+  "author": "_flatbedfreestyle",
+  "body": "Slime222 domd",
+  "score": 3,
+  "created_utc": 1711917885.0,
+  "parent_id": "t1_kxf58dh"
+}
+{
+  "id": "kxfb5bt",
+  "author": "Key_Emotion_1343",
+  "body": "listen to sniper boo by domd",
+  "score": 2,
+  "created_utc": 1711906661.0,
+  "parent_id": "t1_kxf58dh"
+}
+{
+  "id": "kxfpgyr",
+  "author": "coffi_owl",
+  "body": "groovy bake pen tap truck punch zesty divide governor hunt\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev)*",
+  "score": 1,
+  "created_utc": 1711911809.0,
+  "parent_id": "t1_kxf58dh"
+}
+{
+  "id": "kxnem5l",
+  "author": "Ju1c3_",
+  "body": "cartier god is absolute heat but yeah domd is either fine or ruins it",
+  "score": 1,
+  "created_utc": 1712029446.0,
+  "parent_id": "t1_kxf58dh"
+}
+{
+  "id": "kxsk7d7",
+  "author": "musty_bamboo-booty",
+  "body": "lowkey did with reptillian shrine but skip domd verses",
+  "score": 2,
+  "created_utc": 1712109650.0,
+  "parent_id": "t1_kxsbjrg"
+}
+{
+  "id": "kxjeqiq",
+  "author": "Comprehensive_Elk_22",
+  "body": "nbs but domd verse so booty",
+  "score": 7,
+  "created_utc": 1711977235.0,
+  "parent_id": "t1_kxhrngu"
+}
+{
+  "id": "kxhisnc",
+  "author": "Splur808",
+  "body": "great album but most listenable is debatable. he has much better work",
+  "score": 1,
+  "created_utc": 1711936725.0,
+  "parent_id": "t1_kxfpgyr"
+}
+{
+  "id": "kxkg70c",
+  "author": "Saf_Void",
+  "body": "ong it ruins the whole song",
+  "score": 1,
+  "created_utc": 1711990726.0,
+  "parent_id": "t1_kxjeqiq"
+}
+{
+  "id": "kxo433x",
+  "author": "BleachSniffr",
+  "body": "That shit has to be a joke",
+  "score": 1,
+  "created_utc": 1712045774.0,
+  "parent_id": "t1_kxjeqiq"
+}
+
+📥 Fetching comments for post: https://v.redd.it/bit0ilzuec6e1
+❌ Error fetching comments for URL: https://v.redd.it/bit0ilzuec6e1
+received 404 HTTP response
+🗨️  0 comments fetched.

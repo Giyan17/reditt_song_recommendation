@@ -1,0 +1,4197 @@
+Failed to parse or analyze comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19esze",
+    "author": "shubham_op",
+    "body": "Dil kyun ye mera shor kare",
+    "score": 12,
+    "created_utc": 1751608635.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "song name: Dil kyun ye mera shor kare",
+    "links": [],
+    "songs": [
+      "Dil kyun ye mera shor kare"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19hc6l",
+    "author": "None",
+    "body": "Your playlist almost matches mine haha\n\n\nYe Fitoor mera,\u00a0\nManmarziyan from Lootera,\nMehrama,\nMonta re,\nTu hi mera,\nKhuda Jaane ke,\nTeri Jhuki Nazar,\n\n\nJaan Nisaar,\nHey Shona",
+    "score": 9,
+    "created_utc": 1751609936.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "song titles and artist name not specified, but song list provided",
+    "links": [],
+    "songs": [
+      "Ye Fitoor mera",
+      "Manmarziyan from Lootera",
+      "Mehrama",
+      "Monta re",
+      "Tu hi mera",
+      "Khuda Jaane ke",
+      "Teri Jhuki Nazar",
+      "Jaan Nisaar",
+      "Hey Shona"
+    ],
+    "artists": [
+      "not specified, but likely A.R. Rahman or another Indian composer"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19nec0",
+    "author": "thatsfalak",
+    "body": "Ishq mubarak",
+    "score": 6,
+    "created_utc": 1751613158.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "song name: Ishq Mubarak",
+    "links": [],
+    "songs": [
+      "Ishq Mubarak"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19i0q7",
+    "author": "Traditional-Link-797",
+    "body": "Khabar nahi - Dostana, Dil duffer - Gori tere pyaar mein, yeh fitoor mera - fitoor,",
+    "score": 4,
+    "created_utc": 1751610292.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song names mentioned: Khabar Nahi, Dil Duffer, Gori Tere Pyaar Mein, Yeh Fitoor Mera",
+    "links": [],
+    "songs": [
+      "Khabar Nahi",
+      "Dil Duffer",
+      "Gori Tere Pyaar Mein",
+      "Yeh Fitoor Mera"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19e529",
+    "author": "cheesewcake",
+    "body": "tere liye from fitoor",
+    "score": 3,
+    "created_utc": 1751608303.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "tere liye (song name) from Fitoor",
+    "links": [],
+    "songs": [
+      "tere liye"
+    ],
+    "artists": [
+      "from the movie/artist not specified"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19jvom",
+    "author": "Ok_Butterscotch9013",
+    "body": "Na tum jaane na hum\n\nBaatein kuch ankahee\n\nTere Naina\n\nMere Bina from Crook\n\nTu hi mera\n\nIshaqzaade\n\nIs this love",
+    "score": 3,
+    "created_utc": 1751611274.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The comment appears to be a collection of song titles from Indian films.",
+    "links": [],
+    "songs": [
+      "Na tum jaane na hum",
+      "Baatein kuch ankahee",
+      "Tere Naina",
+      "Mere Bina",
+      "Tu hi mera",
+      "Ishaqzaade"
+    ],
+    "artists": [
+      "none mentioned explicitly, but these songs are likely from Indian film soundtracks"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19fzpt",
+    "author": "Fantastic_Garlic_227",
+    "body": "Dil Kyu Ye Mera Shor Kare",
+    "score": 2,
+    "created_utc": 1751609237.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name mentioned: Dil Kyu Ye Mera Shor Kare",
+    "links": [],
+    "songs": [
+      "Dil Kyu Ye Mera Shor Kare"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19hs8u",
+    "author": "Oicuntmate1",
+    "body": "https://open.spotify.com/playlist/1xfvDCPjfFHp9sQ9xholSu?si=2LKZE9M_SRO5D-_Kk9elww\n\nCheck my playlist you'll find all these type of relatable hindi songs",
+    "score": 2,
+    "created_utc": 1751610168.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Hindi songs",
+    "links": [
+      "https://open.spotify.com/playlist/1xfvDCPjfFHp9sQ9xholSu?si=2LKZE9M_SRO5D-_Kk9elww"
+    ],
+    "songs": [],
+    "artists": []
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19lc0v",
+    "author": "10v135",
+    "body": "Tu na jaane aas paas hai khuda\nTujhe bhula diya",
+    "score": 2,
+    "created_utc": 1751612039.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song lyrics: Tu na jaane aas paas hai khuda, Tujhe bhula diya",
+    "links": [],
+    "songs": [
+      "Tu na jaane aas paas hai khuda",
+      "Tujhe bhula diya"
+    ],
+    "artists": []
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19j6xm",
+    "author": "ayantic",
+    "body": "Gul By Anuv Jain",
+    "score": 2,
+    "created_utc": 1751610909.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Gul, Artist: Anuv Jain",
+    "links": [],
+    "songs": [
+      "Gul"
+    ],
+    "artists": [
+      "Anuv Jain"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19fgtb",
+    "author": "pratyushsinghh",
+    "body": "Tose naina lage piya sawre\n\nHawa bnke\n\nPal by arijit Singh \n\nMaine dil se kaha",
+    "score": 1,
+    "created_utc": 1751608968.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Tose Naina Lage Piya Sawre, Hawa Bnke, Pal by Arijit Singh",
+    "links": [],
+    "songs": [
+      "Tose Naina Lage Piya Sawre",
+      "Hawa Bnke",
+      "Pal"
+    ],
+    "artists": [
+      "Arijit Singh"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19fvnu",
+    "author": "pikachu_jiggly_7609",
+    "body": "Pal pal dil ke paas new",
+    "score": 1,
+    "created_utc": 1751609178.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name: Pal pal dil ke paas",
+    "links": [],
+    "songs": [
+      "Pal pal dil ke paas"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19hqg0",
+    "author": "Anomemous_",
+    "body": "Dhak Dhuk, English Vinglish\nChaandaniya, 2 States\nLaakh Duniya Kahe, Talaash",
+    "score": 1,
+    "created_utc": 1751610142.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "List of Bollywood song titles: Dhak Dhuk, Chaandaniya, Laakh Duniya Kahe",
+    "links": [],
+    "songs": [
+      "Dhak Dhuk",
+      "Chaandaniya",
+      "Laakh Duniya Kahe"
+    ],
+    "artists": [
+      "Various artists (Bollywood soundtracks)"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19iexj",
+    "author": "thevibescorner",
+    "body": "Aaj Kal Zindagi",
+    "score": 1,
+    "created_utc": 1751610496.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name: Aaj Kal Zindagi",
+    "links": [],
+    "songs": [
+      "Aaj Kal Zindagi"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19imd0",
+    "author": "sakshamb78",
+    "body": "Tu hai to - Mr and Mrs Mahi",
+    "score": 1,
+    "created_utc": 1751610607.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name: Tu Hai To",
+    "links": [],
+    "songs": [
+      "Tu Hai To"
+    ],
+    "artists": [
+      "Mr and Mrs Mahi"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19jlos",
+    "author": "Disastrous-Owl-6044",
+    "body": "@OP do add songs recommend here in playlist and the do share a link. I liked those songs. Kinda my kind of.",
+    "score": 1,
+    "created_utc": 1751611127.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "recommendations for songs in a playlist",
+    "links": [],
+    "songs": [],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19kilx",
+    "author": "ChempakLal",
+    "body": "https://music.apple.com/in/playlist/sad-nah/pl.u-qxylEN5u3Av1eVB?ls\n\nHere, have my playlist.",
+    "score": 1,
+    "created_utc": 1751611608.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Apple Music playlist",
+    "links": [
+      "https://music.apple.com/in/playlist/sad-nah/pl.u-qxylEN5u3Av1eVB?ls"
+    ],
+    "songs": [],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19ln1g",
+    "author": "Smart_Wealth_",
+    "body": "https://preview.redd.it/fnj87ged2taf1.png?width=1080&format=png&auto=webp&s=453728b5bcf35c6d01e643927020ee52029fd2d1",
+    "score": 1,
+    "created_utc": 1751612201.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "https://www.youtube.com/ (YouTube link) and 'Stairway to Heaven' is a classic song by Led Zeppelin",
+    "links": [
+      "https://www.youtube.com/"
+    ],
+    "songs": [
+      "Stairway to Heaven"
+    ],
+    "artists": [
+      "Led Zeppelin"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19nm6p",
+    "author": "thatsfalak",
+    "body": "Send link of this playlist i love all these songs",
+    "score": 1,
+    "created_utc": 1751613278.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "playlist with favorite songs",
+    "links": [
+      "the URL of the playlist is missing from the comment"
+    ],
+    "songs": [],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19nw3w",
+    "author": "Critical-Border-758",
+    "body": "Nazar laaye from Ranjhana, Kahin Toh from Jaane Tu ya jaane na",
+    "score": 1,
+    "created_utc": 1751613432.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song names: Nazar laaye, Kahin Toh. Movies: Ranjhana, Jaane Tu ya jaane na",
+    "links": [],
+    "songs": [
+      "Nazar laaye",
+      "Kahin Toh"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19p8ld",
+    "author": "RefrigeratorBig8674",
+    "body": "https://open.spotify.com/playlist/26PVy0D3jzDzZ0rj7Z7Db8?pi=zJElHWZHSYC34\n\nYou can find It here",
+    "score": 1,
+    "created_utc": 1751614187.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Spotify playlist link",
+    "links": [
+      "https://open.spotify.com/playlist/26PVy0D3jzDzZ0rj7Z7Db8?pi=zJElHWZHSYC34"
+    ],
+    "songs": [],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19p8xj",
+    "author": "goluguy6",
+    "body": "Chori kiya re jiya re\nTere mast mast do nain\nTere naina \nTere naina mar hi dalenge",
+    "score": 1,
+    "created_utc": 1751614192.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name: Chori Kiya Re Jiya Re, Artist name: Tere Mast Mast Do Nain",
+    "links": [],
+    "songs": [
+      "Chori Kiya Re Jiya Re"
+    ],
+    "artists": [
+      "Tere Mast Mast Do Nain"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19pro3",
+    "author": "None",
+    "body": "Laal Ishq from Ram Leela\n\n\nTere bin from Wazir\n\n\nAaj ibaadat from Bajirao mastani",
+    "score": 1,
+    "created_utc": 1751614491.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song names and movies mentioned: Laal Ishq (Ram Leela), Tere Bin (Wazir), Aaj Ibaadat (Bajirao Mastani)",
+    "links": [],
+    "songs": [
+      "Laal Ishq",
+      "Tere bin",
+      "Aaj ibaadat"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19s8kk",
+    "author": "Uxie_mesprit",
+    "body": "Saware from Phantom and Darkhaast from Shivaay",
+    "score": 1,
+    "created_utc": 1751615895.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "song names: Saware, Darkhaast; movies: Phantom, Shivaay",
+    "links": [],
+    "songs": [
+      "Saware",
+      "Darkhaast"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19tcpn",
+    "author": "Immediate_Row7804",
+    "body": "dillagi",
+    "score": 1,
+    "created_utc": 1751616521.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name: Dillagi",
+    "links": [],
+    "songs": [
+      "Dillagi"
+    ],
+    "artists": []
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19woc5",
+    "author": "Adorable_Serve9214",
+    "body": "Mausam has phir le aya dil vibes",
+    "score": 1,
+    "created_utc": 1751618437.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Mausam has phir le aya dil",
+    "links": [],
+    "songs": [
+      "phir le aya dil"
+    ],
+    "artists": [
+      "Mausam"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19zuq8",
+    "author": "DangerBoy1707",
+    "body": "Allah Waariyan",
+    "score": 1,
+    "created_utc": 1751620278.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name: Allah Waariyan",
+    "links": [],
+    "songs": [
+      "Allah Waariyan"
+    ],
+    "artists": []
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n1aa7iw",
+    "author": "just_fluting09",
+    "body": "Have you heard \n....hum bhi tanha the tum bhi tanha the ...( 1920 evil returns) \ud83d\udc85\ud83e\udde1",
+    "score": 1,
+    "created_utc": 1751625984.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Reference to a movie soundtrack (1920 Evil Returns)",
+    "links": [],
+    "songs": [
+      "hum bhi tanha the tum bhi tanha the"
+    ],
+    "artists": []
+  }
+}
+Error analyzing comment: Expecting ',' delimiter: line 6 column 26 (char 133)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n1auk8k",
+    "author": "SpiritedCookie9000",
+    "body": "Hey Shona hey Shona from Tara rum pum \nKabhi Alvida na kehna title track\nTumhi dekho na yeh kya ho gaya - KANK \n\nDekho na dekho na- Fanaa\nMere haath mein Tera haath ho- Fanaa",
+    "score": 1,
+    "created_utc": 1751634568.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The comment contains references to Bollywood movie soundtracks. The songs mentioned are \"Kabhi Alvida na kehna\" title track, \"Tumhi dekho na yeh kya ho gaya\" from KANK (Kabul Express), and \"Dekho na dekho na\" and \"Mere haath mein Tera haath ho\" from Fanaa.",
+    "links": [],
+    "songs": [
+      "Kabhi Alvida na kehna",
+      "Tumhi dekho na yeh kya ho gaya",
+      "Dekho na dekho na",
+      "Mere haath mein Tera haath ho"
+    ],
+    "artists": [
+      "Sonu Nigam, Sunidhi Chauhan (for \"Kabhi Alvida na kehna\" title track), and possibly others for the other mentioned songs"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n1axlkj",
+    "author": "Individual_Cress_19",
+    "body": "Pal -Monsoon shootout\n\nTu aashiqui hai mere jeene- Jhankaar beats",
+    "score": 1,
+    "created_utc": 1751635657.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "song names and artist mentioned",
+    "links": [],
+    "songs": [
+      "Tu Aashiqui Hai Mere Jeene"
+    ],
+    "artists": [
+      "Jhankaar Beats"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n1c1f35",
+    "author": "Forsaken_Toe6826",
+    "body": "Sawali si raat- Barfi super underrated but \ud83e\udd79\ud83e\udd0c\nTum se hi, aoge hab tum - jab we met",
+    "score": 1,
+    "created_utc": 1751648022.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Two song recommendations: Sawali si raat and Tum se hi",
+    "links": [],
+    "songs": [
+      "Sawali si raat",
+      "Tum se hi"
+    ],
+    "artists": [
+      "Amit Trivedi"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19hlv1",
+    "author": "Oicuntmate1",
+    "body": "Ay hairathe aashiqi\nTere bina ar rahaman both",
+    "score": 1,
+    "created_utc": 1751610076.0,
+    "parent_id": "t3_1lrb4wq"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song names mentioned: Ay hairathe aashiqi, Tere bina",
+    "links": [],
+    "songs": [
+      "Ay hairathe aashiqi",
+      "Tere bina"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n1b4xeo",
+    "author": "ankiimonkii",
+    "body": "Also, zindagi do pal ki",
+    "score": 2,
+    "created_utc": 1751638122.0,
+    "parent_id": "t1_n19esze"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The song 'zindagi do pal ki' is mentioned",
+    "links": [],
+    "songs": [
+      "zindagi do pal ki"
+    ],
+    "artists": []
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19n910",
+    "author": "ComfortableEar9637",
+    "body": "https://open.spotify.com/playlist/5ElS55K66nlw1Q1ElYh6aQ?si=SyDfDyaPRwq18_-FGwVh-A&pi=OFLzztVGRsmkA",
+    "score": 2,
+    "created_utc": 1751613076.0,
+    "parent_id": "t1_n19jlos"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Spotify playlist link",
+    "links": [
+      "https://open.spotify.com/playlist/5ElS55K66nlw1Q1ElYh6aQ?si=SyDfDyaPRwq18_-FGwVh-A&pi=OFLzztVGRsmkA"
+    ],
+    "songs": [],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19oey1",
+    "author": "ComfortableEar9637",
+    "body": "https://open.spotify.com/playlist/5ElS55K66nlw1Q1ElYh6aQ?si=sfuGXgjOTs2ub7yDS28XWQ&pi=yHSSeMaWQp6Z9",
+    "score": 1,
+    "created_utc": 1751613725.0,
+    "parent_id": "t1_n19nm6p"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Spotify playlist link",
+    "links": [
+      "https://open.spotify.com/playlist/5ElS55K66nlw1Q1ElYh6aQ?si=sfuGXgjOTs2ub7yDS28XWQ&pi=yHSSeMaWQp6Z9"
+    ],
+    "songs": [],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19op2s",
+    "author": "ComfortableEar9637",
+    "body": "Nazar laaye can make anyone float for 3 minutes lol. Always have been a great song",
+    "score": 2,
+    "created_utc": 1751613881.0,
+    "parent_id": "t1_n19nw3w"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name: Nazar laaye",
+    "links": [],
+    "songs": [
+      "Nazar laaye"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n1auuvc",
+    "author": "ComfortableEar9637",
+    "body": "Lol tara rum pum is my f1 movie. \ud83d\ude2d",
+    "score": 2,
+    "created_utc": 1751634676.0,
+    "parent_id": "t1_n1auk8k"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Tara Rum Pum",
+    "links": [],
+    "songs": [
+      "Tara Rum Pum"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n19myrp",
+    "author": "ComfortableEar9637",
+    "body": "Great track man. W recommendation",
+    "score": 2,
+    "created_utc": 1751612921.0,
+    "parent_id": "t1_n19hlv1"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "track",
+    "links": [],
+    "songs": [
+      "track"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "n1av0ig",
+    "author": "SpiritedCookie9000",
+    "body": "This movie has some banger songs! And yeah the F1 theme \ud83d\ude42",
+    "score": 1,
+    "created_utc": 1751634733.0,
+    "parent_id": "t1_n1auuvc"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "F1 theme",
+    "links": [],
+    "songs": [
+      "banger songs"
+    ],
+    "artists": []
+  }
+}
+Failed to parse or analyze comment: Extra data: line 1 column 157 (char 156)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "ml0v8l4",
+    "author": "gimmeesometea",
+    "body": "[Etho janma kalpanayil](https://youtu.be/hALU7lBeZSA?si=ECnZgD6JXglOjAQA)",
+    "score": 3,
+    "created_utc": 1743602255.0,
+    "parent_id": "t3_1jpoc5a"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "YouTube video link to a song",
+    "links": [
+      "https://youtu.be/hALU7lBeZSA"
+    ],
+    "songs": [],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "ml0u19h",
+    "author": "whatthengaisthis",
+    "body": "Jerry Amaldev composed that, try looking for more of his work.\n\nI love the following (not all are Amaldev sir\u2019s) : aayiram kannumaayi, ni en sarga soundaryame, Poongattinodum, kaathil thenmazhayaayi, anuragini, chandrakalabham, chandanacholayil, manju pole, vennilakombile, muttathethum, chaithra nilavinte, marannittumenthino, paathirapullunarnnu, raathinkal poothali, devakanyaka, etra neramaayi Njn, oru rathri koodi, Pinnilavin poo vidarnu among others. \n\nI hope this helps \u263a\ufe0f\u2728",
+    "score": 5,
+    "created_utc": 1743601848.0,
+    "parent_id": "t3_1jpoc5a"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Jerry Amaldev is a composer with multiple song recommendations, including: aayiram kannumaayi, ni en sarga soundaryame, Poongattinodum, kaathil thenmazhayaayi, anuragini, chandrakalabham, chandanacholayil, manju pole, vennilakombile, muttathethum, chaithra nilavinte, marannittumenthino, paathirapullunarnnu, raathinkal poothali, devakanyaka, etra neramaayi Njn, oru rathri koodi, Pinnilavin poo vidarnu",
+    "links": [],
+    "songs": [
+      "aayiram kannumaayi",
+      "ni en sarga soundaryame",
+      "Poongattinodum",
+      "kaathil thenmazhayaayi",
+      "anuragini",
+      "chandrakalabham",
+      "chandanacholayil",
+      "manju pole",
+      "vennilakombile",
+      "muttathethum",
+      "chaithra nilavinte",
+      "marannittumenthino",
+      "paathirapullunarnnu",
+      "raathinkal poothali",
+      "devakanyaka",
+      "etra neramaayi Njn",
+      "oru rathri koodi",
+      "Pinnilavin poo vidarnu"
+    ],
+    "artists": [
+      "Jerry Amaldev"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "ml0x8y3",
+    "author": "RamboChakkochan",
+    "body": "[Oru Dalam](https://youtu.be/Drb46BKPRiQ?feature=shared) from Jaalakam (1987)",
+    "score": 2,
+    "created_utc": 1743602908.0,
+    "parent_id": "t3_1jpoc5a"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The movie Oru Dalam from the 1987 film Jaalakam",
+    "links": [
+      "https://youtu.be/Drb46BKPRiQ"
+    ],
+    "songs": [
+      "Oru Dalam"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "ml0wi7x",
+    "author": "HmmSheriOkay",
+    "body": "https://preview.redd.it/wo9agsnxhfse1.png?width=1080&format=png&auto=webp&s=64ec49830bfd2bb5548daef6617a0d919b75d24a",
+    "score": 1,
+    "created_utc": 1743602674.0,
+    "parent_id": "t3_1jpoc5a"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The user shared a link to an image, possibly of an album art or a music-related graphic.",
+    "links": [
+      "https://preview.redd.it/wo9agsnxhfse1.png"
+    ],
+    "songs": [],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "ml103v6",
+    "author": "Heyhariii",
+    "body": "https://preview.redd.it/s2p8wdo9lfse1.jpeg?width=1080&format=pjpg&auto=webp&s=c7fd43aa6dee8396a7595605a5a8c412169075c1",
+    "score": 1,
+    "created_utc": 1743603794.0,
+    "parent_id": "t3_1jpoc5a"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The comment contains a link to an image, but the text mentions 'song' and 'artist'",
+    "links": [
+      "https://preview.redd.it/s2p8wdo9lfse1.jpeg"
+    ],
+    "songs": [
+      "song"
+    ],
+    "artists": [
+      "artist"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "ml17h24",
+    "author": "ThekkuVadakku",
+    "body": "Poovalla poothaliralla - https://youtu.be/c9wO0xUiBoY?si=ML19TBuycw9Fhbt-",
+    "score": 1,
+    "created_utc": 1743606022.0,
+    "parent_id": "t3_1jpoc5a"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The song 'Poovalla poothaliralla' is available on YouTube",
+    "links": [
+      "https://youtu.be/c9wO0xUiBoY?si=ML19TBuycw9Fhbt-"
+    ],
+    "songs": [
+      "Poovalla poothaliralla"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "ml1c53j",
+    "author": "filmaltego",
+    "body": "Song- Etho Vaarmukilin | Film- Pookkalam Varavayi",
+    "score": 1,
+    "created_utc": 1743607440.0,
+    "parent_id": "t3_1jpoc5a"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Etho Vaarmukilin, Film: Pookkalam Varavayi",
+    "links": [],
+    "songs": [
+      "Etho Vaarmukilin"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "ml1ju8j",
+    "author": "None",
+    "body": "Its not an old song but lately been obsessed with this track from Agnisakshi\n\nKannathali muttathe poothumbi kunjathole\n\nhttps://youtu.be/w2WUa5tCh5o?si=48GiBeYOo6_0IbzS",
+    "score": 1,
+    "created_utc": 1743609734.0,
+    "parent_id": "t3_1jpoc5a"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Track from Agnisakshi, song name not mentioned but link to the YouTube video is provided",
+    "links": [
+      "https://youtu.be/w2WUa5tCh5o?si=48GiBeYOo6_0IbzS"
+    ],
+    "songs": [
+      "Kannathali muttathe poothumbi kunjathole"
+    ],
+    "artists": [
+      "Agnisakshi"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "ml1ssi1",
+    "author": "Chenghayi",
+    "body": "[Neermizhi Peeliyil](https://open.spotify.com/track/1OVnGWXNkiCDNjeh6PY22g?si=SoIicdhqRwSU-ofFQV2K1g)",
+    "score": 1,
+    "created_utc": 1743612407.0,
+    "parent_id": "t3_1jpoc5a"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "A link to a specific song on Spotify",
+    "links": [
+      "https://open.spotify.com/track/1OVnGWXNkiCDNjeh6PY22g?si=SoIicdhqRwSU-ofFQV2K1g"
+    ],
+    "songs": [
+      "Neermizhi Peeliyil"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "ml2j0im",
+    "author": "ClientLogical8932",
+    "body": "1.Tharum thalirum(chilambu)\n2. Theeram thedum(vandanam)\n3.chandrakaantham kondu(padheyam)\n4.Neeraduvan ( nakhashethangal)\n5. Aathmavil muttiviliathu pole(aaranyakam)\n6.Ponpularoli(ithiri poove chuvanna poove)\n8. Melle Melle ( oru minnaminunginte nurunguvettam)\n9. Kandu njan mizhikalil( abhimanyu)\n10. Manasa nilayil ( dwani)\n11. Chandana manivaathil",
+    "score": 1,
+    "created_utc": 1743619914.0,
+    "parent_id": "t3_1jpoc5a"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "List of Malayalam film songs, including song titles from various films",
+    "links": [],
+    "songs": [
+      "Tharum thalirum(chilambu)",
+      "Theeram thedum(vandanam)",
+      "chandrakaantham kondu(padheyam)",
+      "Neeraduvan (nakhashethangal)",
+      "Aathmavil muttiviliathu pole(aaranyakam)",
+      "Ponpularoli(ithiri poove chuvanna poove)",
+      "Melle Melle (oru minnaminunginte nurunguvettam)",
+      "Kandu njan mizhikalil(abhimanyu)",
+      "Manasa nilayil(dwani)",
+      "Chandana manivaathil"
+    ],
+    "artists": [
+      "Not explicitly mentioned, but likely from various Malayalam films"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "ml33ylg",
+    "author": "minnaaminung",
+    "body": "Kalpaanthakaalatholam",
+    "score": 1,
+    "created_utc": 1743625936.0,
+    "parent_id": "t3_1jpoc5a"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Kalpaanthakaalatholam ( likely a song or artist name )",
+    "links": [],
+    "songs": [
+      "Kalpaanthakaalatholam"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "ml4bquy",
+    "author": "yggdrasil___",
+    "body": "\\[\u0d2a\u0d40\u0d32\u0d3f \u0d0f\u0d34\u0d41\u0d02 \u0d35\u0d40\u0d36\u0d3f \u0d35\u0d3e\\] ([https://youtu.be/mza1BW\\_Gz7w](https://youtu.be/mza1BW_Gz7w))\n\nhttps://preview.redd.it/waarsfijkise1.png?width=1080&format=png&auto=webp&s=44b826fca8187e906018789dd06906c27503ccea",
+    "score": 1,
+    "created_utc": 1743639868.0,
+    "parent_id": "t3_1jpoc5a"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "link to a YouTube video with the song title \"\u0d2a\u0d40\u0d32\u0d3f \u0d0f\u0d34\u0d41\u0d02 \u0d35\u0d40\u0d36\u0d3f \u0d35\u0d3e\"",
+    "links": [
+      "https://youtu.be/mza1BW_Gz7w",
+      "https://preview.redd.it/waarsfijkise1.png"
+    ],
+    "songs": [
+      "\u0d2a\u0d40\u0d32\u0d3f \u0d0f\u0d34\u0d41\u0d02 \u0d35\u0d40\u0d36\u0d3f \u0d35\u0d3e"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "ml25pj7",
+    "author": "Ok_Adhesiveness3497",
+    "body": "Thumbi Vaa (Hip Hop mix highly recommended)\n\nPoonkattinodum Kilikalodum kadhakal \n\nAnuragini \n\nOru Pushpam Mathramen \n\nMoovanthi thaazhvarayil \n\n\ud83d\udc8e\ud83d\udc8e\ud83d\udc8e",
+    "score": 0,
+    "created_utc": 1743616056.0,
+    "parent_id": "t3_1jpoc5a"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The comment recommends a Hip Hop mix, mentions song titles and lyrics from Malayalam songs.",
+    "links": [],
+    "songs": [
+      "Thumbi Vaa",
+      "Poonkattinodum Kilikalodum kadhakal ",
+      "Anuragini ",
+      "Oru Pushpam Mathramen ",
+      "Moovanthi thaazhvarayil "
+    ],
+    "artists": []
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "ml34i8v",
+    "author": "whatthengaisthis",
+    "body": "no worries, I am a pazhaya song enthusiast \u263a\ufe0f",
+    "score": 1,
+    "created_utc": 1743626090.0,
+    "parent_id": "t1_ml28gom"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "pazhaya ( likely referring to a genre or style of music )",
+    "links": [],
+    "songs": [],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "ml1k5ug",
+    "author": "stan4me",
+    "body": "[Unnikale oru](https://open.spotify.com/track/2gJj2bM3ZlyGVfh4t2XTks?si=iOV8ARHgRwuKMfzdejH2Aw&context=spotify%3Aalbum%3A6fhTx04tIq28T4mYVZZjkY)\n\n[Enthe kannanu](https://open.spotify.com/track/6NstrrekYzxliruKKXLci0?si=XXSdQyNuQo2H-ZmaUH3PHw&context=spotify%3Asearch%3Aenthe%2Bkann)",
+    "score": 1,
+    "created_utc": 1743609833.0,
+    "parent_id": "t1_ml15gsg"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The user is sharing two songs on Spotify: 'Unnikale oru' and 'Enthe kannanu'.",
+    "links": [
+      "https://open.spotify.com/track/2gJj2bM3ZlyGVfh4t2XTks?si=iOV8ARHgRwuKMfzdejH2Aw&context=spotify%3Aalbum%3A6fhTx04tIq28T4mYVZZjkY",
+      "https://open.spotify.com/track/6NstrrekYzxliruKKXLci0?si=XXSdQyNuQo2H-ZmaUH3PHw&context=spotify%3Asearch%3Aenthe%2Bkann"
+    ],
+    "songs": [
+      "Unnikale oru",
+      "Enthe kannanu"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "ml27596",
+    "author": "noothisismyname4ever",
+    "body": "I can't have the enthe kannanu cause I don't think its available on Spotify where I live, quite sad about it. \nIs it available in India?",
+    "score": 1,
+    "created_utc": 1743616455.0,
+    "parent_id": "t1_ml1k5ug"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "availability of music on a specific platform",
+    "links": [
+      "https://www.spotify.com"
+    ],
+    "songs": [],
+    "artists": []
+  }
+}
+Failed to parse or analyze comment: Extra data: line 1 column 152 (char 151)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf3aub",
+    "author": "Itchy-on-the-inside",
+    "body": "White rabbit",
+    "score": 55,
+    "created_utc": 1748787728.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name: White Rabbit",
+    "links": [],
+    "songs": [
+      "White Rabbit"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf3psb",
+    "author": "BastCity",
+    "body": "In the Air Tonight.",
+    "score": 95,
+    "created_utc": 1748787856.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name: In the Air Tonight",
+    "links": [],
+    "songs": [
+      "In the Air Tonight"
+    ],
+    "artists": [
+      "Phil Collins"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf1m00",
+    "author": "theresthezinger",
+    "body": "Exit Music by Radiohead",
+    "score": 79,
+    "created_utc": 1748787196.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Exit Music, Artist: Radiohead",
+    "links": [],
+    "songs": [
+      "Exit Music"
+    ],
+    "artists": [
+      "Radiohead"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf066s",
+    "author": "ChipCob1",
+    "body": "LA Woman The Doors",
+    "score": 36,
+    "created_utc": 1748786728.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "LA Woman is a song by the artist The Doors.",
+    "links": [],
+    "songs": [
+      "LA Woman"
+    ],
+    "artists": [
+      "The Doors"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf07mf",
+    "author": "zenvikingwarrior",
+    "body": "Uninvited - Alanis Morissette",
+    "score": 25,
+    "created_utc": 1748786741.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Album/Artist: Uninvited by Alanis Morissette",
+    "links": [],
+    "songs": [
+      "Uninvited"
+    ],
+    "artists": [
+      "Alanis Morissette"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvez9zf",
+    "author": "Gman7292005",
+    "body": "\"One\" Metallica",
+    "score": 50,
+    "created_utc": 1748786431.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: One, Artist: Metallica",
+    "links": [],
+    "songs": [
+      "One"
+    ],
+    "artists": [
+      "Metallica"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvez4n5",
+    "author": "Outrageous-Tear-8968",
+    "body": "Freebird",
+    "score": 66,
+    "created_utc": 1748786382.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name: Freebird",
+    "links": [],
+    "songs": [
+      "Freebird"
+    ],
+    "artists": [
+      "Lynyrd Skynyrd"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfgmfr",
+    "author": "Fine_Let5219",
+    "body": "Bolero, Ravel",
+    "score": 25,
+    "created_utc": 1748791718.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Bolero by Ravel",
+    "links": [],
+    "songs": [
+      "Bolero"
+    ],
+    "artists": [
+      "Ravel"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf18vv",
+    "author": "Fabulous_Sun_4276",
+    "body": "The Who, Behind Blue Eyes,",
+    "score": 16,
+    "created_utc": 1748787078.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Behind Blue Eyes by The Who",
+    "links": [],
+    "songs": [
+      "Behind Blue Eyes"
+    ],
+    "artists": [
+      "The Who"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf36h9",
+    "author": "insomniaspeedmetal",
+    "body": "Godspeed You! Black Emperor",
+    "score": 14,
+    "created_utc": 1748787690.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Album name: Godspeed You! Black Emperor",
+    "links": [],
+    "songs": [],
+    "artists": [
+      "Godspeed You! Black Emperor"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf03e8",
+    "author": "nydub32",
+    "body": "\"Bad\", by U2. It's a perfect example of a song slowly  building up, peaking, and then slowly breaking down again.",
+    "score": 40,
+    "created_utc": 1748786702.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "song: Bad, artist: U2",
+    "links": [],
+    "songs": [
+      "Bad"
+    ],
+    "artists": [
+      "U2"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvez2u6",
+    "author": "CountryMacIsAlive",
+    "body": "505 - arctic monkeys",
+    "score": 13,
+    "created_utc": 1748786365.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "arctic monkeys",
+    "links": [],
+    "songs": [],
+    "artists": [
+      "arctic monkeys"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf16kp",
+    "author": "sweat-it-all-out",
+    "body": "Sin\u00e9ad O'Connor - Troy",
+    "score": 12,
+    "created_utc": 1748787057.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Artist name: Sin\u00e9ad O'Connor, Song name: Troy",
+    "links": [],
+    "songs": [
+      "Troy"
+    ],
+    "artists": [
+      "Sin\u00e9ad O'Connor"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf3xn8",
+    "author": "FluffHead1964",
+    "body": "Terrapin Station by the Dead.",
+    "score": 11,
+    "created_utc": 1748787926.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Terrapin Station, Artist: The Dead",
+    "links": [],
+    "songs": [
+      "Terrapin Station"
+    ],
+    "artists": [
+      "The Dead"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf7z47",
+    "author": "ccoates09",
+    "body": "Starless - King Crimson",
+    "score": 13,
+    "created_utc": 1748789133.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Album/Artist: Starless by King Crimson",
+    "links": [],
+    "songs": [],
+    "artists": [
+      "King Crimson"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf2xz4",
+    "author": "Head_Coyote3925",
+    "body": "Weezer only in dreams",
+    "score": 12,
+    "created_utc": 1748787616.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Artist: Weezer, Song/Song title reference: \"Only in Dreams\"",
+    "links": [],
+    "songs": [
+      "Only in Dreams"
+    ],
+    "artists": [
+      "Weezer"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfdtfe",
+    "author": "socialmediaignorant",
+    "body": "November Rain by Guns n Roses",
+    "score": 12,
+    "created_utc": 1748790877.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: November Rain, Artist: Guns n Roses",
+    "links": [],
+    "songs": [
+      "November Rain"
+    ],
+    "artists": [
+      "Guns n Roses"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf1843",
+    "author": "Ismabeard",
+    "body": "[What are you to me, by UNKLE.](https://youtu.be/lgrN2uQKq9k?si=-Ggq5y2e2swuTPrL)\n\n[Rhapsody, by Siouxsie & the Banshees](https://youtu.be/YGywAydC_cE?si=yYjQ3yGWdI30ABYs)\n\n[Pilgrim, by Fink](https://youtu.be/eRjm9dupL1k?si=OLPumgrv7TN7k6DV)\n\n[Group Four, by Massive Attack](https://youtu.be/9xTR3jgpoNo?si=2ebokM9UKLUdGyP0)\n\n[Cantara, by Dead Can Dance](https://youtu.be/ega3VepmyEo?si=Qj_S_FkKxrK5hJ2W)",
+    "score": 11,
+    "created_utc": 1748787071.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Various songs mentioned with their respective URLs",
+    "links": [
+      "https://youtu.be/lgrN2uQKq9k",
+      "https://youtu.be/YGywAydC_cE",
+      "https://youtu.be/eRjm9dupL1k",
+      "https://youtu.be/9xTR3jgpoNo",
+      "https://youtu.be/ega3VepmyEo"
+    ],
+    "songs": [
+      "What are you to me",
+      "Rhapsody",
+      "Pilgrim",
+      "Group Four",
+      "Cantara"
+    ],
+    "artists": [
+      "UNKLE",
+      "Siouxsie & the Banshees",
+      "Fink",
+      "Massive Attack",
+      "Dead Can Dance"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfc3ff",
+    "author": "DolemiteMF1",
+    "body": "White Rabbit",
+    "score": 11,
+    "created_utc": 1748790361.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name: White Rabbit",
+    "links": [],
+    "songs": [
+      "White Rabbit"
+    ],
+    "artists": []
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvez14n",
+    "author": "HavSomLov4YoBrothr",
+    "body": "Colossus by IDLES",
+    "score": 8,
+    "created_utc": 1748786349.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Colossus, Artist: IDLES",
+    "links": [],
+    "songs": [
+      "Colossus"
+    ],
+    "artists": [
+      "IDLES"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf04rf",
+    "author": "goldprofred",
+    "body": "\u201cIndia\u201d - Psychedelic Furs",
+    "score": 9,
+    "created_utc": 1748786715.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: India, Artist: Psychedelic Furs",
+    "links": [],
+    "songs": [
+      "India"
+    ],
+    "artists": [
+      "Psychedelic Furs"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf0ptt",
+    "author": "Accurate-Long-9289",
+    "body": "Here\u2019s a few classic hard rock ones:\n\n\nHallowed Be Thy Name - Iron Maiden\n\nFreebird - Lynyrd Skynyrd\n\nStairway to Heaven - Led Zeppelin\n\nRockin\u2019 The Paradise - Styx\n\nOne -Metallica",
+    "score": 14,
+    "created_utc": 1748786906.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Classic hard rock song recommendations",
+    "links": [],
+    "songs": [
+      "Hallowed Be Thy Name",
+      "Freebird",
+      "Stairway to Heaven",
+      "Rockin\u2019 The Paradise",
+      "One"
+    ],
+    "artists": [
+      "Iron Maiden",
+      "Lynyrd Skynyrd",
+      "Led Zeppelin",
+      "Styx",
+      "Metallica"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf1me6",
+    "author": "60sStratLover",
+    "body": "For Cryin Out Loud - Meat Loaf\n\nJungleland - Bruce Springsteen",
+    "score": 6,
+    "created_utc": 1748787199.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song recommendations from users: For Cryin Out Loud by Meat Loaf, Jungleland by Bruce Springsteen",
+    "links": [],
+    "songs": [
+      "For Cryin Out Loud",
+      "Jungleland"
+    ],
+    "artists": [
+      "Meat Loaf",
+      "Bruce Springsteen"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf8hdw",
+    "author": "FastCarsSlowBBQ",
+    "body": "School by Supertramp",
+    "score": 7,
+    "created_utc": 1748789282.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The song 'School' by the artist Supertramp",
+    "links": [],
+    "songs": [
+      "School"
+    ],
+    "artists": [
+      "Supertramp"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvga1ls",
+    "author": "DorkdoM",
+    "body": "Three Days by Janes Addiction",
+    "score": 6,
+    "created_utc": 1748800465.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Three Days by Jane's Addiction",
+    "links": [],
+    "songs": [
+      "Three Days"
+    ],
+    "artists": [
+      "Jane's Addiction"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvgcx7i",
+    "author": "no8am",
+    "body": "Bridge over troubled water",
+    "score": 6,
+    "created_utc": 1748801301.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Reference to the song 'Bridge Over Troubled Water' by Simon & Garfunkel",
+    "links": [],
+    "songs": [
+      "Bridge Over Troubled Water"
+    ],
+    "artists": [
+      "Simon & Garfunkel"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfgqea",
+    "author": "Connect-Will2011",
+    "body": "Leopold Stokowski's orchestral arrangement of Bach's fugue in g minor.\n\nStarts with a quiet little melody on a single oboe and builds its way up to a massive sound. It's just what you're asking for!\n\n[https://www.youtube.com/watch?v=U\\_OtfBwqzCE](https://www.youtube.com/watch?v=U_OtfBwqzCE)",
+    "score": 5,
+    "created_utc": 1748791751.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Leopold Stokowski's orchestral arrangement of Bach's fugue in g minor, starts with a quiet little melody on a single oboe and builds its way up to a massive sound.",
+    "links": [
+      "https://www.youtube.com/watch?v=U_OtfBwqzCE"
+    ],
+    "songs": [
+      "Bach's fugue in g minor (exact song name not specified)"
+    ],
+    "artists": [
+      "Leopold Stokowski",
+      "Johann Sebastian Bach"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvg0bz0",
+    "author": "Total-Goat6792",
+    "body": "MacArthur Park sung by Richard Harris",
+    "score": 6,
+    "created_utc": 1748797646.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "MacArthur Park, a song by Richard Harris",
+    "links": [],
+    "songs": [
+      "MacArthur Park"
+    ],
+    "artists": [
+      "Richard Harris"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf23pk",
+    "author": "Imaginary_Attempt_82",
+    "body": "Frankenstein by Edgar Winter",
+    "score": 8,
+    "created_utc": 1748787351.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Frankenstein, Artist: Edgar Winter",
+    "links": [],
+    "songs": [
+      "Frankenstein"
+    ],
+    "artists": [
+      "Edgar Winter"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf01gi",
+    "author": "Adept_Professor_2837",
+    "body": "The Last Day of Our Acquaintance by Sinead O\u2019Connor \n\nAnd since you like Pink Floyd already, check out When the Tigers Broke Free, from The Final Cut",
+    "score": 4,
+    "created_utc": 1748786685.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The Last Day of Our Acquaintance by Sinead O'Connor and When the Tigers Broke Free from The Final Cut",
+    "links": [],
+    "songs": [
+      "The Last Day of Our Acquaintance",
+      "When the Tigers Broke Free"
+    ],
+    "artists": [
+      "Sinead O'Connor",
+      "Pink Floyd"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf2ds3",
+    "author": "Historical-Kick-9126",
+    "body": "Bolero, Maurice Ravel",
+    "score": 5,
+    "created_utc": 1748787440.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Maurice Ravel - Bolero",
+    "links": [],
+    "songs": [
+      "Bolero"
+    ],
+    "artists": [
+      "Maurice Ravel"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf2gpc",
+    "author": "terrorvicky",
+    "body": "Ion Square - Bloc Party",
+    "score": 5,
+    "created_utc": 1748787465.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Bloc Party by Ion Square",
+    "links": [],
+    "songs": [
+      "Bloc Party"
+    ],
+    "artists": [
+      "Ion Square"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfed1u",
+    "author": "kosk11348",
+    "body": "The End - The Doors\nHeroin - Velvet Underground\nKarma Police - Radiohead",
+    "score": 4,
+    "created_utc": 1748791040.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "List of songs by different artists",
+    "links": [],
+    "songs": [
+      "The End",
+      "Heroin",
+      "Karma Police"
+    ],
+    "artists": [
+      "The Doors",
+      "Velvet Underground",
+      "Radiohead"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfr5u2",
+    "author": "BabyTBone",
+    "body": "Funeral for a friend Elton John",
+    "score": 4,
+    "created_utc": 1748794894.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Elton John",
+    "links": [],
+    "songs": [
+      "Funeral for a Friend"
+    ],
+    "artists": [
+      "Elton John"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mviriwq",
+    "author": "AnywhereMajestic2377",
+    "body": "Bol\u00e9ro by Ravel.",
+    "score": 5,
+    "created_utc": 1748830304.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Bol\u00e9ro by Ravel",
+    "links": [],
+    "songs": [
+      "Bol\u00e9ro"
+    ],
+    "artists": [
+      "Ravel"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvj9n4a",
+    "author": "dankdabbler69420",
+    "body": "Phish",
+    "score": 4,
+    "created_utc": 1748837949.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The band Phish is a jam band known for their live performances.",
+    "links": [],
+    "songs": [],
+    "artists": [
+      "Phish"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvlogjk",
+    "author": "spooky_1962",
+    "body": "Ravel\u2019s Bolero",
+    "score": 4,
+    "created_utc": 1748877623.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Ravel's Bolero",
+    "links": [],
+    "songs": [
+      "Bolero"
+    ],
+    "artists": [
+      "Maurice Ravel"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfb1zz",
+    "author": "Fresh_Bubbles",
+    "body": "Of course, Stairway to Heaven.",
+    "score": 7,
+    "created_utc": 1748790047.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Stairway to Heaven is a song by Led Zeppelin.",
+    "links": [],
+    "songs": [
+      "Stairway to Heaven"
+    ],
+    "artists": [
+      "Led Zeppelin"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfoyce",
+    "author": "SkipK",
+    "body": "Lightning Crashes - Live",
+    "score": 6,
+    "created_utc": 1748794219.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Lightning Crashes",
+    "links": [],
+    "songs": [
+      "Lightning Crashes"
+    ],
+    "artists": []
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mveytn4",
+    "author": "AquietRive",
+    "body": "9 - three trapped tigers \n\nOne of my favorite pure electronic songs. Super ambient in the beginning, then gets more and more distorted and busy towards the end.",
+    "score": 3,
+    "created_utc": 1748786280.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "pure electronic songs",
+    "links": [],
+    "songs": [
+      "three trapped tigers"
+    ],
+    "artists": []
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf17v4",
+    "author": "piranspride",
+    "body": "Final Ascent - Zimmer",
+    "score": 3,
+    "created_utc": 1748787069.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Album name: Final Ascent by Hans Zimmer",
+    "links": [],
+    "songs": [],
+    "artists": [
+      "Hans Zimmer"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf2vi4",
+    "author": "BurningFarm",
+    "body": "Ravel - Bolero",
+    "score": 3,
+    "created_utc": 1748787594.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Ravel - Bolero",
+    "links": [],
+    "songs": [
+      "Bolero"
+    ],
+    "artists": [
+      "Ravel"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf58to",
+    "author": "None",
+    "body": "Ammonia Avenue by Alan Parsons Project.",
+    "score": 3,
+    "created_utc": 1748788337.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Album: Ammonia Avenue, Artist: Alan Parsons Project",
+    "links": [],
+    "songs": [],
+    "artists": [
+      "Alan Parsons Project"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf5xek",
+    "author": "RongGearRob",
+    "body": "In Every Dream Home A Heartache - Roxy Music",
+    "score": 3,
+    "created_utc": 1748788541.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: In Every Dream Home A Heartache by Roxy Music",
+    "links": [],
+    "songs": [
+      "In Every Dream Home A Heartache"
+    ],
+    "artists": [
+      "Roxy Music"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfhgat",
+    "author": "OgrePuffs",
+    "body": "Waiting for the Great Leap Forwards by Billy Bragg.",
+    "score": 3,
+    "created_utc": 1748791964.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: The Great Leap Forward, Artist: Billy Bragg",
+    "links": [],
+    "songs": [
+      "The Great Leap Forward"
+    ],
+    "artists": [
+      "Billy Bragg"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfo1ec",
+    "author": "TheChancre",
+    "body": "I Want You (She\u2019s So Heavy) by The Beatles",
+    "score": 3,
+    "created_utc": 1748793942.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name: I Want You (She's So Heavy), Artist: The Beatles",
+    "links": [],
+    "songs": [
+      "I Want You (She's So Heavy)"
+    ],
+    "artists": [
+      "The Beatles"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfviw0",
+    "author": "OppositeAct1918",
+    "body": "Bolero by Ravel hasn't been mentioned in a while. Though it is classical music and thus the wronggrnte, it has the best buildup. Kn fact, it IS buildup.",
+    "score": 3,
+    "created_utc": 1748796220.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Bolero by Ravel",
+    "links": [],
+    "songs": [
+      "Bolero"
+    ],
+    "artists": [
+      "Ravel"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfwj9b",
+    "author": "Parking-Complex-1880",
+    "body": "Lots of Radiohead songs",
+    "score": 3,
+    "created_utc": 1748796524.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Radiohead",
+    "links": [],
+    "songs": [
+      "Lots of"
+    ],
+    "artists": [
+      "Radiohead"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfwo5l",
+    "author": "Affectionate_Sir4212",
+    "body": "Starship Trooper - Yes",
+    "score": 3,
+    "created_utc": 1748796564.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Starship Trooper by Yes",
+    "links": [],
+    "songs": [
+      "Starship Trooper"
+    ],
+    "artists": [
+      "Yes"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfgsoi",
+    "author": "jennyflowers1130",
+    "body": "A Day in the Life by the Beatles",
+    "score": 6,
+    "created_utc": 1748791770.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: A Day in the Life, Artist: The Beatles",
+    "links": [],
+    "songs": [
+      "A Day in the Life"
+    ],
+    "artists": [
+      "The Beatles"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf4df4",
+    "author": "bwanabass",
+    "body": "White Rabbit",
+    "score": 4,
+    "created_utc": 1748788063.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: White Rabbit by Jefferson Airplane",
+    "links": [],
+    "songs": [
+      "White Rabbit"
+    ],
+    "artists": [
+      "Jefferson Airplane"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvez8uk",
+    "author": "Mr_Vacant",
+    "body": "Lately by Sea Power",
+    "score": 2,
+    "created_utc": 1748786420.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Lately by Sea Power",
+    "links": [],
+    "songs": [
+      "Lately"
+    ],
+    "artists": [
+      "Sea Power"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf0f89",
+    "author": "Fun_Championship_113",
+    "body": "Jon Hopkins - Open Eye Signal",
+    "score": 2,
+    "created_utc": 1748786810.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Artist: Jon Hopkins, Song/Track: Open Eye Signal",
+    "links": [],
+    "songs": [
+      "Open Eye Signal"
+    ],
+    "artists": [
+      "Jon Hopkins"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf0x17",
+    "author": "ParticularUpbeat",
+    "body": "LIVE - Pillar of Davidson \ud83d\udd25",
+    "score": 2,
+    "created_utc": 1748786972.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Live music event mention",
+    "links": [],
+    "songs": [
+      "Pillar of Davidson"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf1mn4",
+    "author": "51line_baccer",
+    "body": "Armored Saint - Another Day",
+    "score": 2,
+    "created_utc": 1748787201.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Armored Saint - Another Day",
+    "links": [],
+    "songs": [
+      "Another Day"
+    ],
+    "artists": [
+      "Armored Saint"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf3k8s",
+    "author": "thisssseason",
+    "body": "Colossus by Idles",
+    "score": 2,
+    "created_utc": 1748787809.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Album: Colossus, Artist: Idles",
+    "links": [],
+    "songs": [],
+    "artists": [
+      "Idles"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf5c5s",
+    "author": "BeenThruIt",
+    "body": "Fade To Black by Metallica",
+    "score": 2,
+    "created_utc": 1748788366.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Fade To Black, Artist: Metallica",
+    "links": [],
+    "songs": [
+      "Fade To Black"
+    ],
+    "artists": [
+      "Metallica"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf8r3g",
+    "author": "Finneagan",
+    "body": "Lonely Soul \u2014by UNKLE",
+    "score": 2,
+    "created_utc": 1748789362.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Lonely Soul by UNKLE",
+    "links": [],
+    "songs": [
+      "Lonely Soul"
+    ],
+    "artists": [
+      "UNKLE"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfa5ok",
+    "author": "shitthead480",
+    "body": "Contact by Daft Punk",
+    "score": 2,
+    "created_utc": 1748789777.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Daft Punk - Contact",
+    "links": [],
+    "songs": [
+      "Contact"
+    ],
+    "artists": [
+      "Daft Punk"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfbn0r",
+    "author": "Virtual_File8072",
+    "body": "Victim of Changes, Judas Priest.",
+    "score": 2,
+    "created_utc": 1748790223.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Judas Priest",
+    "links": [],
+    "songs": [
+      "Victim of Changes"
+    ],
+    "artists": [
+      "Judas Priest"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfd1tj",
+    "author": "KnoxStreetCharlie",
+    "body": "Let Down by Radiohead",
+    "score": 2,
+    "created_utc": 1748790647.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Let Down, Artist: Radiohead",
+    "links": [],
+    "songs": [
+      "Let Down"
+    ],
+    "artists": [
+      "Radiohead"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfdmel",
+    "author": "DolemiteMF1",
+    "body": "Black Sabbath-Black Sabbath",
+    "score": 2,
+    "created_utc": 1748790818.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Album name: Black Sabbath, Artist name: Black Sabbath",
+    "links": [],
+    "songs": [
+      "None mentioned"
+    ],
+    "artists": [
+      "Black Sabbath"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfg5f7",
+    "author": "FakeeshaNamerstein",
+    "body": "Godspeed You! Black Emperor",
+    "score": 2,
+    "created_utc": 1748791576.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Band name: Godspeed You! Black Emperor",
+    "links": [],
+    "songs": [],
+    "artists": [
+      "Godspeed You! Black Emperor"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfg7yq",
+    "author": "eddiebucket",
+    "body": "Starla - The Smashing Pumpkins",
+    "score": 2,
+    "created_utc": 1748791597.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The Smashing Pumpkins song 'Starla'",
+    "links": [],
+    "songs": [
+      "Starla"
+    ],
+    "artists": [
+      "The Smashing Pumpkins"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfgby9",
+    "author": "1_innocent_bystander",
+    "body": "Colossus, Idles",
+    "score": 2,
+    "created_utc": 1748791631.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Idles song \"Colossus\"",
+    "links": [],
+    "songs": [
+      "Colossus"
+    ],
+    "artists": [
+      "Idles"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfgf56",
+    "author": "1_innocent_bystander",
+    "body": "Little Black Submarines",
+    "score": 2,
+    "created_utc": 1748791658.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Little Black Submarines",
+    "links": [],
+    "songs": [
+      "Little Black Submarines"
+    ],
+    "artists": [
+      "The Black Keys"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfjkjx",
+    "author": "sand_and_mercury",
+    "body": "Depeche Mode: In Your Room\n\nDoesn't fit the details of your request, but most of the recommendations here don't. It just builds up really effectively.",
+    "score": 2,
+    "created_utc": 1748792595.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Depeche Mode: In Your Room",
+    "links": [],
+    "songs": [
+      "In Your Room"
+    ],
+    "artists": [
+      "Depeche Mode"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfk9lg",
+    "author": "insanecorgiposse",
+    "body": "Starship Trooper",
+    "score": 2,
+    "created_utc": 1748792802.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name: Starship Trooper",
+    "links": [],
+    "songs": [
+      "Starship Trooper"
+    ],
+    "artists": [
+      "EMERSON, LAKE & PALMER"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfln6l",
+    "author": "twobadmice76",
+    "body": "Stargazer by Rainbow",
+    "score": 2,
+    "created_utc": 1748793219.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Stargazer, Artist: Rainbow",
+    "links": [],
+    "songs": [
+      "Stargazer"
+    ],
+    "artists": [
+      "Rainbow"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfm90t",
+    "author": "Dry-Permit1472",
+    "body": "Bol\u00e8ro by Ravel",
+    "score": 2,
+    "created_utc": 1748793401.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Bolero by Ravel",
+    "links": [],
+    "songs": [
+      "Bolero"
+    ],
+    "artists": [
+      "Ravel"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfn79f",
+    "author": "sister-europe67",
+    "body": "February Stars by Foo Fighters",
+    "score": 2,
+    "created_utc": 1748793688.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "February Stars by Foo Fighters",
+    "links": [],
+    "songs": [
+      "February Stars"
+    ],
+    "artists": [
+      "Foo Fighters"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfnhf1",
+    "author": "innswood",
+    "body": "Ravel's Bolero \ud83d\ude01",
+    "score": 2,
+    "created_utc": 1748793773.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Ravel's Bolero is a famous orchestral piece",
+    "links": [],
+    "songs": [
+      "Bolero"
+    ],
+    "artists": [
+      "Maurice Ravel"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfoepw",
+    "author": "GeoffSobering",
+    "body": "Bolero",
+    "score": 2,
+    "created_utc": 1748794055.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name: Bolero",
+    "links": [],
+    "songs": [
+      "Bolero"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfp3yf",
+    "author": "Somedude1987-420",
+    "body": "Outro - M83",
+    "score": 2,
+    "created_utc": 1748794266.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "M83",
+    "links": [],
+    "songs": [
+      "M83"
+    ],
+    "artists": [
+      "M83 ( likely referring to the film composer, Hans Zimmer's score )"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfrl48",
+    "author": "tangueado",
+    "body": "Starless - King Crimson",
+    "score": 2,
+    "created_utc": 1748795023.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Starless, Artist: King Crimson",
+    "links": [],
+    "songs": [
+      "Starless"
+    ],
+    "artists": [
+      "King Crimson"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfs1ld",
+    "author": "Imaginaut27",
+    "body": "Madness by Muse",
+    "score": 2,
+    "created_utc": 1748795163.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Madness by Muse",
+    "links": [],
+    "songs": [
+      "Madness"
+    ],
+    "artists": [
+      "Muse"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfubbp",
+    "author": "Spamel334347",
+    "body": "Godspeed You! Black Emperor are the masters, try Storm or Sleep",
+    "score": 2,
+    "created_utc": 1748795856.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The band Godspeed You! Black Emperor is mentioned, and two song titles (Storm and Sleep) are mentioned.",
+    "links": [],
+    "songs": [
+      "Storm",
+      "Sleep"
+    ],
+    "artists": [
+      "Godspeed You! Black Emperor"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfuxno",
+    "author": "IllustriousLength318",
+    "body": "Sleep - Dopesmoker",
+    "score": 2,
+    "created_utc": 1748796043.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Dopesmoker is an album by Sleep, released in 2003",
+    "links": [],
+    "songs": [
+      "Dopesmoker"
+    ],
+    "artists": [
+      "Sleep"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvg00bi",
+    "author": "GentlemanForester",
+    "body": "Three Days by Jane's Addiction",
+    "score": 2,
+    "created_utc": 1748797550.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Three Days, Artist: Jane's Addiction",
+    "links": [],
+    "songs": [
+      "Three Days"
+    ],
+    "artists": [
+      "Jane's Addiction"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvg1odj",
+    "author": "Deepdarkorchid16",
+    "body": "Ravel's Bolero",
+    "score": 2,
+    "created_utc": 1748798044.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Ravel's Bolero",
+    "links": [],
+    "songs": [
+      "Bolero"
+    ],
+    "artists": [
+      "Maurice Ravel"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvg2wi6",
+    "author": "ApobangpoARMY",
+    "body": "Sea of Voices by Porter Robinson",
+    "score": 2,
+    "created_utc": 1748798399.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Sea of Voices is an album by Porter Robinson",
+    "links": [],
+    "songs": [
+      "Sea of Voices"
+    ],
+    "artists": [
+      "Porter Robinson"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvg7i52",
+    "author": "hariossa",
+    "body": "Maurice Ravel - Bolero",
+    "score": 2,
+    "created_utc": 1748799735.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Maurice Ravel - Bolero",
+    "links": [],
+    "songs": [
+      "Bolero"
+    ],
+    "artists": [
+      "Maurice Ravel"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvg90fb",
+    "author": "MurryScurry",
+    "body": "2+2=5 by Radiohead",
+    "score": 2,
+    "created_utc": 1748800167.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: 2+2=5, Artist: Radiohead",
+    "links": [],
+    "songs": [
+      "2+2=5"
+    ],
+    "artists": [
+      "Radiohead"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvgb51w",
+    "author": "Fbcoach18",
+    "body": "I have to go with an old standby of \"funeral for a friend\" by Elton John",
+    "score": 2,
+    "created_utc": 1748800782.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Funeral for a Friend song by Elton John",
+    "links": [],
+    "songs": [
+      "Funeral for a Friend"
+    ],
+    "artists": [
+      "Elton John"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvgdzzf",
+    "author": "playdaze",
+    "body": "Check out the post rock genre. \n\nGodspeed you black emperor \nMogwai\nDo make say think\nExplosions in the sky",
+    "score": 2,
+    "created_utc": 1748801619.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Post rock genre, artists and band names mentioned",
+    "links": [],
+    "songs": [],
+    "artists": [
+      "Godspeed you black emperor",
+      "Mogwai",
+      "Do Make Say Think",
+      "Explosions in the sky"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvgl8lx",
+    "author": "GunnerTinkle22",
+    "body": "In My Time of Dying; In the Light; Ten Years Gone, all from Zep...obviously Stairway fits the bill as well.\n\nMegalomania by Black Sabbath (my favorite song) is another good example I think.",
+    "score": 2,
+    "created_utc": 1748803789.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Zep refers to Led Zeppelin, mentioned songs are In My Time of Dying, In the Light, Ten Years Gone and Stairway. Artist Black Sabbath with song Megalomania.",
+    "links": [],
+    "songs": [
+      "In My Time of Dying",
+      "In the Light",
+      "Ten Years Gone",
+      "Stairway",
+      "Megalomania"
+    ],
+    "artists": [
+      "Led Zeppelin",
+      "Black Sabbath"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvglb48",
+    "author": "MadGeographer",
+    "body": "Moonlight Mile.  The rhythm section puts a leash on the pace. The band is tightly coiled until they let everything out at the end when Mick howls \u201con down the road\u2026yeah\u2026\u201d transitioning to a murmur and a plaintiff lead guitar. I\u2019d argue it\u2019s one of the most gorgeous and underrated passages in rock music.",
+    "score": 2,
+    "created_utc": 1748803810.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The song 'Moonlight Mile' by The Rolling Stones is mentioned as one of the most gorgeous and underrated passages in rock music.",
+    "links": [],
+    "songs": [
+      "Moonlight Mile"
+    ],
+    "artists": [
+      "The Rolling Stones"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvgq5zi",
+    "author": "thamaturge",
+    "body": "Bolero",
+    "score": 2,
+    "created_utc": 1748805279.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name: Bolero",
+    "links": [],
+    "songs": [
+      "Bolero"
+    ],
+    "artists": []
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvgqmpo",
+    "author": "Frehley666",
+    "body": "Jacob\u2019s Ladder - Rush",
+    "score": 2,
+    "created_utc": 1748805422.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "A song reference to a classic rock band's song",
+    "links": [],
+    "songs": [
+      "Jacob's Ladder"
+    ],
+    "artists": [
+      "Rush"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvgwyog",
+    "author": "Low-Swordfish-9014",
+    "body": "Too Late - 311",
+    "score": 2,
+    "created_utc": 1748807375.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Album: Too Late, Artist: 311",
+    "links": [],
+    "songs": [
+      "Too Late"
+    ],
+    "artists": [
+      "311"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvgx7aq",
+    "author": "crazydoglady64",
+    "body": "Getting stronger every day by Chicago",
+    "score": 2,
+    "created_utc": 1748807448.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The song \"Stronger\" by Chicago",
+    "links": [],
+    "songs": [
+      "Stronger"
+    ],
+    "artists": [
+      "Chicago"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 6 column 15 (char 136)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvh800m",
+    "author": "cheroc0420",
+    "body": "Have you heard of Phish???",
+    "score": 2,
+    "created_utc": 1748810739.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Phish is a well-known band.",
+    "links": [],
+    "songs": [],
+    "artists": [
+      "Phish"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvjmf99",
+    "author": "kettle54",
+    "body": "No Small Thing by Tears for Fears",
+    "score": 2,
+    "created_utc": 1748844487.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "No Small Thing is a song by the British band Tears for Fears.",
+    "links": [],
+    "songs": [
+      "No Small Thing"
+    ],
+    "artists": [
+      "Tears for Fears"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvl1642",
+    "author": "LukeMayeshothand",
+    "body": "Run Like an Antelope- Phish",
+    "score": 2,
+    "created_utc": 1748870396.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Run Like an Antelope, Artist: Phish",
+    "links": [],
+    "songs": [
+      "Run Like an Antelope"
+    ],
+    "artists": [
+      "Phish"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvoef11",
+    "author": "Scouseuserman",
+    "body": "Life eternal - ghost \n\nFirst song that came to mind",
+    "score": 2,
+    "created_utc": 1748906323.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name: Life Eternal, Artist: Ghost",
+    "links": [],
+    "songs": [
+      "Life Eternal"
+    ],
+    "artists": [
+      "Ghost"
+    ]
+  }
+}
+Error analyzing comment: Expecting ',' delimiter: line 6 column 22 (char 247)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfcs0e",
+    "author": "DolemiteMF1",
+    "body": "Sound of Silence-Disturbed",
+    "score": 5,
+    "created_utc": 1748790565.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The Sound of Silence by Disturbed",
+    "links": [],
+    "songs": [
+      "The Sound of Silence"
+    ],
+    "artists": [
+      "Disturbed"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mveyq3f",
+    "author": "No_Proof_2736",
+    "body": "Strange Dreams by Whiskey Myers",
+    "score": 1,
+    "created_utc": 1748786247.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Strange Dreams, Artist: Whiskey Myers",
+    "links": [],
+    "songs": [
+      "Strange Dreams"
+    ],
+    "artists": [
+      "Whiskey Myers"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvezinu",
+    "author": "JohnRittersSon",
+    "body": "Hamilton Leithauser - [Here They Come](https://open.spotify.com/track/60y3z4xCQhmhQ7cwqHGKzo?si=s0OyRQZLQN6uZOvpSqJ11w)",
+    "score": 1,
+    "created_utc": 1748786513.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Hamilton Leithauser - [Here They Come]",
+    "links": [
+      "https://open.spotify.com/track/60y3z4xCQhmhQ7cwqHGKzo?si=s0OyRQZLQN6uZOvpSqJ11w"
+    ],
+    "songs": [
+      "Here They Come"
+    ],
+    "artists": [
+      "Hamilton Leithauser"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf0n0r",
+    "author": "tohuvohu-light",
+    "body": "The Comedians by Roy Orbison",
+    "score": 1,
+    "created_utc": 1748786881.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The Comedians by Roy Orbison",
+    "links": [],
+    "songs": [
+      "The Comedians"
+    ],
+    "artists": [
+      "Roy Orbison"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf1cwh",
+    "author": "metermax",
+    "body": "505 - Arctic Monkies",
+    "score": 1,
+    "created_utc": 1748787114.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Arctic Monkeys is a British rock band.",
+    "links": [],
+    "songs": [],
+    "artists": [
+      "Arctic Monkeys"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting ',' delimiter: line 5 column 19 (char 139)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf1ljl",
+    "author": "BenedictTrynabenicer",
+    "body": "Leprous - *Distant Bells*",
+    "score": 1,
+    "created_utc": 1748787192.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Leprous - Distant Bells",
+    "links": [],
+    "songs": [
+      "*Distant Bells"
+    ],
+    "artists": [
+      "Leprous"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf21xq",
+    "author": "sharpied79",
+    "body": "Fearful Odds (M83 - Oblivion Soundtrack)",
+    "score": 1,
+    "created_utc": 1748787335.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The album name is Oblivion Soundtrack and the artist is M83. The song name is Fearful Odds.",
+    "links": [],
+    "songs": [
+      "Fearful Odds"
+    ],
+    "artists": [
+      "M83"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf29pk",
+    "author": "MartianDuk",
+    "body": "how do you sleep by LCD Soundystem is amazing, I also love Spanish Sahara by Foals and Stanlow by OMD for this",
+    "score": 1,
+    "created_utc": 1748787404.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "LCD Soundsystem - How Do You Sleep, Foals - Spanish Sahara, OMD - Stanlow",
+    "links": [],
+    "songs": [
+      "How Do You Sleep",
+      "Spanish Sahara",
+      "Stanlow"
+    ],
+    "artists": [
+      "LCD Soundystem",
+      "Foals",
+      "OMD"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf3q1t",
+    "author": "CherenkovLady",
+    "body": "[Untouchable part 1 by Anathema](https://youtu.be/av6sVWXeCWQ?si=2xINKMXceXSqlfl1)",
+    "score": 1,
+    "created_utc": 1748787859.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Anathema - Untouchable part 1",
+    "links": [
+      "https://youtu.be/av6sVWXeCWQ"
+    ],
+    "songs": [
+      "Untouchable part 1"
+    ],
+    "artists": [
+      "Anathema"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf4o8b",
+    "author": "Imaginary_Hedgehog39",
+    "body": "Since it's fresh in my mind, Infinite Baths by Sleep Token on their new album. The genre changes aren't everyone's cup of tea, but it has the benefit of a section that even sounds very Pink Floyd-ish.",
+    "score": 1,
+    "created_utc": 1748788157.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Infinite Baths by Sleep Token on their new album",
+    "links": [],
+    "songs": [
+      "Infinite Baths"
+    ],
+    "artists": [
+      "Sleep Token"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf4p17",
+    "author": "bellardyyc",
+    "body": "[Astronaut](https://youtu.be/uTaTQjgdioo?si=1eyVJfoblUKoazok) - City and Colour",
+    "score": 1,
+    "created_utc": 1748788165.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Astronaut by City and Colour, available on YouTube",
+    "links": [
+      "https://youtu.be/uTaTQjgdioo"
+    ],
+    "songs": [
+      "Astronaut"
+    ],
+    "artists": [
+      "City and Colour"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf4p3k",
+    "author": "kbunnell16",
+    "body": "Wake up- Gemini syndrome",
+    "score": 1,
+    "created_utc": 1748788165.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Gemini Syndrome is a music band",
+    "links": [],
+    "songs": [
+      "Wake Up"
+    ],
+    "artists": [
+      "Gemini Syndrome"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf5x9n",
+    "author": "Sunburys",
+    "body": "Echelon's song by Red Army Choir",
+    "score": 1,
+    "created_utc": 1748788540.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Red Army Choir - Echelon",
+    "links": [],
+    "songs": [
+      "Echelon"
+    ],
+    "artists": [
+      "Red Army Choir"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf684z",
+    "author": "Additional_Test_3727",
+    "body": "Guns n Roses - Double talkin jive. Four Tops - A simple game. Terry Callier - A dancing girl. Leprous - Out of here. Tim Buckley - Sweet surrender. Jeffrey Osborne - Plane love.",
+    "score": 1,
+    "created_utc": 1748788629.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "A list of song names from various artists",
+    "links": [],
+    "songs": [
+      "Double talkin jive",
+      "A simple game",
+      "A dancing girl",
+      "Out of here",
+      "Sweet surrender",
+      "Plane love"
+    ],
+    "artists": [
+      "Guns n Roses",
+      "Four Tops",
+      "Terry Callier",
+      "Leprous",
+      "Tim Buckley",
+      "Jeffrey Osborne"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf6qs0",
+    "author": "Phonics1979",
+    "body": "I hate to say it, but this is quite a build up.\n\nhttps://youtu.be/HUpBIRfoTwg?feature=shared",
+    "score": 1,
+    "created_utc": 1748788777.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Link to YouTube video",
+    "links": [
+      "https://youtu.be/HUpBIRfoTwg"
+    ],
+    "songs": [],
+    "artists": []
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf7vk5",
+    "author": "SquareTowel3931",
+    "body": "Any Tool song",
+    "score": 1,
+    "created_utc": 1748789104.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name: Any Tool",
+    "links": [],
+    "songs": [
+      "Any Tool"
+    ],
+    "artists": [
+      "Tool"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf821w",
+    "author": "ManaSeltzer",
+    "body": "Love from the stage by TEAM SLEEP \nhttps://youtu.be/AKPeZQkRz9E?si=2FSVe259Lct6dF9n",
+    "score": 1,
+    "created_utc": 1748789157.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "TEAM SLEEP song on YouTube",
+    "links": [
+      "https://youtu.be/AKPeZQkRz9E"
+    ],
+    "songs": [
+      "Love from the stage"
+    ],
+    "artists": [
+      "TEAM SLEEP"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf8a5l",
+    "author": "7865435",
+    "body": "King buffalo-acheron, cerebus. Most of king buffalo starts out slow then they kick it in the ass,the drummer has a kind of primal style, and the bass player is phenomenal, the guitarist is quite good too.",
+    "score": 1,
+    "created_utc": 1748789222.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "King Buffalo mentioned, known for their stoner rock sound",
+    "links": [],
+    "songs": [],
+    "artists": [
+      "King Buffalo"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf8ryr",
+    "author": "fancypantspartytime",
+    "body": "Non-Objective Portrait of Karma - Circle Takes the Square",
+    "score": 1,
+    "created_utc": 1748789369.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Album: Non-Objective Portrait of Karma, Artist: Circle Takes the Square",
+    "links": [],
+    "songs": [],
+    "artists": [
+      "Circle Takes the Square"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf9n6m",
+    "author": "PromEthian92",
+    "body": "Foals - Spanish Sahara",
+    "score": 1,
+    "created_utc": 1748789626.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song: Spanish Sahara by Foals",
+    "links": [],
+    "songs": [
+      "Spanish Sahara"
+    ],
+    "artists": [
+      "Foals"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvf9t68",
+    "author": "Several_Boss_6258",
+    "body": "[Tuff Luck](https://open.spotify.com/track/3ATjwsU9EMRkW7XuVEvH1E?si=fHTfSkJHTdC_t0nP_4LFGQ) - Seam\n\n[Seele Brennt](https://open.spotify.com/track/2IF0LuVIPxZs0wz42EPHqQ?si=WCin-HJJSKehTbaLJfdGvg) - Einst\u00fcrzende Neubauten",
+    "score": 1,
+    "created_utc": 1748789674.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Two music tracks mentioned: Tuff Luck by Seam and Seele Brennt by Einst\u00fcrzende Neubauten",
+    "links": [
+      "https://open.spotify.com/track/3ATjwsU9EMRkW7XuVEvH1E?si=fHTfSkJHTdC_t0nP_4LFGQ",
+      "https://open.spotify.com/track/2IF0LuVIPxZs0wz42EPHqQ?si=WCin-HJJSKehTbaLJfdGvg"
+    ],
+    "songs": [
+      "Tuff Luck",
+      "Seele Brennt"
+    ],
+    "artists": [
+      "Seam",
+      "Einst\u00fcrzende Neubauten"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfag6a",
+    "author": "Mcnab-at-my-feet",
+    "body": "Esmerelda by Ben Howard",
+    "score": 1,
+    "created_utc": 1748789865.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Song name: Esmerelda, Artist name: Ben Howard",
+    "links": [],
+    "songs": [
+      "Esmerelda"
+    ],
+    "artists": [
+      "Ben Howard"
+    ]
+  }
+}
+Error analyzing comment: Expecting value: line 1 column 1 (char 0)
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfavgk",
+    "author": "AnotherSideThree",
+    "body": "Feel the Benefit- 10cc",
+    "score": 1,
+    "created_utc": 1748789993.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Feel the Benefit is a song by the artist 10cc",
+    "links": [],
+    "songs": [
+      "Feel the Benefit"
+    ],
+    "artists": [
+      "10cc"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfbux5",
+    "author": "Playful-Childhood-15",
+    "body": "Chevalier De Sangreal by Hans Zimmer. It's beautiful.",
+    "score": 1,
+    "created_utc": 1748790289.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "Chevalier De Sangreal by Hans Zimmer",
+    "links": [],
+    "songs": [
+      "Chevalier De Sangreal"
+    ],
+    "artists": [
+      "Hans Zimmer"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfc70h",
+    "author": "RiffShark",
+    "body": "Sign of the times - three days grace\n\nSadness - RiffShark",
+    "score": 1,
+    "created_utc": 1748790392.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "The comment contains song and artist names",
+    "links": [],
+    "songs": [
+      "Sign of the times",
+      "Sadness"
+    ],
+    "artists": [
+      "Three Days Grace"
+    ]
+  }
+}
+
+🎵 Music-related comment found:
+{
+  "comment": {
+    "id": "mvfcze2",
+    "author": "fieldof_paperflowers",
+    "body": "Demolition Lovers - My Chemical Romance\n\nIt slows down in the middle, but it builds back up again. I guess it\u2019s up to you to decide if this counts lol",
+    "score": 1,
+    "created_utc": 1748790626.0,
+    "parent_id": "t3_1l0phg7"
+  },
+  "analysis": {
+    "has_music": true,
+    "extracted_info": "My Chemical Romance - Demolition Lovers",
+    "links": [],
+    "songs": [
+      "Demolition Lovers"
+    ],
+    "artists": [
+      "My Chemical Romance"
+    ]
+  }
+}
