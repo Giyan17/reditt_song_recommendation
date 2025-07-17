@@ -9,8 +9,8 @@ song_name = sys.argv[1]
 client = Client(host="http://localhost:11434")
 
 # File containing Reddit comments
-comments_file = f"./comments_data_from_reditt_{song_name}.json"
-output_file = f"filtered_music_comments_for_{song_name}.json"
+comments_file = f"./comment_calling_logs/comments_data_from_reditt_{song_name}.json"
+output_file = f"filter_comment_openai_logs/filtered_music_comments_for_{song_name}.json"
 
 # Function to check if a comment contains music-related content
 def analyze_comment_for_music(comment_text):

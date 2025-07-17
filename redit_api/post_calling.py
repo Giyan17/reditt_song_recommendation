@@ -67,7 +67,7 @@ for subreddit_name in subreddits_to_search:
     except Exception as e:
         print(f"⚠️ Error searching r/{subreddit_name}: {e}")
 
-file_path = f"posts_data_from_reditt_{song_name}.json"
+file_path = f"post_calling_logs/posts_data_from_reditt_{song_name}.json"
 
 with open(file_path, "w") as f:
     json.dump(list_of_post, f, indent=2) 

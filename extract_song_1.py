@@ -3,7 +3,7 @@ import sys
 
 song_name = sys.argv[1]
 # Input file with full JSON array
-file_path = f"filtered_music_comments_for_{song_name}.json"
+file_path = f"filter_comment_openai_logs/filtered_music_comments_for_{song_name}.json"
 output_path = f"unique_songs_output_{song_name}.json"
 
 # Set to store unique songs while preserving order
