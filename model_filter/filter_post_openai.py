@@ -6,10 +6,10 @@ import sys
 song_name = sys.argv[1]
 
 # JSON file containing Reddit posts
-file_path = f"./posts_data_from_reditt_{song_name}.json"
+file_path = f"./post_calling_logs/posts_data_from_reditt_{song_name}.json"
 
 # Output file to store matching posts
-output_file = f"filtered_posts_for_{song_name}.json"
+output_file = f"filter_post_openai_logs/filtered_posts_for_{song_name}.json"
 
 # Initialize the Ollama client
 client = Client(host="http://localhost:11434")

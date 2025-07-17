@@ -5,8 +5,8 @@ import sys
 song_name = sys.argv[1]
 
 # Input and output file paths
-input_file_path = f"./filtered_posts_for_{song_name}.json"
-output_file_path = f"comments_data_from_reditt_{song_name}.json"
+input_file_path = f"./filter_post_openai_logs/filtered_posts_for_{song_name}.json"
+output_file_path = f"comment_calling_logs/comments_data_from_reditt_{song_name}.json"
 
 # Initialize Reddit API client
 reddit = praw.Reddit(
